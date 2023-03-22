@@ -1,0 +1,11 @@
+[14-Jun-2018 12:28:21 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/demo/funciones/botones.php on line 5
+[24-Jul-2018 09:44:06 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/demo/funciones/botones.php on line 5
+[04-Aug-2018 14:03:23 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/demo/funciones/botones.php on line 5
+[04-Aug-2018 17:59:12 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/demo/funciones/botones.php on line 5
+[05-Aug-2018 08:23:49 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/demo/funciones/botones.php on line 5
+[09-Aug-2018 17:24:44 UTC] PHP Notice:  Undefined index: codigo_user in /home/farmasi1/public_html/demo/principal/session_user.php on line 7
+[09-Aug-2018 17:24:44 UTC] PHP Notice:  Undefined index: resolucion in /home/farmasi1/public_html/demo/principal/session_user.php on line 8
+[10-Sep-2018 01:30:35 UTC] PHP Notice:  Undefined index: codigo_user in /home/farmasi1/public_html/demo/principal/session_user.php on line 7
+[10-Sep-2018 01:30:35 UTC] PHP Notice:  Undefined index: resolucion in /home/farmasi1/public_html/demo/principal/session_user.php on line 8
+[12-Nov-2018 19:47:43 America/Lima] PHP Notice:  Undefined index: codigo_user in /home/farmasi1/public_html/demo/principal/session_user.php on line 7
+[12-Nov-2018 19:47:43 America/Lima] PHP Notice:  Undefined index: resolucion in /home/farmasi1/public_html/demo/principal/session_user.php on line 8

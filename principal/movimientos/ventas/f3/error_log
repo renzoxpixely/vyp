@@ -1,0 +1,1365 @@
+[14-Aug-2018 11:23:58 America/Lima] PHP Notice:  Undefined index: val in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/f2.php on line 92
+[14-Aug-2018 11:23:58 America/Lima] PHP Fatal error:  Cannot redeclare CalculaHora() (previously declared in /home/farmasi1/public_html/demo/conexion.php:35) in /home/farmasi1/public_html/demo/conexion.php on line 82
+[14-Aug-2018 11:33:14 America/Lima] PHP Notice:  Undefined index: val in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/f2.php on line 92
+[14-Aug-2018 11:33:14 America/Lima] PHP Fatal error:  Cannot redeclare CalculaHora() (previously declared in /home/farmasi1/public_html/demo/conexion.php:35) in /home/farmasi1/public_html/demo/conexion.php on line 82
+[03-Sep-2018 13:22:52 America/Lima] PHP Notice:  Undefined index: val in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/f2.php on line 92
+[03-Sep-2018 13:22:52 America/Lima] PHP Fatal error:  Cannot redeclare CalculaHora() (previously declared in /home/farmasi1/public_html/demo/conexion.php:35) in /home/farmasi1/public_html/demo/conexion.php on line 82
+[03-Sep-2018 15:46:30 America/Lima] PHP Notice:  Undefined index: val in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/f2.php on line 92
+[03-Sep-2018 15:46:30 America/Lima] PHP Fatal error:  Cannot redeclare CalculaHora() (previously declared in /home/farmasi1/public_html/demo/conexion.php:35) in /home/farmasi1/public_html/demo/conexion.php on line 82
+[03-Sep-2018 15:52:48 America/Lima] PHP Fatal error:  Cannot redeclare CalculaHora() (previously declared in /home/farmasi1/public_html/demo/conexion.php:35) in /home/farmasi1/public_html/demo/conexion.php on line 82
+[25-Sep-2018 18:55:38 America/Lima] PHP Notice:  Undefined index: distrito in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/cliente_reg.php on line 11
+[16-Oct-2018 20:51:51 America/Lima] PHP Notice:  Undefined index: distrito in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/cliente_reg.php on line 11
+[06-Nov-2018 10:43:12 America/Lima] PHP Notice:  Undefined index: distrito in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/cliente_reg.php on line 11
+[10-Nov-2018 10:38:15 America/Lima] PHP Notice:  Undefined index: distrito in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/cliente_reg.php on line 11
+[06-Dec-2018 09:56:33 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 09:56:33 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 09:56:34 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 09:56:35 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 09:56:35 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:53 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:53 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:53 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:53 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:53 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:53 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:55 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:55 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:56 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:56 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:56 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:56 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:56 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:57 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:57 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:19:58 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:20:06 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[06-Dec-2018 22:20:07 America/Lima] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 50
+[15-Dec-2018 14:12:05 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:12:06 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:12:10 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:12:10 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:12:11 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:12:13 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:14:27 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:14:33 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:14:34 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:14:34 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:14:35 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[15-Dec-2018 14:14:35 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/demo/principal/movimientos/ventas/f2/ajax-list-countries.php on line 23
+[23-Apr-2019 20:23:38 America/Lima] Caducidad: 1440
+[23-Apr-2019 20:23:38 America/Lima] Caducidad despu√©s: 86400
+[23-Apr-2019 20:23:42 America/Lima] Caducidad: 1440
+[23-Apr-2019 20:23:42 America/Lima] Caducidad despu√©s: 86400
+[23-Apr-2019 20:25:13 America/Lima] Caducidad: 1440
+[23-Apr-2019 20:25:13 America/Lima] Caducidad despu√©s: 86400
+[23-Apr-2019 20:25:18 America/Lima] Caducidad: 1440
+[23-Apr-2019 20:25:18 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 13:24:33 America/Lima] Caducidad: 1440
+[24-Apr-2019 13:24:33 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 13:24:44 America/Lima] Caducidad: 1440
+[24-Apr-2019 13:24:44 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 13:25:03 America/Lima] Caducidad: 1440
+[24-Apr-2019 13:25:03 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 13:25:11 America/Lima] Caducidad: 1440
+[24-Apr-2019 13:25:11 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 16:31:50 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:31:50 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 16:32:00 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:32:00 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 16:33:19 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:33:19 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 16:33:39 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:33:39 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 16:45:11 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:45:11 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 16:45:22 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:45:22 America/Lima] Caducidad despu√©s: 86400
+[24-Apr-2019 16:46:46 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:46:46 America/Lima] Caducidad despu√©s: 86400
+[29-Apr-2019 12:45:34 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:45:34 America/Lima] Caducidad despu√©s: 86400
+[29-Apr-2019 12:45:40 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:45:40 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 05:00:06 America/Lima] Caducidad: 1440
+[03-May-2019 05:00:06 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 05:00:19 America/Lima] Caducidad: 1440
+[03-May-2019 05:00:19 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 05:01:20 America/Lima] Caducidad: 1440
+[03-May-2019 05:01:20 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 05:01:33 America/Lima] Caducidad: 1440
+[03-May-2019 05:01:33 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 05:59:05 America/Lima] Caducidad: 1440
+[03-May-2019 05:59:05 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 05:59:12 America/Lima] Caducidad: 1440
+[03-May-2019 05:59:12 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:15:33 America/Lima] Caducidad: 1440
+[03-May-2019 08:15:33 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:15:36 America/Lima] Caducidad: 1440
+[03-May-2019 08:15:36 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:15:50 America/Lima] Caducidad: 1440
+[03-May-2019 08:15:50 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:15:54 America/Lima] Caducidad: 1440
+[03-May-2019 08:15:54 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:18:48 America/Lima] Caducidad: 1440
+[03-May-2019 08:18:48 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:18:54 America/Lima] Caducidad: 1440
+[03-May-2019 08:18:54 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:21:40 America/Lima] Caducidad: 1440
+[03-May-2019 08:21:40 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:21:46 America/Lima] Caducidad: 1440
+[03-May-2019 08:21:46 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:28:58 America/Lima] Caducidad: 1440
+[03-May-2019 08:28:58 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:29:02 America/Lima] Caducidad: 1440
+[03-May-2019 08:29:02 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:38:48 America/Lima] Caducidad: 1440
+[03-May-2019 08:38:48 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:38:52 America/Lima] Caducidad: 1440
+[03-May-2019 08:38:52 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:41:25 America/Lima] Caducidad: 1440
+[03-May-2019 08:41:25 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:41:33 America/Lima] Caducidad: 1440
+[03-May-2019 08:41:33 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:41:43 America/Lima] Caducidad: 1440
+[03-May-2019 08:41:43 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:41:47 America/Lima] Caducidad: 1440
+[03-May-2019 08:41:47 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:41:50 America/Lima] Caducidad: 1440
+[03-May-2019 08:41:50 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:41:56 America/Lima] Caducidad: 1440
+[03-May-2019 08:41:56 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:42:01 America/Lima] Caducidad: 1440
+[03-May-2019 08:42:01 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:42:06 America/Lima] Caducidad: 1440
+[03-May-2019 08:42:06 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:42:09 America/Lima] Caducidad: 1440
+[03-May-2019 08:42:09 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:42:13 America/Lima] Caducidad: 1440
+[03-May-2019 08:42:13 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:44:13 America/Lima] Caducidad: 1440
+[03-May-2019 08:44:13 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:44:17 America/Lima] Caducidad: 1440
+[03-May-2019 08:44:17 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:44:20 America/Lima] Caducidad: 1440
+[03-May-2019 08:44:20 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:44:25 America/Lima] Caducidad: 1440
+[03-May-2019 08:44:25 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:44:29 America/Lima] Caducidad: 1440
+[03-May-2019 08:44:29 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:44:34 America/Lima] Caducidad: 1440
+[03-May-2019 08:44:34 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:45:27 America/Lima] Caducidad: 1440
+[03-May-2019 08:45:27 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 08:45:30 America/Lima] Caducidad: 1440
+[03-May-2019 08:45:30 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:02:07 America/Lima] Caducidad: 1440
+[03-May-2019 09:02:07 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:02:16 America/Lima] Caducidad: 1440
+[03-May-2019 09:02:16 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:11:53 America/Lima] Caducidad: 1440
+[03-May-2019 09:11:53 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:12:02 America/Lima] Caducidad: 1440
+[03-May-2019 09:12:02 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:12:07 America/Lima] Caducidad: 1440
+[03-May-2019 09:12:07 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:12:14 America/Lima] Caducidad: 1440
+[03-May-2019 09:12:14 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:12:19 America/Lima] Caducidad: 1440
+[03-May-2019 09:12:19 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:12:31 America/Lima] Caducidad: 1440
+[03-May-2019 09:12:31 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:12:35 America/Lima] Caducidad: 1440
+[03-May-2019 09:12:35 America/Lima] Caducidad despu√©s: 86400
+[03-May-2019 09:18:40 America/Lima] Caducidad: 1440
+[03-May-2019 09:18:40 America/Lima] Caducidad despu√©s: 86400
+[10-May-2019 08:19:53 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:53 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:55 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:55 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:57 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:58 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:58 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:58 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:59 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:19:59 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:20:00 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[10-May-2019 08:20:01 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[13-May-2019 12:32:11 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/novafarma/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[27-May-2019 23:36:12 America/Lima] Caducidad: 1440
+[27-May-2019 23:36:12 America/Lima] Caducidad despu√©s: 86400
+[27-May-2019 23:36:16 America/Lima] Caducidad: 1440
+[27-May-2019 23:36:16 America/Lima] Caducidad despu√©s: 86400
+[28-May-2019 06:58:26 America/Lima] Caducidad: 1440
+[28-May-2019 06:58:26 America/Lima] Caducidad despu√©s: 86400
+[28-May-2019 06:59:07 America/Lima] Caducidad: 1440
+[28-May-2019 06:59:07 America/Lima] Caducidad despu√©s: 86400
+[28-May-2019 07:07:14 America/Lima] Caducidad: 1440
+[28-May-2019 07:07:14 America/Lima] Caducidad despu√©s: 86400
+[28-May-2019 07:07:27 America/Lima] Caducidad: 1440
+[28-May-2019 07:07:27 America/Lima] Caducidad despu√©s: 86400
+[28-May-2019 07:15:47 America/Lima] Caducidad: 1440
+[28-May-2019 07:15:47 America/Lima] Caducidad despu√©s: 86400
+[28-May-2019 07:15:57 America/Lima] Caducidad: 1440
+[28-May-2019 07:15:57 America/Lima] Caducidad despu√©s: 86400
+[03-Jun-2019 16:08:31 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:08:31 America/Lima] Caducidad despu√©s: 86400
+[03-Jun-2019 16:08:43 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:08:43 America/Lima] Caducidad despu√©s: 86400
+[04-Jun-2019 15:39:15 America/Lima] Caducidad: 1440
+[04-Jun-2019 15:39:15 America/Lima] Caducidad despu√©s: 86400
+[04-Jun-2019 15:39:15 America/Lima] Termin√≥ la sesi√≥n 
+[04-Jun-2019 15:39:26 America/Lima] Caducidad: 1440
+[04-Jun-2019 15:39:26 America/Lima] Caducidad despu√©s: 86400
+[04-Jun-2019 15:39:29 America/Lima] Caducidad: 1440
+[04-Jun-2019 15:39:29 America/Lima] Caducidad despu√©s: 86400
+[04-Jun-2019 15:42:48 America/Lima] Caducidad: 1440
+[04-Jun-2019 15:42:48 America/Lima] Caducidad despu√©s: 86400
+[04-Jun-2019 15:42:52 America/Lima] Caducidad: 1440
+[04-Jun-2019 15:42:52 America/Lima] Caducidad despu√©s: 86400
+[04-Jun-2019 15:43:45 America/Lima] Caducidad: 1440
+[04-Jun-2019 15:43:45 America/Lima] Caducidad despu√©s: 86400
+[04-Jun-2019 15:43:49 America/Lima] Caducidad: 1440
+[04-Jun-2019 15:43:49 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:30:26 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:30:26 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:30:30 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:30:30 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:35:58 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:35:58 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:36:03 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:36:03 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:40:55 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:40:55 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:40:59 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:40:59 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:49:51 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:49:51 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:49:56 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:49:56 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:50:02 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:50:02 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:50:07 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:50:07 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:59:41 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:59:41 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 07:59:46 America/Lima] Caducidad: 1440
+[05-Jun-2019 07:59:46 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 08:22:55 America/Lima] Caducidad: 1440
+[05-Jun-2019 08:22:55 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 08:23:02 America/Lima] Caducidad: 1440
+[05-Jun-2019 08:23:02 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 11:28:35 America/Lima] Caducidad: 1440
+[05-Jun-2019 11:28:35 America/Lima] Caducidad despu√©s: 86400
+[05-Jun-2019 11:28:44 America/Lima] Caducidad: 1440
+[05-Jun-2019 11:28:44 America/Lima] Caducidad despu√©s: 86400
+[10-Jun-2019 12:56:27 America/Lima] Caducidad: 1440
+[10-Jun-2019 12:56:27 America/Lima] Caducidad despu√©s: 86400
+[10-Jun-2019 13:12:39 America/Lima] Caducidad: 1440
+[10-Jun-2019 13:12:39 America/Lima] Caducidad despu√©s: 86400
+[10-Jun-2019 13:12:46 America/Lima] Caducidad: 1440
+[10-Jun-2019 13:12:46 America/Lima] Caducidad despu√©s: 86400
+[10-Jun-2019 13:27:34 America/Lima] Caducidad: 1440
+[10-Jun-2019 13:27:34 America/Lima] Caducidad despu√©s: 86400
+[18-Jun-2019 21:12:42 America/Lima] Caducidad: 1440
+[18-Jun-2019 21:12:42 America/Lima] Caducidad despu√©s: 86400
+[18-Jun-2019 22:20:07 America/Lima] Caducidad: 1440
+[18-Jun-2019 22:20:07 America/Lima] Caducidad despu√©s: 86400
+[18-Jun-2019 22:20:12 America/Lima] Caducidad: 1440
+[18-Jun-2019 22:20:12 America/Lima] Caducidad despu√©s: 86400
+[18-Jun-2019 22:58:26 America/Lima] Caducidad: 1440
+[18-Jun-2019 22:58:26 America/Lima] Caducidad despu√©s: 86400
+[18-Jun-2019 22:58:29 America/Lima] Caducidad: 1440
+[18-Jun-2019 22:58:29 America/Lima] Caducidad despu√©s: 86400
+[12-Jul-2019 13:41:55 America/Lima] Caducidad: 1440
+[12-Jul-2019 13:41:55 America/Lima] Caducidad despu®¶s: 86400
+[17-Jul-2019 16:35:04 America/Lima] Caducidad: 1440
+[17-Jul-2019 16:35:04 America/Lima] Caducidad despu®¶s: 86400
+[18-Jul-2019 09:23:11 America/Lima] Caducidad: 1440
+[18-Jul-2019 09:23:11 America/Lima] Caducidad despu®¶s: 86400
+[18-Jul-2019 10:15:10 America/Lima] Caducidad: 1440
+[18-Jul-2019 10:15:10 America/Lima] Caducidad despu®¶s: 86400
+[18-Jul-2019 10:21:47 America/Lima] Caducidad: 1440
+[18-Jul-2019 10:21:47 America/Lima] Caducidad despu®¶s: 86400
+[19-Jul-2019 10:23:38 America/Lima] Caducidad: 1440
+[19-Jul-2019 10:23:38 America/Lima] Caducidad despu®¶s: 86400
+[19-Jul-2019 14:04:55 America/Lima] Caducidad: 1440
+[19-Jul-2019 14:04:55 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 10:12:53 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:12:53 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 10:17:01 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:17:01 America/Lima] Caducidad despu®¶s: 86400
+[23-Jul-2019 10:47:49 America/Lima] Caducidad: 1440
+[23-Jul-2019 10:47:49 America/Lima] Caducidad despu®¶s: 86400
+[23-Jul-2019 10:47:59 America/Lima] Caducidad: 1440
+[23-Jul-2019 10:47:59 America/Lima] Caducidad despu®¶s: 86400
+[25-Jul-2019 17:38:16 America/Lima] Caducidad: 1440
+[25-Jul-2019 17:38:16 America/Lima] Caducidad despu®¶s: 86400
+[25-Jul-2019 17:38:18 America/Lima] Caducidad: 1440
+[25-Jul-2019 17:38:18 America/Lima] Caducidad despu®¶s: 86400
+[31-Jul-2019 13:11:48 America/Lima] Caducidad: 1440
+[31-Jul-2019 13:11:48 America/Lima] Caducidad despu®¶s: 86400
+[01-Aug-2019 20:12:44 America/Lima] Caducidad: 1440
+[01-Aug-2019 20:12:44 America/Lima] Caducidad despu®¶s: 86400
+[15-Aug-2019 14:55:10 America/Lima] Caducidad: 1440
+[15-Aug-2019 14:55:10 America/Lima] Caducidad despu®¶s: 86400
+[22-Aug-2019 15:08:23 America/Lima] Caducidad: 1440
+[22-Aug-2019 15:08:24 America/Lima] Caducidad despu®¶s: 86400
+[22-Aug-2019 15:08:30 America/Lima] Caducidad: 1440
+[22-Aug-2019 15:08:30 America/Lima] Caducidad despu®¶s: 86400
+[22-Aug-2019 15:54:19 America/Lima] Caducidad: 1440
+[22-Aug-2019 15:54:19 America/Lima] Caducidad despu®¶s: 86400
+[22-Aug-2019 15:54:28 America/Lima] Caducidad: 1440
+[22-Aug-2019 15:54:28 America/Lima] Caducidad despu®¶s: 86400
+[22-Aug-2019 15:59:51 America/Lima] Caducidad: 1440
+[22-Aug-2019 15:59:51 America/Lima] Caducidad despu®¶s: 86400
+[22-Aug-2019 16:00:04 America/Lima] Caducidad: 1440
+[22-Aug-2019 16:00:04 America/Lima] Caducidad despu®¶s: 86400
+[10-Sep-2019 09:58:57 America/Lima] Caducidad: 1440
+[10-Sep-2019 09:58:57 America/Lima] Caducidad despu®¶s: 86400
+[20-Sep-2019 14:18:49 America/Lima] Caducidad: 1440
+[20-Sep-2019 14:18:49 America/Lima] Caducidad despu®¶s: 86400
+[20-Sep-2019 14:19:10 America/Lima] Caducidad: 1440
+[20-Sep-2019 14:19:10 America/Lima] Caducidad despu®¶s: 86400
+[20-Sep-2019 14:19:22 America/Lima] Caducidad: 1440
+[20-Sep-2019 14:19:22 America/Lima] Caducidad despu®¶s: 86400
+[24-Sep-2019 15:50:48 America/Lima] Caducidad: 1440
+[24-Sep-2019 15:50:48 America/Lima] Caducidad despu®¶s: 86400
+[24-Sep-2019 15:50:51 America/Lima] Caducidad: 1440
+[24-Sep-2019 15:50:51 America/Lima] Caducidad despu®¶s: 86400
+[25-Sep-2019 10:34:59 America/Lima] Caducidad: 1440
+[25-Sep-2019 10:34:59 America/Lima] Caducidad despu®¶s: 86400
+[25-Sep-2019 10:35:03 America/Lima] Caducidad: 1440
+[25-Sep-2019 10:35:03 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:35:15 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:35:15 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:35:29 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:35:29 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:35:42 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:35:42 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:36:31 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:36:31 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:36:59 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:36:59 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:37:22 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:37:22 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:39:30 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:39:30 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:39:33 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:39:33 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:40:11 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:40:11 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:40:29 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:40:29 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:41:40 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:41:40 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:41:44 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:41:44 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:41:58 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:41:58 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:42:04 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:42:04 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:43:55 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:43:55 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:44:09 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:44:09 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:44:19 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:44:19 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:45:15 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:45:15 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:45:20 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:45:20 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:45:29 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:45:29 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:45:37 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:45:37 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:46:55 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:46:55 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:47:00 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:47:00 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:47:08 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:47:08 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:47:16 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:47:16 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:47:23 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:47:23 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:47:32 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:47:32 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:48:09 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:48:09 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:48:22 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:48:22 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:48:27 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:48:27 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:48:31 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:48:31 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:48:35 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:48:35 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:48:40 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:48:40 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:49:56 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:49:56 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2019 11:50:01 America/Lima] Caducidad: 1440
+[26-Sep-2019 11:50:01 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 09:54:05 America/Lima] Caducidad: 1440
+[29-Sep-2019 09:54:05 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:55:42 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:55:42 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:55:45 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:55:45 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:56:27 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:56:27 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:56:33 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:56:33 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:56:49 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:56:49 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:56:53 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:56:53 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:57:12 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:57:12 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2019 10:57:17 America/Lima] Caducidad: 1440
+[29-Sep-2019 10:57:17 America/Lima] Caducidad despu®¶s: 86400
+[30-Sep-2019 14:19:40 America/Lima] Caducidad: 1440
+[30-Sep-2019 14:19:40 America/Lima] Caducidad despu®¶s: 86400
+[30-Sep-2019 14:19:45 America/Lima] Caducidad: 1440
+[30-Sep-2019 14:19:45 America/Lima] Caducidad despu®¶s: 86400
+[04-Oct-2019 12:54:43 America/Lima] Caducidad: 1440
+[04-Oct-2019 12:54:43 America/Lima] Caducidad despu®¶s: 86400
+[04-Oct-2019 12:54:45 America/Lima] Caducidad: 1440
+[04-Oct-2019 12:54:45 America/Lima] Caducidad despu®¶s: 86400
+[04-Oct-2019 12:54:49 America/Lima] Caducidad: 1440
+[04-Oct-2019 12:54:49 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 13:58:11 America/Lima] Caducidad: 1440
+[07-Oct-2019 13:58:11 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 13:58:14 America/Lima] Caducidad: 1440
+[07-Oct-2019 13:58:14 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 14:09:11 America/Lima] Caducidad: 1440
+[07-Oct-2019 14:09:11 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 14:09:21 America/Lima] Caducidad: 1440
+[07-Oct-2019 14:09:21 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 14:09:27 America/Lima] Caducidad: 1440
+[07-Oct-2019 14:09:27 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 14:09:31 America/Lima] Caducidad: 1440
+[07-Oct-2019 14:09:31 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 14:11:10 America/Lima] Caducidad: 1440
+[07-Oct-2019 14:11:10 America/Lima] Caducidad despu®¶s: 86400
+[07-Oct-2019 14:11:23 America/Lima] Caducidad: 1440
+[07-Oct-2019 14:11:23 America/Lima] Caducidad despu®¶s: 86400
+[11-Oct-2019 02:35:40 America/Lima] Caducidad: 1440
+[11-Oct-2019 02:35:40 America/Lima] Caducidad despu®¶s: 86400
+[11-Oct-2019 02:38:15 America/Lima] Caducidad: 1440
+[11-Oct-2019 02:38:15 America/Lima] Caducidad despu®¶s: 86400
+[11-Oct-2019 02:42:09 America/Lima] Caducidad: 1440
+[11-Oct-2019 02:42:09 America/Lima] Caducidad despu®¶s: 86400
+[11-Oct-2019 02:49:29 America/Lima] Caducidad: 1440
+[11-Oct-2019 02:49:29 America/Lima] Caducidad despu®¶s: 86400
+[11-Oct-2019 02:52:00 America/Lima] Caducidad: 1440
+[11-Oct-2019 02:52:00 America/Lima] Caducidad despu®¶s: 86400
+[11-Oct-2019 02:54:55 America/Lima] Caducidad: 1440
+[11-Oct-2019 02:54:55 America/Lima] Caducidad despu®¶s: 86400
+[12-Oct-2019 11:22:00 America/Lima] Caducidad: 1440
+[12-Oct-2019 11:22:00 America/Lima] Caducidad despu®¶s: 86400
+[16-Oct-2019 16:31:55 America/Lima] Caducidad: 1440
+[16-Oct-2019 16:31:55 America/Lima] Caducidad despu®¶s: 86400
+[16-Oct-2019 16:33:16 America/Lima] Caducidad: 1440
+[16-Oct-2019 16:33:16 America/Lima] Caducidad despu®¶s: 86400
+[08-Nov-2019 14:15:34 America/Lima] Caducidad: 1440
+[08-Nov-2019 14:15:34 America/Lima] Caducidad despu®¶s: 86400
+[23-Nov-2019 09:27:04 America/Lima] Caducidad: 1440
+[23-Nov-2019 09:27:04 America/Lima] Caducidad despu®¶s: 86400
+[23-Nov-2019 14:51:30 America/Lima] Caducidad: 1440
+[23-Nov-2019 14:51:30 America/Lima] Caducidad despu®¶s: 86400
+[23-Nov-2019 14:51:34 America/Lima] Caducidad: 1440
+[23-Nov-2019 14:51:34 America/Lima] Caducidad despu®¶s: 86400
+[30-Nov-2019 14:27:21 America/Lima] Caducidad: 1440
+[30-Nov-2019 14:27:21 America/Lima] Caducidad despu®¶s: 86400
+[07-Dec-2019 12:54:45 America/Lima] Caducidad: 1440
+[07-Dec-2019 12:54:45 America/Lima] Caducidad despu®¶s: 86400
+[07-Dec-2019 12:54:57 America/Lima] Caducidad: 1440
+[07-Dec-2019 12:54:57 America/Lima] Caducidad despu®¶s: 86400
+[13-Dec-2019 19:06:33 America/Lima] Caducidad: 1440
+[13-Dec-2019 19:06:33 America/Lima] Caducidad despu®¶s: 86400
+[18-Dec-2019 18:01:17 America/Lima] Caducidad: 1440
+[18-Dec-2019 18:01:17 America/Lima] Caducidad despu®¶s: 86400
+[23-Dec-2019 18:31:18 America/Lima] Caducidad: 1440
+[23-Dec-2019 18:31:18 America/Lima] Caducidad despu®¶s: 86400
+[23-Dec-2019 19:53:21 America/Lima] Caducidad: 1440
+[23-Dec-2019 19:53:21 America/Lima] Caducidad despu®¶s: 86400
+[11-Jan-2020 13:25:20 America/Lima] Caducidad: 1440
+[11-Jan-2020 13:25:20 America/Lima] Caducidad despu®¶s: 86400
+[22-Jan-2020 15:58:32 America/Lima] Caducidad: 1440
+[22-Jan-2020 15:58:32 America/Lima] Caducidad despu®¶s: 86400
+[28-Jan-2020 22:18:39 America/Lima] Caducidad: 1440
+[28-Jan-2020 22:18:39 America/Lima] Caducidad despu®¶s: 86400
+[05-Feb-2020 22:14:56 America/Lima] Caducidad: 1440
+[05-Feb-2020 22:14:56 America/Lima] Caducidad despu®¶s: 86400
+[05-Feb-2020 22:15:11 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[08-Feb-2020 18:24:48 America/Lima] Caducidad: 1440
+[08-Feb-2020 18:24:48 America/Lima] Caducidad despu®¶s: 86400
+[15-Feb-2020 17:06:30 America/Lima] Caducidad: 1440
+[15-Feb-2020 17:06:30 America/Lima] Caducidad despu®¶s: 86400
+[21-Feb-2020 19:43:01 America/Lima] Caducidad: 1440
+[21-Feb-2020 19:43:01 America/Lima] Caducidad despu®¶s: 86400
+[22-Feb-2020 17:23:01 America/Lima] Caducidad: 1440
+[22-Feb-2020 17:23:01 America/Lima] Caducidad despu®¶s: 86400
+[25-Feb-2020 21:40:24 America/Lima] Caducidad: 1440
+[25-Feb-2020 21:40:24 America/Lima] Caducidad despu®¶s: 86400
+[25-Feb-2020 21:40:24 America/Lima] Termino la sesi®Æn 
+[06-Mar-2020 14:12:48 America/Lima] Caducidad: 1440
+[06-Mar-2020 14:12:48 America/Lima] Caducidad despu®¶s: 86400
+[15-Mar-2020 17:45:14 America/Lima] Caducidad: 1440
+[15-Mar-2020 17:45:14 America/Lima] Caducidad despu®¶s: 86400
+[16-Mar-2020 10:50:58 America/Lima] Caducidad: 1440
+[16-Mar-2020 10:50:58 America/Lima] Caducidad despu®¶s: 86400
+[16-Mar-2020 19:13:43 America/Lima] Caducidad: 1440
+[16-Mar-2020 19:13:43 America/Lima] Caducidad despu®¶s: 86400
+[17-Mar-2020 08:59:23 America/Lima] Caducidad: 1440
+[17-Mar-2020 08:59:23 America/Lima] Caducidad despu®¶s: 86400
+[18-Mar-2020 10:31:38 America/Lima] Caducidad: 1440
+[18-Mar-2020 10:31:38 America/Lima] Caducidad despu®¶s: 86400
+[21-Mar-2020 10:26:47 America/Lima] Caducidad: 1440
+[21-Mar-2020 10:26:47 America/Lima] Caducidad despu®¶s: 86400
+[25-Mar-2020 11:16:01 America/Lima] Caducidad: 1440
+[25-Mar-2020 11:16:01 America/Lima] Caducidad despu®¶s: 86400
+[25-Mar-2020 19:04:55 America/Lima] Caducidad: 1440
+[25-Mar-2020 19:04:55 America/Lima] Caducidad despu®¶s: 86400
+[30-Mar-2020 09:11:38 America/Lima] Caducidad: 1440
+[30-Mar-2020 09:11:38 America/Lima] Caducidad despu®¶s: 86400
+[03-Apr-2020 13:09:27 America/Lima] Caducidad: 1440
+[03-Apr-2020 13:09:27 America/Lima] Caducidad despu®¶s: 86400
+[18-Apr-2020 16:44:48 America/Lima] Caducidad: 1440
+[18-Apr-2020 16:44:48 America/Lima] Caducidad despu®¶s: 86400
+[27-Apr-2020 08:49:59 America/Lima] Caducidad: 1440
+[27-Apr-2020 08:49:59 America/Lima] Caducidad despu®¶s: 86400
+[02-May-2020 09:43:13 America/Lima] Caducidad: 1440
+[02-May-2020 09:43:13 America/Lima] Caducidad despu®¶s: 86400
+[02-May-2020 09:47:16 America/Lima] Caducidad: 1440
+[02-May-2020 09:47:16 America/Lima] Caducidad despu®¶s: 86400
+[05-May-2020 10:32:55 America/Lima] Caducidad: 1440
+[05-May-2020 10:32:55 America/Lima] Caducidad despu®¶s: 86400
+[11-May-2020 11:57:25 America/Lima] Caducidad: 1440
+[11-May-2020 11:57:25 America/Lima] Caducidad despu®¶s: 86400
+[11-May-2020 11:57:27 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[15-May-2020 09:22:36 America/Lima] Caducidad: 1440
+[15-May-2020 09:22:36 America/Lima] Caducidad despu®¶s: 86400
+[16-May-2020 19:02:48 America/Lima] Caducidad: 1440
+[16-May-2020 19:02:48 America/Lima] Caducidad despu®¶s: 86400
+[23-May-2020 16:46:17 America/Lima] Caducidad: 1440
+[23-May-2020 16:46:17 America/Lima] Caducidad despu®¶s: 86400
+[23-May-2020 17:31:30 America/Lima] Caducidad: 1440
+[23-May-2020 17:31:30 America/Lima] Caducidad despu®¶s: 86400
+[25-May-2020 16:00:03 America/Lima] Caducidad: 1440
+[25-May-2020 16:00:03 America/Lima] Caducidad despu®¶s: 86400
+[26-May-2020 12:52:52 America/Lima] Caducidad: 1440
+[26-May-2020 12:52:52 America/Lima] Caducidad despu®¶s: 86400
+[28-May-2020 18:03:23 America/Lima] Caducidad: 1440
+[28-May-2020 18:03:23 America/Lima] Caducidad despu®¶s: 86400
+[30-May-2020 19:53:05 America/Lima] Caducidad: 1440
+[30-May-2020 19:53:05 America/Lima] Caducidad despu®¶s: 86400
+[03-Jun-2020 13:57:13 America/Lima] Caducidad: 1440
+[03-Jun-2020 13:57:13 America/Lima] Caducidad despu®¶s: 86400
+[11-Jun-2020 13:43:57 America/Lima] Caducidad: 1440
+[11-Jun-2020 13:43:57 America/Lima] Caducidad despu®¶s: 86400
+[15-Jun-2020 14:57:05 America/Lima] Caducidad: 1440
+[15-Jun-2020 14:57:05 America/Lima] Caducidad despu®¶s: 86400
+[20-Jun-2020 14:33:56 America/Lima] Caducidad: 1440
+[20-Jun-2020 14:33:56 America/Lima] Caducidad despu®¶s: 86400
+[22-Jun-2020 16:29:55 America/Lima] Caducidad: 1440
+[22-Jun-2020 16:29:55 America/Lima] Caducidad despu®¶s: 86400
+[22-Jun-2020 18:24:56 America/Lima] Caducidad: 1440
+[22-Jun-2020 18:24:56 America/Lima] Caducidad despu®¶s: 86400
+[29-Jun-2020 18:55:37 America/Lima] Caducidad: 1440
+[29-Jun-2020 18:55:37 America/Lima] Caducidad despu®¶s: 86400
+[29-Jun-2020 19:33:02 America/Lima] Caducidad: 1440
+[29-Jun-2020 19:33:02 America/Lima] Caducidad despu®¶s: 86400
+[01-Jul-2020 15:57:45 America/Lima] Caducidad: 1440
+[01-Jul-2020 15:57:45 America/Lima] Caducidad despu®¶s: 86400
+[01-Jul-2020 15:57:46 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[01-Jul-2020 16:31:58 America/Lima] Caducidad: 1440
+[01-Jul-2020 16:31:58 America/Lima] Caducidad despu®¶s: 86400
+[01-Jul-2020 16:32:06 America/Lima] Caducidad: 1440
+[01-Jul-2020 16:32:06 America/Lima] Caducidad despu®¶s: 86400
+[03-Jul-2020 15:00:06 America/Lima] Caducidad: 1440
+[03-Jul-2020 15:00:06 America/Lima] Caducidad despu®¶s: 86400
+[05-Jul-2020 13:34:41 America/Lima] Caducidad: 1440
+[05-Jul-2020 13:34:41 America/Lima] Caducidad despu®¶s: 86400
+[06-Jul-2020 19:28:27 America/Lima] Caducidad: 1440
+[06-Jul-2020 19:28:27 America/Lima] Caducidad despu®¶s: 86400
+[08-Jul-2020 09:06:50 America/Lima] Caducidad: 1440
+[08-Jul-2020 09:06:50 America/Lima] Caducidad despu®¶s: 86400
+[09-Jul-2020 14:46:27 America/Lima] Caducidad: 1440
+[09-Jul-2020 14:46:27 America/Lima] Caducidad despu®¶s: 86400
+[11-Jul-2020 11:20:56 America/Lima] Caducidad: 1440
+[11-Jul-2020 11:20:56 America/Lima] Caducidad despu®¶s: 86400
+[18-Jul-2020 09:56:36 America/Lima] Caducidad: 1440
+[18-Jul-2020 09:56:36 America/Lima] Caducidad despu®¶s: 86400
+[18-Jul-2020 13:36:13 America/Lima] Caducidad: 1440
+[18-Jul-2020 13:36:13 America/Lima] Caducidad despu®¶s: 86400
+[18-Jul-2020 20:59:58 America/Lima] Caducidad: 1440
+[18-Jul-2020 20:59:58 America/Lima] Caducidad despu®¶s: 86400
+[19-Jul-2020 15:22:20 America/Lima] Caducidad: 1440
+[19-Jul-2020 15:22:20 America/Lima] Caducidad despu®¶s: 86400
+[19-Jul-2020 20:10:12 America/Lima] Caducidad: 1440
+[19-Jul-2020 20:10:12 America/Lima] Caducidad despu®¶s: 86400
+[20-Jul-2020 18:50:32 America/Lima] Caducidad: 1440
+[20-Jul-2020 18:50:32 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2020 09:03:08 America/Lima] Caducidad: 1440
+[22-Jul-2020 09:03:08 America/Lima] Caducidad despu®¶s: 86400
+[24-Jul-2020 13:45:06 America/Lima] Caducidad: 1440
+[24-Jul-2020 13:45:06 America/Lima] Caducidad despu®¶s: 86400
+[25-Jul-2020 17:19:44 America/Lima] Caducidad: 1440
+[25-Jul-2020 17:19:44 America/Lima] Caducidad despu®¶s: 86400
+[25-Jul-2020 19:52:59 America/Lima] Caducidad: 1440
+[25-Jul-2020 19:52:59 America/Lima] Caducidad despu®¶s: 86400
+[26-Jul-2020 14:32:49 America/Lima] Caducidad: 1440
+[26-Jul-2020 14:32:49 America/Lima] Caducidad despu®¶s: 86400
+[26-Jul-2020 14:32:49 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[04-Aug-2020 14:30:24 America/Lima] Caducidad: 1440
+[04-Aug-2020 14:30:24 America/Lima] Caducidad despu®¶s: 86400
+[05-Aug-2020 08:43:31 America/Lima] Caducidad: 1440
+[05-Aug-2020 08:43:31 America/Lima] Caducidad despu®¶s: 86400
+[07-Aug-2020 11:50:44 America/Lima] Caducidad: 1440
+[07-Aug-2020 11:50:44 America/Lima] Caducidad despu®¶s: 86400
+[07-Aug-2020 13:05:48 America/Lima] Caducidad: 1440
+[07-Aug-2020 13:05:48 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2020 08:57:37 America/Lima] Caducidad: 1440
+[08-Aug-2020 08:57:37 America/Lima] Caducidad despu®¶s: 86400
+[13-Aug-2020 09:13:00 America/Lima] Caducidad: 1440
+[13-Aug-2020 09:13:00 America/Lima] Caducidad despu®¶s: 86400
+[13-Aug-2020 09:15:31 America/Lima] Caducidad: 1440
+[13-Aug-2020 09:15:31 America/Lima] Caducidad despu®¶s: 86400
+[15-Aug-2020 20:49:38 America/Lima] Caducidad: 1440
+[15-Aug-2020 20:49:38 America/Lima] Caducidad despu®¶s: 86400
+[17-Aug-2020 14:27:14 America/Lima] Caducidad: 1440
+[17-Aug-2020 14:27:14 America/Lima] Caducidad despu®¶s: 86400
+[18-Aug-2020 19:00:21 America/Lima] Caducidad: 1440
+[18-Aug-2020 19:00:21 America/Lima] Caducidad despu®¶s: 86400
+[19-Aug-2020 12:26:11 America/Lima] Caducidad: 1440
+[19-Aug-2020 12:26:11 America/Lima] Caducidad despu®¶s: 86400
+[19-Aug-2020 19:11:38 America/Lima] Caducidad: 1440
+[19-Aug-2020 19:11:38 America/Lima] Caducidad despu®¶s: 86400
+[25-Aug-2020 09:06:57 America/Lima] Caducidad: 1440
+[25-Aug-2020 09:06:57 America/Lima] Caducidad despu®¶s: 86400
+[26-Aug-2020 17:19:45 America/Lima] Caducidad: 1440
+[26-Aug-2020 17:19:45 America/Lima] Caducidad despu®¶s: 86400
+[26-Aug-2020 17:19:46 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[28-Aug-2020 18:02:51 America/Lima] Caducidad: 1440
+[28-Aug-2020 18:02:51 America/Lima] Caducidad despu®¶s: 86400
+[01-Sep-2020 10:43:59 America/Lima] Caducidad: 1440
+[01-Sep-2020 10:43:59 America/Lima] Caducidad despu®¶s: 86400
+[04-Sep-2020 14:05:27 America/Lima] Caducidad: 1440
+[04-Sep-2020 14:05:27 America/Lima] Caducidad despu®¶s: 86400
+[04-Sep-2020 18:21:43 America/Lima] Caducidad: 1440
+[04-Sep-2020 18:21:43 America/Lima] Caducidad despu®¶s: 86400
+[05-Sep-2020 15:58:28 America/Lima] Caducidad: 1440
+[05-Sep-2020 15:58:28 America/Lima] Caducidad despu®¶s: 86400
+[12-Sep-2020 18:24:28 America/Lima] Caducidad: 1440
+[12-Sep-2020 18:24:28 America/Lima] Caducidad despu®¶s: 86400
+[12-Sep-2020 20:13:58 America/Lima] Caducidad: 1440
+[12-Sep-2020 20:13:58 America/Lima] Caducidad despu®¶s: 86400
+[14-Sep-2020 15:40:13 America/Lima] Caducidad: 1440
+[14-Sep-2020 15:40:13 America/Lima] Caducidad despu®¶s: 86400
+[18-Sep-2020 17:39:03 America/Lima] Caducidad: 1440
+[18-Sep-2020 17:39:03 America/Lima] Caducidad despu®¶s: 86400
+[18-Sep-2020 17:44:56 America/Lima] Caducidad: 1440
+[18-Sep-2020 17:44:56 America/Lima] Caducidad despu®¶s: 86400
+[19-Sep-2020 16:40:18 America/Lima] Caducidad: 1440
+[19-Sep-2020 16:40:18 America/Lima] Caducidad despu®¶s: 86400
+[19-Sep-2020 18:05:42 America/Lima] Caducidad: 1440
+[19-Sep-2020 18:05:42 America/Lima] Caducidad despu®¶s: 86400
+[21-Sep-2020 11:36:18 America/Lima] Caducidad: 1440
+[21-Sep-2020 11:36:18 America/Lima] Caducidad despu®¶s: 86400
+[21-Sep-2020 13:26:32 America/Lima] Caducidad: 1440
+[21-Sep-2020 13:26:32 America/Lima] Caducidad despu®¶s: 86400
+[23-Sep-2020 13:47:10 America/Lima] Caducidad: 1440
+[23-Sep-2020 13:47:10 America/Lima] Caducidad despu®¶s: 86400
+[23-Sep-2020 20:58:37 America/Lima] Caducidad: 1440
+[23-Sep-2020 20:58:37 America/Lima] Caducidad despu®¶s: 86400
+[24-Sep-2020 20:56:55 America/Lima] Caducidad: 1440
+[24-Sep-2020 20:56:55 America/Lima] Caducidad despu®¶s: 86400
+[25-Sep-2020 19:09:09 America/Lima] Caducidad: 1440
+[25-Sep-2020 19:09:09 America/Lima] Caducidad despu®¶s: 86400
+[27-Sep-2020 17:59:10 America/Lima] Caducidad: 1440
+[27-Sep-2020 17:59:10 America/Lima] Caducidad despu®¶s: 86400
+[30-Sep-2020 19:15:38 America/Lima] Caducidad: 1440
+[30-Sep-2020 19:15:38 America/Lima] Caducidad despu®¶s: 86400
+[02-Oct-2020 19:09:07 America/Lima] Caducidad: 1440
+[02-Oct-2020 19:09:07 America/Lima] Caducidad despu®¶s: 86400
+[02-Oct-2020 19:35:42 America/Lima] Caducidad: 1440
+[02-Oct-2020 19:35:42 America/Lima] Caducidad despu®¶s: 86400
+[03-Oct-2020 15:41:07 America/Lima] Caducidad: 1440
+[03-Oct-2020 15:41:07 America/Lima] Caducidad despu®¶s: 86400
+[04-Oct-2020 13:37:42 America/Lima] Caducidad: 1440
+[04-Oct-2020 13:37:42 America/Lima] Caducidad despu®¶s: 86400
+[06-Oct-2020 09:55:13 America/Lima] Caducidad: 1440
+[06-Oct-2020 09:55:13 America/Lima] Caducidad despu®¶s: 86400
+[06-Oct-2020 10:52:44 America/Lima] Caducidad: 1440
+[06-Oct-2020 10:52:44 America/Lima] Caducidad despu®¶s: 86400
+[06-Oct-2020 21:03:34 America/Lima] Caducidad: 1440
+[06-Oct-2020 21:03:34 America/Lima] Caducidad despu®¶s: 86400
+[09-Oct-2020 19:13:11 America/Lima] Caducidad: 1440
+[09-Oct-2020 19:13:11 America/Lima] Caducidad despu®¶s: 86400
+[12-Oct-2020 18:29:38 America/Lima] Caducidad: 1440
+[12-Oct-2020 18:29:38 America/Lima] Caducidad despu®¶s: 86400
+[16-Oct-2020 09:06:51 America/Lima] Caducidad: 1440
+[16-Oct-2020 09:06:51 America/Lima] Caducidad despu®¶s: 86400
+[16-Oct-2020 13:29:10 America/Lima] Caducidad: 1440
+[16-Oct-2020 13:29:10 America/Lima] Caducidad despu®¶s: 86400
+[18-Oct-2020 16:38:23 America/Lima] Caducidad: 1440
+[18-Oct-2020 16:38:23 America/Lima] Caducidad despu®¶s: 86400
+[21-Oct-2020 19:24:18 America/Lima] Caducidad: 1440
+[21-Oct-2020 19:24:18 America/Lima] Caducidad despu®¶s: 86400
+[22-Oct-2020 20:32:32 America/Lima] Caducidad: 1440
+[22-Oct-2020 20:32:32 America/Lima] Caducidad despu®¶s: 86400
+[22-Oct-2020 21:32:51 America/Lima] Caducidad: 1440
+[22-Oct-2020 21:32:51 America/Lima] Caducidad despu®¶s: 86400
+[25-Oct-2020 20:29:27 America/Lima] Caducidad: 1440
+[25-Oct-2020 20:29:27 America/Lima] Caducidad despu®¶s: 86400
+[25-Oct-2020 20:34:57 America/Lima] Caducidad: 1440
+[25-Oct-2020 20:34:57 America/Lima] Caducidad despu®¶s: 86400
+[26-Oct-2020 20:54:41 America/Lima] Caducidad: 1440
+[26-Oct-2020 20:54:41 America/Lima] Caducidad despu®¶s: 86400
+[27-Oct-2020 15:01:44 America/Lima] Caducidad: 1440
+[27-Oct-2020 15:01:44 America/Lima] Caducidad despu®¶s: 86400
+[27-Oct-2020 19:50:13 America/Lima] Caducidad: 1440
+[27-Oct-2020 19:50:13 America/Lima] Caducidad despu®¶s: 86400
+[27-Oct-2020 20:52:57 America/Lima] Caducidad: 1440
+[27-Oct-2020 20:52:57 America/Lima] Caducidad despu®¶s: 86400
+[27-Oct-2020 21:12:36 America/Lima] Caducidad: 1440
+[27-Oct-2020 21:12:36 America/Lima] Caducidad despu®¶s: 86400
+[28-Oct-2020 18:42:10 America/Lima] Caducidad: 1440
+[28-Oct-2020 18:42:10 America/Lima] Caducidad despu®¶s: 86400
+[28-Oct-2020 20:04:39 America/Lima] Caducidad: 1440
+[28-Oct-2020 20:04:39 America/Lima] Caducidad despu®¶s: 86400
+[30-Oct-2020 16:40:27 America/Lima] Caducidad: 1440
+[30-Oct-2020 16:40:27 America/Lima] Caducidad despu®¶s: 86400
+[30-Oct-2020 20:22:50 America/Lima] Caducidad: 1440
+[30-Oct-2020 20:22:50 America/Lima] Caducidad despu®¶s: 86400
+[31-Oct-2020 08:29:27 America/Lima] Caducidad: 1440
+[31-Oct-2020 08:29:27 America/Lima] Caducidad despu®¶s: 86400
+[31-Oct-2020 12:25:11 America/Lima] Caducidad: 1440
+[31-Oct-2020 12:25:11 America/Lima] Caducidad despu®¶s: 86400
+[31-Oct-2020 15:07:47 America/Lima] Caducidad: 1440
+[31-Oct-2020 15:07:47 America/Lima] Caducidad despu®¶s: 86400
+[01-Nov-2020 08:33:08 America/Lima] Caducidad: 1440
+[01-Nov-2020 08:33:08 America/Lima] Caducidad despu®¶s: 86400
+[01-Nov-2020 10:42:54 America/Lima] Caducidad: 1440
+[01-Nov-2020 10:42:54 America/Lima] Caducidad despu®¶s: 86400
+[01-Nov-2020 16:12:21 America/Lima] Caducidad: 1440
+[01-Nov-2020 16:12:21 America/Lima] Caducidad despu®¶s: 86400
+[01-Nov-2020 18:30:47 America/Lima] Caducidad: 1440
+[01-Nov-2020 18:30:47 America/Lima] Caducidad despu®¶s: 86400
+[04-Nov-2020 16:21:26 America/Lima] Caducidad: 1440
+[04-Nov-2020 16:21:26 America/Lima] Caducidad despu®¶s: 86400
+[07-Nov-2020 17:17:52 America/Lima] Caducidad: 1440
+[07-Nov-2020 17:17:52 America/Lima] Caducidad despu®¶s: 86400
+[07-Nov-2020 18:46:18 America/Lima] Caducidad: 1440
+[07-Nov-2020 18:46:18 America/Lima] Caducidad despu®¶s: 86400
+[08-Nov-2020 20:50:18 America/Lima] Caducidad: 1440
+[08-Nov-2020 20:50:18 America/Lima] Caducidad despu®¶s: 86400
+[08-Nov-2020 20:50:48 America/Lima] Caducidad: 1440
+[08-Nov-2020 20:50:48 America/Lima] Caducidad despu®¶s: 86400
+[08-Nov-2020 22:04:32 America/Lima] Caducidad: 1440
+[08-Nov-2020 22:04:32 America/Lima] Caducidad despu®¶s: 86400
+[10-Nov-2020 18:24:11 America/Lima] Caducidad: 1440
+[10-Nov-2020 18:24:11 America/Lima] Caducidad despu®¶s: 86400
+[12-Nov-2020 14:37:19 America/Lima] Caducidad: 1440
+[12-Nov-2020 14:37:19 America/Lima] Caducidad despu®¶s: 86400
+[13-Nov-2020 09:43:18 America/Lima] Caducidad: 1440
+[13-Nov-2020 09:43:18 America/Lima] Caducidad despu®¶s: 86400
+[13-Nov-2020 10:37:57 America/Lima] Caducidad: 1440
+[13-Nov-2020 10:37:57 America/Lima] Caducidad despu®¶s: 86400
+[13-Nov-2020 18:57:43 America/Lima] Caducidad: 1440
+[13-Nov-2020 18:57:43 America/Lima] Caducidad despu®¶s: 86400
+[14-Nov-2020 13:25:25 America/Lima] Caducidad: 1440
+[14-Nov-2020 13:25:25 America/Lima] Caducidad despu®¶s: 86400
+[14-Nov-2020 20:22:09 America/Lima] Caducidad: 1440
+[14-Nov-2020 20:22:09 America/Lima] Caducidad despu®¶s: 86400
+[18-Nov-2020 17:48:32 America/Lima] Caducidad: 1440
+[18-Nov-2020 17:48:32 America/Lima] Caducidad despu®¶s: 86400
+[19-Nov-2020 17:53:20 America/Lima] Caducidad: 1440
+[19-Nov-2020 17:53:20 America/Lima] Caducidad despu®¶s: 86400
+[19-Nov-2020 17:53:22 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 17:53:23 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 17:53:23 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 17:53:24 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 17:53:24 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 17:53:25 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 17:53:25 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 17:53:26 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 18:02:28 America/Lima] Caducidad: 1440
+[19-Nov-2020 18:02:28 America/Lima] Caducidad despu®¶s: 86400
+[19-Nov-2020 18:02:31 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 18:02:31 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 18:02:32 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 18:02:32 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 19:15:29 America/Lima] Caducidad: 1440
+[19-Nov-2020 19:15:29 America/Lima] Caducidad despu®¶s: 86400
+[19-Nov-2020 19:15:36 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 19:15:37 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 19:15:42 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[19-Nov-2020 19:15:44 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[25-Nov-2020 11:53:13 America/Lima] Caducidad: 1440
+[25-Nov-2020 11:53:13 America/Lima] Caducidad despu®¶s: 86400
+[25-Nov-2020 20:06:20 America/Lima] Caducidad: 1440
+[25-Nov-2020 20:06:20 America/Lima] Caducidad despu®¶s: 86400
+[26-Nov-2020 16:49:07 America/Lima] Caducidad: 1440
+[26-Nov-2020 16:49:07 America/Lima] Caducidad despu®¶s: 86400
+[28-Nov-2020 18:49:58 America/Lima] Caducidad: 1440
+[28-Nov-2020 18:49:58 America/Lima] Caducidad despu®¶s: 86400
+[28-Nov-2020 19:20:55 America/Lima] Caducidad: 1440
+[28-Nov-2020 19:20:55 America/Lima] Caducidad despu®¶s: 86400
+[28-Nov-2020 19:30:32 America/Lima] Caducidad: 1440
+[28-Nov-2020 19:30:32 America/Lima] Caducidad despu®¶s: 86400
+[29-Nov-2020 14:36:34 America/Lima] Caducidad: 1440
+[29-Nov-2020 14:36:34 America/Lima] Caducidad despu®¶s: 86400
+[29-Nov-2020 15:18:51 America/Lima] Caducidad: 1440
+[29-Nov-2020 15:18:51 America/Lima] Caducidad despu®¶s: 86400
+[29-Nov-2020 18:00:41 America/Lima] Caducidad: 1440
+[29-Nov-2020 18:00:41 America/Lima] Caducidad despu®¶s: 86400
+[01-Dec-2020 21:07:45 America/Lima] Caducidad: 1440
+[01-Dec-2020 21:07:45 America/Lima] Caducidad despu®¶s: 86400
+[04-Dec-2020 10:08:03 America/Lima] Caducidad: 1440
+[04-Dec-2020 10:08:03 America/Lima] Caducidad despu®¶s: 86400
+[07-Dec-2020 18:51:23 America/Lima] Caducidad: 1440
+[07-Dec-2020 18:51:23 America/Lima] Caducidad despu®¶s: 86400
+[08-Dec-2020 08:51:49 America/Lima] Caducidad: 1440
+[08-Dec-2020 08:51:49 America/Lima] Caducidad despu®¶s: 86400
+[09-Dec-2020 12:35:26 America/Lima] Caducidad: 1440
+[09-Dec-2020 12:35:26 America/Lima] Caducidad despu®¶s: 86400
+[09-Dec-2020 20:53:50 America/Lima] Caducidad: 1440
+[09-Dec-2020 20:53:50 America/Lima] Caducidad despu®¶s: 86400
+[11-Dec-2020 17:07:46 America/Lima] Caducidad: 1440
+[11-Dec-2020 17:07:46 America/Lima] Caducidad despu®¶s: 86400
+[11-Dec-2020 17:07:49 America/Lima] Caducidad: 1440
+[11-Dec-2020 17:07:49 America/Lima] Caducidad despu®¶s: 86400
+[16-Dec-2020 10:58:35 America/Lima] Caducidad: 1440
+[16-Dec-2020 10:58:35 America/Lima] Caducidad despu®¶s: 86400
+[23-Dec-2020 18:01:51 America/Lima] Caducidad: 1440
+[23-Dec-2020 18:01:51 America/Lima] Caducidad despu®¶s: 86400
+[23-Dec-2020 19:02:47 America/Lima] Caducidad: 1440
+[23-Dec-2020 19:02:47 America/Lima] Caducidad despu®¶s: 86400
+[23-Dec-2020 19:11:13 America/Lima] Caducidad: 1440
+[23-Dec-2020 19:11:14 America/Lima] Caducidad despu®¶s: 86400
+[24-Dec-2020 17:21:59 America/Lima] Caducidad: 1440
+[24-Dec-2020 17:21:59 America/Lima] Caducidad despu®¶s: 86400
+[24-Dec-2020 19:29:48 America/Lima] Caducidad: 1440
+[24-Dec-2020 19:29:48 America/Lima] Caducidad despu®¶s: 86400
+[25-Dec-2020 09:01:01 America/Lima] Caducidad: 1440
+[25-Dec-2020 09:01:01 America/Lima] Caducidad despu®¶s: 86400
+[26-Dec-2020 19:14:43 America/Lima] Caducidad: 1440
+[26-Dec-2020 19:14:43 America/Lima] Caducidad despu®¶s: 86400
+[27-Dec-2020 12:49:44 America/Lima] Caducidad: 1440
+[27-Dec-2020 12:49:44 America/Lima] Caducidad despu®¶s: 86400
+[28-Dec-2020 19:50:27 America/Lima] Caducidad: 1440
+[28-Dec-2020 19:50:27 America/Lima] Caducidad despu®¶s: 86400
+[28-Dec-2020 20:57:33 America/Lima] Caducidad: 1440
+[28-Dec-2020 20:57:33 America/Lima] Caducidad despu®¶s: 86400
+[30-Dec-2020 20:42:08 America/Lima] Caducidad: 1440
+[30-Dec-2020 20:42:08 America/Lima] Caducidad despu®¶s: 86400
+[02-Jan-2021 21:08:24 America/Lima] Caducidad: 1440
+[02-Jan-2021 21:08:24 America/Lima] Caducidad despu®¶s: 86400
+[04-Jan-2021 21:21:36 America/Lima] Caducidad: 1440
+[04-Jan-2021 21:21:36 America/Lima] Caducidad despu®¶s: 86400
+[11-Jan-2021 17:01:55 America/Lima] Caducidad: 1440
+[11-Jan-2021 17:01:55 America/Lima] Caducidad despu®¶s: 86400
+[12-Jan-2021 20:17:36 America/Lima] Caducidad: 1440
+[12-Jan-2021 20:17:36 America/Lima] Caducidad despu®¶s: 86400
+[15-Jan-2021 10:12:51 America/Lima] Caducidad: 1440
+[15-Jan-2021 10:12:51 America/Lima] Caducidad despu®¶s: 86400
+[18-Jan-2021 18:22:46 America/Lima] Caducidad: 1440
+[18-Jan-2021 18:22:46 America/Lima] Caducidad despu®¶s: 86400
+[18-Jan-2021 19:35:01 America/Lima] Caducidad: 1440
+[18-Jan-2021 19:35:01 America/Lima] Caducidad despu®¶s: 86400
+[21-Jan-2021 14:30:00 America/Lima] Caducidad: 1440
+[21-Jan-2021 14:30:00 America/Lima] Caducidad despu®¶s: 86400
+[22-Jan-2021 19:10:41 America/Lima] Caducidad: 1440
+[22-Jan-2021 19:10:41 America/Lima] Caducidad despu®¶s: 86400
+[24-Jan-2021 11:06:07 America/Lima] Caducidad: 1440
+[24-Jan-2021 11:06:07 America/Lima] Caducidad despu®¶s: 86400
+[25-Jan-2021 16:06:23 America/Lima] Caducidad: 1440
+[25-Jan-2021 16:06:23 America/Lima] Caducidad despu®¶s: 86400
+[27-Jan-2021 08:44:32 America/Lima] Caducidad: 1440
+[27-Jan-2021 08:44:32 America/Lima] Caducidad despu®¶s: 86400
+[27-Jan-2021 08:44:36 America/Lima] Caducidad: 1440
+[27-Jan-2021 08:44:36 America/Lima] Caducidad despu®¶s: 86400
+[29-Jan-2021 19:35:02 America/Lima] Caducidad: 1440
+[29-Jan-2021 19:35:02 America/Lima] Caducidad despu®¶s: 86400
+[29-Jan-2021 19:35:03 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[30-Jan-2021 15:27:08 America/Lima] Caducidad: 1440
+[30-Jan-2021 15:27:08 America/Lima] Caducidad despu®¶s: 86400
+[01-Feb-2021 17:03:28 America/Lima] Caducidad: 1440
+[01-Feb-2021 17:03:28 America/Lima] Caducidad despu®¶s: 86400
+[06-Feb-2021 16:57:53 America/Lima] Caducidad: 1440
+[06-Feb-2021 16:57:53 America/Lima] Caducidad despu®¶s: 86400
+[16-Feb-2021 09:13:29 America/Lima] Caducidad: 1440
+[16-Feb-2021 09:13:29 America/Lima] Caducidad despu®¶s: 86400
+[16-Feb-2021 19:30:41 America/Lima] Caducidad: 1440
+[16-Feb-2021 19:30:41 America/Lima] Caducidad despu®¶s: 86400
+[18-Feb-2021 19:40:46 America/Lima] Caducidad: 1440
+[18-Feb-2021 19:40:46 America/Lima] Caducidad despu®¶s: 86400
+[20-Feb-2021 08:43:12 America/Lima] Caducidad: 1440
+[20-Feb-2021 08:43:12 America/Lima] Caducidad despu®¶s: 86400
+[20-Feb-2021 18:54:43 America/Lima] Caducidad: 1440
+[20-Feb-2021 18:54:43 America/Lima] Caducidad despu®¶s: 86400
+[21-Feb-2021 15:49:04 America/Lima] Caducidad: 1440
+[21-Feb-2021 15:49:04 America/Lima] Caducidad despu®¶s: 86400
+[21-Feb-2021 16:39:29 America/Lima] Caducidad: 1440
+[21-Feb-2021 16:39:29 America/Lima] Caducidad despu®¶s: 86400
+[21-Feb-2021 18:06:29 America/Lima] Caducidad: 1440
+[21-Feb-2021 18:06:29 America/Lima] Caducidad despu®¶s: 86400
+[22-Feb-2021 15:53:59 America/Lima] Caducidad: 1440
+[22-Feb-2021 15:53:59 America/Lima] Caducidad despu®¶s: 86400
+[24-Feb-2021 12:37:49 America/Lima] Caducidad: 1440
+[24-Feb-2021 12:37:49 America/Lima] Caducidad despu®¶s: 86400
+[25-Feb-2021 19:05:34 America/Lima] Caducidad: 1440
+[25-Feb-2021 19:05:34 America/Lima] Caducidad despu®¶s: 86400
+[26-Feb-2021 17:56:34 America/Lima] Caducidad: 1440
+[26-Feb-2021 17:56:34 America/Lima] Caducidad despu®¶s: 86400
+[27-Feb-2021 17:12:30 America/Lima] Caducidad: 1440
+[27-Feb-2021 17:12:30 America/Lima] Caducidad despu®¶s: 86400
+[28-Feb-2021 12:48:49 America/Lima] Caducidad: 1440
+[28-Feb-2021 12:48:49 America/Lima] Caducidad despu®¶s: 86400
+[28-Feb-2021 15:09:40 America/Lima] Caducidad: 1440
+[28-Feb-2021 15:09:40 America/Lima] Caducidad despu®¶s: 86400
+[28-Feb-2021 15:09:41 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[02-Mar-2021 15:48:44 America/Lima] Caducidad: 1440
+[02-Mar-2021 15:48:44 America/Lima] Caducidad despu®¶s: 86400
+[02-Mar-2021 18:55:23 America/Lima] Caducidad: 1440
+[02-Mar-2021 18:55:23 America/Lima] Caducidad despu®¶s: 86400
+[02-Mar-2021 19:09:41 America/Lima] Caducidad: 1440
+[02-Mar-2021 19:09:41 America/Lima] Caducidad despu®¶s: 86400
+[03-Mar-2021 12:25:04 America/Lima] Caducidad: 1440
+[03-Mar-2021 12:25:04 America/Lima] Caducidad despu®¶s: 86400
+[03-Mar-2021 12:25:07 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[03-Mar-2021 12:25:07 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[03-Mar-2021 12:25:08 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[03-Mar-2021 12:25:08 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[03-Mar-2021 12:25:09 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[03-Mar-2021 12:25:09 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[03-Mar-2021 12:25:10 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[04-Mar-2021 20:51:26 America/Lima] Caducidad: 1440
+[04-Mar-2021 20:51:26 America/Lima] Caducidad despu®¶s: 86400
+[06-Mar-2021 10:11:47 America/Lima] Caducidad: 1440
+[06-Mar-2021 10:11:47 America/Lima] Caducidad despu®¶s: 86400
+[08-Mar-2021 13:32:56 America/Lima] Caducidad: 1440
+[08-Mar-2021 13:32:56 America/Lima] Caducidad despu®¶s: 86400
+[12-Mar-2021 19:20:29 America/Lima] Caducidad: 1440
+[12-Mar-2021 19:20:29 America/Lima] Caducidad despu®¶s: 86400
+[13-Mar-2021 20:34:12 America/Lima] Caducidad: 1440
+[13-Mar-2021 20:34:12 America/Lima] Caducidad despu®¶s: 86400
+[17-Mar-2021 17:58:38 America/Lima] Caducidad: 1440
+[17-Mar-2021 17:58:38 America/Lima] Caducidad despu®¶s: 86400
+[18-Mar-2021 14:08:19 America/Lima] Caducidad: 1440
+[18-Mar-2021 14:08:19 America/Lima] Caducidad despu®¶s: 86400
+[19-Mar-2021 17:54:59 America/Lima] Caducidad: 1440
+[19-Mar-2021 17:54:59 America/Lima] Caducidad despu®¶s: 86400
+[21-Mar-2021 11:16:14 America/Lima] Caducidad: 1440
+[21-Mar-2021 11:16:14 America/Lima] Caducidad despu®¶s: 86400
+[23-Mar-2021 13:11:35 America/Lima] Caducidad: 1440
+[23-Mar-2021 13:11:35 America/Lima] Caducidad despu®¶s: 86400
+[23-Mar-2021 13:12:28 America/Lima] Caducidad: 1440
+[23-Mar-2021 13:12:28 America/Lima] Caducidad despu®¶s: 86400
+[23-Mar-2021 16:39:22 America/Lima] Caducidad: 1440
+[23-Mar-2021 16:39:22 America/Lima] Caducidad despu®¶s: 86400
+[23-Mar-2021 16:39:33 America/Lima] Caducidad: 1440
+[23-Mar-2021 16:39:33 America/Lima] Caducidad despu®¶s: 86400
+[23-Mar-2021 16:40:25 America/Lima] Caducidad: 1440
+[23-Mar-2021 16:40:25 America/Lima] Caducidad despu®¶s: 86400
+[23-Mar-2021 16:40:25 America/Lima] Caducidad: 1440
+[23-Mar-2021 16:40:25 America/Lima] Caducidad despu®¶s: 86400
+[25-Mar-2021 17:11:01 America/Lima] Caducidad: 1440
+[25-Mar-2021 17:11:01 America/Lima] Caducidad despu®¶s: 86400
+[27-Mar-2021 13:12:03 America/Lima] Caducidad: 1440
+[27-Mar-2021 13:12:03 America/Lima] Caducidad despu®¶s: 86400
+[02-Apr-2021 15:20:32 America/Lima] Caducidad: 1440
+[02-Apr-2021 15:20:32 America/Lima] Caducidad despu®¶s: 86400
+[02-Apr-2021 18:55:26 America/Lima] Caducidad: 1440
+[02-Apr-2021 18:55:26 America/Lima] Caducidad despu®¶s: 86400
+[03-Apr-2021 09:13:10 America/Lima] Caducidad: 1440
+[03-Apr-2021 09:13:10 America/Lima] Caducidad despu®¶s: 86400
+[04-Apr-2021 15:16:21 America/Lima] Caducidad: 1440
+[04-Apr-2021 15:16:21 America/Lima] Caducidad despu®¶s: 86400
+[05-Apr-2021 17:09:59 America/Lima] Caducidad: 1440
+[05-Apr-2021 17:09:59 America/Lima] Caducidad despu®¶s: 86400
+[05-Apr-2021 20:50:42 America/Lima] Caducidad: 1440
+[05-Apr-2021 20:50:42 America/Lima] Caducidad despu®¶s: 86400
+[12-Apr-2021 13:39:14 America/Lima] Caducidad: 1440
+[12-Apr-2021 13:39:14 America/Lima] Caducidad despu®¶s: 86400
+[14-Apr-2021 13:01:47 America/Lima] Caducidad: 1440
+[14-Apr-2021 13:01:47 America/Lima] Caducidad despu®¶s: 86400
+[14-Apr-2021 20:21:46 America/Lima] Caducidad: 1440
+[14-Apr-2021 20:21:46 America/Lima] Caducidad despu®¶s: 86400
+[14-Apr-2021 20:21:54 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[14-Apr-2021 20:21:54 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[14-Apr-2021 20:21:54 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[14-Apr-2021 20:21:56 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[14-Apr-2021 20:21:56 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[14-Apr-2021 20:22:27 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[16-Apr-2021 16:29:57 America/Lima] Caducidad: 1440
+[16-Apr-2021 16:29:57 America/Lima] Caducidad despu®¶s: 86400
+[16-Apr-2021 20:09:32 America/Lima] Caducidad: 1440
+[16-Apr-2021 20:09:32 America/Lima] Caducidad despu®¶s: 86400
+[19-Apr-2021 20:06:16 America/Lima] Caducidad: 1440
+[19-Apr-2021 20:06:16 America/Lima] Caducidad despu®¶s: 86400
+[21-Apr-2021 16:33:59 America/Lima] Caducidad: 1440
+[21-Apr-2021 16:33:59 America/Lima] Caducidad despu®¶s: 86400
+[22-Apr-2021 18:10:28 America/Lima] Caducidad: 1440
+[22-Apr-2021 18:10:28 America/Lima] Caducidad despu®¶s: 86400
+[22-Apr-2021 18:17:30 America/Lima] Caducidad: 1440
+[22-Apr-2021 18:17:30 America/Lima] Caducidad despu®¶s: 86400
+[26-Apr-2021 14:51:03 America/Lima] Caducidad: 1440
+[26-Apr-2021 14:51:03 America/Lima] Caducidad despu®¶s: 86400
+[26-Apr-2021 16:36:33 America/Lima] Caducidad: 1440
+[26-Apr-2021 16:36:33 America/Lima] Caducidad despu®¶s: 86400
+[26-Apr-2021 16:37:04 America/Lima] Caducidad: 1440
+[26-Apr-2021 16:37:04 America/Lima] Caducidad despu®¶s: 86400
+[26-Apr-2021 16:37:06 America/Lima] Caducidad: 1440
+[26-Apr-2021 16:37:06 America/Lima] Caducidad despu®¶s: 86400
+[26-Apr-2021 16:37:46 America/Lima] Caducidad: 1440
+[26-Apr-2021 16:37:46 America/Lima] Caducidad despu®¶s: 86400
+[26-Apr-2021 16:37:49 America/Lima] Caducidad: 1440
+[26-Apr-2021 16:37:49 America/Lima] Caducidad despu®¶s: 86400
+[26-Apr-2021 19:53:28 America/Lima] Caducidad: 1440
+[26-Apr-2021 19:53:28 America/Lima] Caducidad despu®¶s: 86400
+[28-Apr-2021 18:08:34 America/Lima] Caducidad: 1440
+[28-Apr-2021 18:08:34 America/Lima] Caducidad despu®¶s: 86400
+[03-May-2021 18:16:16 America/Lima] Caducidad: 1440
+[03-May-2021 18:16:16 America/Lima] Caducidad despu®¶s: 86400
+[04-May-2021 16:05:51 America/Lima] Caducidad: 1440
+[04-May-2021 16:05:51 America/Lima] Caducidad despu®¶s: 86400
+[04-May-2021 17:50:46 America/Lima] Caducidad: 1440
+[04-May-2021 17:50:46 America/Lima] Caducidad despu®¶s: 86400
+[05-May-2021 17:40:20 America/Lima] Caducidad: 1440
+[05-May-2021 17:40:20 America/Lima] Caducidad despu®¶s: 86400
+[06-May-2021 18:05:24 America/Lima] Caducidad: 1440
+[06-May-2021 18:05:24 America/Lima] Caducidad despu®¶s: 86400
+[06-May-2021 18:46:04 America/Lima] Caducidad: 1440
+[06-May-2021 18:46:04 America/Lima] Caducidad despu®¶s: 86400
+[06-May-2021 19:01:49 America/Lima] Caducidad: 1440
+[06-May-2021 19:01:49 America/Lima] Caducidad despu®¶s: 86400
+[07-May-2021 18:16:46 America/Lima] Caducidad: 1440
+[07-May-2021 18:16:46 America/Lima] Caducidad despu®¶s: 86400
+[07-May-2021 21:14:06 America/Lima] Caducidad: 1440
+[07-May-2021 21:14:06 America/Lima] Caducidad despu®¶s: 86400
+[08-May-2021 19:31:34 America/Lima] Caducidad: 1440
+[08-May-2021 19:31:34 America/Lima] Caducidad despu®¶s: 86400
+[08-May-2021 19:35:53 America/Lima] Caducidad: 1440
+[08-May-2021 19:35:53 America/Lima] Caducidad despu®¶s: 86400
+[15-May-2021 19:07:59 America/Lima] Caducidad: 1440
+[15-May-2021 19:07:59 America/Lima] Caducidad despu®¶s: 86400
+[16-May-2021 20:34:32 America/Lima] Caducidad: 1440
+[16-May-2021 20:34:32 America/Lima] Caducidad despu®¶s: 86400
+[17-May-2021 09:17:34 America/Lima] Caducidad: 1440
+[17-May-2021 09:17:34 America/Lima] Caducidad despu®¶s: 86400
+[20-May-2021 15:48:09 America/Lima] Caducidad: 1440
+[20-May-2021 15:48:09 America/Lima] Caducidad despu®¶s: 86400
+[21-May-2021 09:18:35 America/Lima] Caducidad: 1440
+[21-May-2021 09:18:35 America/Lima] Caducidad despu®¶s: 86400
+[21-May-2021 11:01:58 America/Lima] Caducidad: 1440
+[21-May-2021 11:01:58 America/Lima] Caducidad despu®¶s: 86400
+[22-May-2021 19:08:41 America/Lima] Caducidad: 1440
+[22-May-2021 19:08:41 America/Lima] Caducidad despu®¶s: 86400
+[26-May-2021 15:21:46 America/Lima] Caducidad: 1440
+[26-May-2021 15:21:46 America/Lima] Caducidad despu®¶s: 86400
+[26-May-2021 19:29:47 America/Lima] Caducidad: 1440
+[26-May-2021 19:29:47 America/Lima] Caducidad despu®¶s: 86400
+[27-May-2021 16:43:17 America/Lima] Caducidad: 1440
+[27-May-2021 16:43:17 America/Lima] Caducidad despu®¶s: 86400
+[03-Jun-2021 20:43:25 America/Lima] Caducidad: 1440
+[03-Jun-2021 20:43:25 America/Lima] Caducidad despu®¶s: 86400
+[05-Jun-2021 21:03:48 America/Lima] Caducidad: 1440
+[05-Jun-2021 21:03:48 America/Lima] Caducidad despu®¶s: 86400
+[06-Jun-2021 14:09:36 America/Lima] Caducidad: 1440
+[06-Jun-2021 14:09:36 America/Lima] Caducidad despu®¶s: 86400
+[09-Jun-2021 14:03:47 America/Lima] Caducidad: 1440
+[09-Jun-2021 14:03:47 America/Lima] Caducidad despu®¶s: 86400
+[09-Jun-2021 18:16:30 America/Lima] Caducidad: 1440
+[09-Jun-2021 18:16:30 America/Lima] Caducidad despu®¶s: 86400
+[11-Jun-2021 18:59:23 America/Lima] Caducidad: 1440
+[11-Jun-2021 18:59:23 America/Lima] Caducidad despu®¶s: 86400
+[13-Jun-2021 16:00:37 America/Lima] Caducidad: 1440
+[13-Jun-2021 16:00:37 America/Lima] Caducidad despu®¶s: 86400
+[14-Jun-2021 15:04:19 America/Lima] Caducidad: 1440
+[14-Jun-2021 15:04:19 America/Lima] Caducidad despu®¶s: 86400
+[14-Jun-2021 17:26:02 America/Lima] Caducidad: 1440
+[14-Jun-2021 17:26:02 America/Lima] Caducidad despu®¶s: 86400
+[15-Jun-2021 13:59:44 America/Lima] Caducidad: 1440
+[15-Jun-2021 13:59:44 America/Lima] Caducidad despu®¶s: 86400
+[20-Jun-2021 11:39:02 America/Lima] Caducidad: 1440
+[20-Jun-2021 11:39:02 America/Lima] Caducidad despu®¶s: 86400
+[24-Jun-2021 18:28:40 America/Lima] Caducidad: 1440
+[24-Jun-2021 18:28:40 America/Lima] Caducidad despu®¶s: 86400
+[26-Jun-2021 16:17:34 America/Lima] Caducidad: 1440
+[26-Jun-2021 16:17:34 America/Lima] Caducidad despu®¶s: 86400
+[29-Jun-2021 16:51:24 America/Lima] Caducidad: 1440
+[29-Jun-2021 16:51:24 America/Lima] Caducidad despu®¶s: 86400
+[13-Jul-2021 10:51:40 America/Lima] Caducidad: 1440
+[13-Jul-2021 10:51:40 America/Lima] Caducidad despu®¶s: 86400
+[13-Jul-2021 19:47:48 America/Lima] Caducidad: 1440
+[13-Jul-2021 19:47:48 America/Lima] Caducidad despu®¶s: 86400
+[13-Jul-2021 19:47:59 America/Lima] Caducidad: 1440
+[13-Jul-2021 19:47:59 America/Lima] Caducidad despu®¶s: 86400
+[15-Jul-2021 19:59:47 America/Lima] Caducidad: 1440
+[15-Jul-2021 19:59:47 America/Lima] Caducidad despu®¶s: 86400
+[15-Jul-2021 21:54:45 America/Lima] Caducidad: 1440
+[15-Jul-2021 21:54:45 America/Lima] Caducidad despu®¶s: 86400
+[16-Jul-2021 17:49:07 America/Lima] Caducidad: 1440
+[16-Jul-2021 17:49:07 America/Lima] Caducidad despu®¶s: 86400
+[18-Jul-2021 15:31:48 America/Lima] Caducidad: 1440
+[18-Jul-2021 15:31:48 America/Lima] Caducidad despu®¶s: 86400
+[19-Jul-2021 15:51:31 America/Lima] Caducidad: 1440
+[19-Jul-2021 15:51:31 America/Lima] Caducidad despu®¶s: 86400
+[23-Jul-2021 18:20:04 America/Lima] Caducidad: 1440
+[23-Jul-2021 18:20:04 America/Lima] Caducidad despu®¶s: 86400
+[25-Jul-2021 10:33:13 America/Lima] Caducidad: 1440
+[25-Jul-2021 10:33:13 America/Lima] Caducidad despu®¶s: 86400
+[26-Jul-2021 12:37:06 America/Lima] Caducidad: 1440
+[26-Jul-2021 12:37:06 America/Lima] Caducidad despu®¶s: 86400
+[27-Jul-2021 18:39:38 America/Lima] Caducidad: 1440
+[27-Jul-2021 18:39:38 America/Lima] Caducidad despu®¶s: 86400
+[29-Jul-2021 17:55:38 America/Lima] Caducidad: 1440
+[29-Jul-2021 17:55:38 America/Lima] Caducidad despu®¶s: 86400
+[29-Jul-2021 19:34:06 America/Lima] Caducidad: 1440
+[29-Jul-2021 19:34:06 America/Lima] Caducidad despu®¶s: 86400
+[30-Jul-2021 19:13:32 America/Lima] Caducidad: 1440
+[30-Jul-2021 19:13:32 America/Lima] Caducidad despu®¶s: 86400
+[31-Jul-2021 17:24:16 America/Lima] Caducidad: 1440
+[31-Jul-2021 17:24:16 America/Lima] Caducidad despu®¶s: 86400
+[02-Aug-2021 08:15:06 America/Lima] Caducidad: 1440
+[02-Aug-2021 08:15:06 America/Lima] Caducidad despu®¶s: 86400
+[02-Aug-2021 13:46:24 America/Lima] Caducidad: 1440
+[02-Aug-2021 13:46:24 America/Lima] Caducidad despu®¶s: 86400
+[02-Aug-2021 20:59:43 America/Lima] Caducidad: 1440
+[02-Aug-2021 20:59:43 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2021 20:54:19 America/Lima] Caducidad: 1440
+[08-Aug-2021 20:54:19 America/Lima] Caducidad despu®¶s: 86400
+[12-Aug-2021 18:19:17 America/Lima] Caducidad: 1440
+[12-Aug-2021 18:19:17 America/Lima] Caducidad despu®¶s: 86400
+[16-Aug-2021 21:19:54 America/Lima] Caducidad: 1440
+[16-Aug-2021 21:19:54 America/Lima] Caducidad despu®¶s: 86400
+[16-Aug-2021 21:35:27 America/Lima] Caducidad: 1440
+[16-Aug-2021 21:35:27 America/Lima] Caducidad despu®¶s: 86400
+[18-Aug-2021 07:57:01 America/Lima] Caducidad: 1440
+[18-Aug-2021 07:57:01 America/Lima] Caducidad despu®¶s: 86400
+[18-Aug-2021 22:06:46 America/Lima] Caducidad: 1440
+[18-Aug-2021 22:06:46 America/Lima] Caducidad despu®¶s: 86400
+[28-Aug-2021 15:35:42 America/Lima] Caducidad: 1440
+[28-Aug-2021 15:35:42 America/Lima] Caducidad despu®¶s: 86400
+[29-Aug-2021 21:20:04 America/Lima] Caducidad: 1440
+[29-Aug-2021 21:20:04 America/Lima] Caducidad despu®¶s: 86400
+[30-Aug-2021 09:47:33 America/Lima] Caducidad: 1440
+[30-Aug-2021 09:47:33 America/Lima] Caducidad despu®¶s: 86400
+[30-Aug-2021 15:04:23 America/Lima] Caducidad: 1440
+[30-Aug-2021 15:04:23 America/Lima] Caducidad despu®¶s: 86400
+[31-Aug-2021 15:28:36 America/Lima] Caducidad: 1440
+[31-Aug-2021 15:28:36 America/Lima] Caducidad despu®¶s: 86400
+[31-Aug-2021 15:28:38 America/Lima] Caducidad: 1440
+[31-Aug-2021 15:28:38 America/Lima] Caducidad despu®¶s: 86400
+[31-Aug-2021 16:03:22 America/Lima] Caducidad: 1440
+[31-Aug-2021 16:03:22 America/Lima] Caducidad despu®¶s: 86400
+[05-Sep-2021 11:53:28 America/Lima] Caducidad: 1440
+[05-Sep-2021 11:53:28 America/Lima] Caducidad despu®¶s: 86400
+[05-Sep-2021 15:58:14 America/Lima] Caducidad: 1440
+[05-Sep-2021 15:58:14 America/Lima] Caducidad despu®¶s: 86400
+[06-Sep-2021 11:48:49 America/Lima] Caducidad: 1440
+[06-Sep-2021 11:48:49 America/Lima] Caducidad despu®¶s: 86400
+[06-Sep-2021 15:17:13 America/Lima] Caducidad: 1440
+[06-Sep-2021 15:17:13 America/Lima] Caducidad despu®¶s: 86400
+[06-Sep-2021 18:07:30 America/Lima] Caducidad: 1440
+[06-Sep-2021 18:07:30 America/Lima] Caducidad despu®¶s: 86400
+[12-Sep-2021 18:29:21 America/Lima] Caducidad: 1440
+[12-Sep-2021 18:29:21 America/Lima] Caducidad despu®¶s: 86400
+[12-Sep-2021 19:05:49 America/Lima] Caducidad: 1440
+[12-Sep-2021 19:05:49 America/Lima] Caducidad despu®¶s: 86400
+[13-Sep-2021 12:15:30 America/Lima] Caducidad: 1440
+[13-Sep-2021 12:15:30 America/Lima] Caducidad despu®¶s: 86400
+[13-Sep-2021 20:53:35 America/Lima] Caducidad: 1440
+[13-Sep-2021 20:53:35 America/Lima] Caducidad despu®¶s: 86400
+[14-Sep-2021 20:26:34 America/Lima] Caducidad: 1440
+[14-Sep-2021 20:26:34 America/Lima] Caducidad despu®¶s: 86400
+[15-Sep-2021 10:15:40 America/Lima] Caducidad: 1440
+[15-Sep-2021 10:15:40 America/Lima] Caducidad despu®¶s: 86400
+[15-Sep-2021 21:10:00 America/Lima] Caducidad: 1440
+[15-Sep-2021 21:10:00 America/Lima] Caducidad despu®¶s: 86400
+[18-Sep-2021 15:11:40 America/Lima] Caducidad: 1440
+[18-Sep-2021 15:11:40 America/Lima] Caducidad despu®¶s: 86400
+[21-Sep-2021 21:43:45 America/Lima] Caducidad: 1440
+[21-Sep-2021 21:43:45 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2021 11:37:59 America/Lima] Caducidad: 1440
+[26-Sep-2021 11:37:59 America/Lima] Caducidad despu®¶s: 86400
+[26-Sep-2021 19:10:53 America/Lima] Caducidad: 1440
+[26-Sep-2021 19:10:53 America/Lima] Caducidad despu®¶s: 86400
+[27-Sep-2021 19:49:30 America/Lima] Caducidad: 1440
+[27-Sep-2021 19:49:30 America/Lima] Caducidad despu®¶s: 86400
+[28-Sep-2021 16:12:50 America/Lima] Caducidad: 1440
+[28-Sep-2021 16:12:50 America/Lima] Caducidad despu®¶s: 86400
+[28-Sep-2021 16:43:05 America/Lima] Caducidad: 1440
+[28-Sep-2021 16:43:05 America/Lima] Caducidad despu®¶s: 86400
+[28-Sep-2021 19:41:40 America/Lima] Caducidad: 1440
+[28-Sep-2021 19:41:40 America/Lima] Caducidad despu®¶s: 86400
+[28-Sep-2021 20:46:33 America/Lima] Caducidad: 1440
+[28-Sep-2021 20:46:33 America/Lima] Caducidad despu®¶s: 86400
+[29-Sep-2021 18:02:21 America/Lima] Caducidad: 1440
+[29-Sep-2021 18:02:21 America/Lima] Caducidad despu®¶s: 86400
+[30-Sep-2021 19:53:06 America/Lima] Caducidad: 1440
+[30-Sep-2021 19:53:06 America/Lima] Caducidad despu®¶s: 86400
+[30-Sep-2021 20:28:27 America/Lima] Caducidad: 1440
+[30-Sep-2021 20:28:27 America/Lima] Caducidad despu®¶s: 86400
+[01-Oct-2021 13:29:11 America/Lima] Caducidad: 1440
+[01-Oct-2021 13:29:11 America/Lima] Caducidad despu®¶s: 86400
+[01-Oct-2021 17:05:26 America/Lima] Caducidad: 1440
+[01-Oct-2021 17:05:26 America/Lima] Caducidad despu®¶s: 86400
+[04-Oct-2021 21:07:48 America/Lima] Caducidad: 1440
+[04-Oct-2021 21:07:48 America/Lima] Caducidad despu®¶s: 86400
+[08-Oct-2021 16:35:51 America/Lima] Caducidad: 1440
+[08-Oct-2021 16:35:51 America/Lima] Caducidad despu®¶s: 86400
+[15-Oct-2021 16:44:36 America/Lima] Caducidad: 1440
+[15-Oct-2021 16:44:36 America/Lima] Caducidad despu®¶s: 86400
+[20-Oct-2021 20:06:08 America/Lima] Caducidad: 1440
+[20-Oct-2021 20:06:08 America/Lima] Caducidad despu®¶s: 86400
+[21-Oct-2021 15:50:18 America/Lima] Caducidad: 1440
+[21-Oct-2021 15:50:18 America/Lima] Caducidad despu®¶s: 86400
+[28-Oct-2021 19:25:34 America/Lima] Caducidad: 1440
+[28-Oct-2021 19:25:34 America/Lima] Caducidad despu®¶s: 86400
+[09-Nov-2021 21:12:50 America/Lima] Caducidad: 1440
+[09-Nov-2021 21:12:50 America/Lima] Caducidad despu®¶s: 86400
+[13-Nov-2021 16:15:23 America/Lima] Caducidad: 1440
+[13-Nov-2021 16:15:23 America/Lima] Caducidad despu®¶s: 86400
+[13-Nov-2021 16:39:08 America/Lima] Caducidad: 1440
+[13-Nov-2021 16:39:08 America/Lima] Caducidad despu®¶s: 86400
+[14-Nov-2021 18:52:59 America/Lima] Caducidad: 1440
+[14-Nov-2021 18:52:59 America/Lima] Caducidad despu®¶s: 86400
+[15-Nov-2021 11:19:41 America/Lima] Caducidad: 1440
+[15-Nov-2021 11:19:41 America/Lima] Caducidad despu®¶s: 86400
+[15-Nov-2021 21:30:38 America/Lima] Caducidad: 1440
+[15-Nov-2021 21:30:38 America/Lima] Caducidad despu®¶s: 86400
+[18-Nov-2021 08:51:57 America/Lima] Caducidad: 1440
+[18-Nov-2021 08:51:57 America/Lima] Caducidad despu®¶s: 86400
+[26-Nov-2021 19:58:52 America/Lima] Caducidad: 1440
+[26-Nov-2021 19:58:52 America/Lima] Caducidad despu®¶s: 86400
+[01-Dec-2021 21:44:12 America/Lima] Caducidad: 1440
+[01-Dec-2021 21:44:12 America/Lima] Caducidad despu®¶s: 86400
+[06-Dec-2021 19:10:02 America/Lima] Caducidad: 1440
+[06-Dec-2021 19:10:02 America/Lima] Caducidad despu®¶s: 86400
+[09-Dec-2021 10:42:03 America/Lima] Caducidad: 1440
+[09-Dec-2021 10:42:03 America/Lima] Caducidad despu®¶s: 86400
+[14-Dec-2021 21:08:14 America/Lima] Caducidad: 1440
+[14-Dec-2021 21:08:14 America/Lima] Caducidad despu®¶s: 86400
+[15-Dec-2021 11:05:16 America/Lima] Caducidad: 1440
+[15-Dec-2021 11:05:16 America/Lima] Caducidad despu®¶s: 86400
+[15-Dec-2021 19:26:50 America/Lima] Caducidad: 1440
+[15-Dec-2021 19:26:50 America/Lima] Caducidad despu®¶s: 86400
+[21-Dec-2021 18:02:07 America/Lima] Caducidad: 1440
+[21-Dec-2021 18:02:07 America/Lima] Caducidad despu®¶s: 86400
+[26-Dec-2021 16:53:46 America/Lima] Caducidad: 1440
+[26-Dec-2021 16:53:46 America/Lima] Caducidad despu®¶s: 86400
+[26-Dec-2021 16:53:47 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[28-Dec-2021 20:13:51 America/Lima] Caducidad: 1440
+[28-Dec-2021 20:13:51 America/Lima] Caducidad despu®¶s: 86400
+[30-Dec-2021 15:06:49 America/Lima] Caducidad: 1440
+[30-Dec-2021 15:06:49 America/Lima] Caducidad despu®¶s: 86400
+[03-Jan-2022 11:33:51 America/Lima] Caducidad: 1440
+[03-Jan-2022 11:33:51 America/Lima] Caducidad despu®¶s: 86400
+[03-Jan-2022 19:39:53 America/Lima] Caducidad: 1440
+[03-Jan-2022 19:39:53 America/Lima] Caducidad despu®¶s: 86400
+[05-Jan-2022 21:06:34 America/Lima] Caducidad: 1440
+[05-Jan-2022 21:06:34 America/Lima] Caducidad despu®¶s: 86400
+[07-Jan-2022 10:09:41 America/Lima] Caducidad: 1440
+[07-Jan-2022 10:09:41 America/Lima] Caducidad despu®¶s: 86400
+[07-Jan-2022 16:05:30 America/Lima] Caducidad: 1440
+[07-Jan-2022 16:05:30 America/Lima] Caducidad despu®¶s: 86400
+[09-Jan-2022 17:29:55 America/Lima] Caducidad: 1440
+[09-Jan-2022 17:29:55 America/Lima] Caducidad despu®¶s: 86400
+[09-Jan-2022 20:00:04 America/Lima] Caducidad: 1440
+[09-Jan-2022 20:00:04 America/Lima] Caducidad despu®¶s: 86400
+[12-Jan-2022 10:14:44 America/Lima] Caducidad: 1440
+[12-Jan-2022 10:14:44 America/Lima] Caducidad despu®¶s: 86400
+[14-Jan-2022 19:16:18 America/Lima] Caducidad: 1440
+[14-Jan-2022 19:16:18 America/Lima] Caducidad despu®¶s: 86400
+[14-Jan-2022 19:33:15 America/Lima] Caducidad: 1440
+[14-Jan-2022 19:33:15 America/Lima] Caducidad despu®¶s: 86400
+[15-Jan-2022 20:49:31 America/Lima] Caducidad: 1440
+[15-Jan-2022 20:49:31 America/Lima] Caducidad despu®¶s: 86400
+[16-Jan-2022 18:23:58 America/Lima] Caducidad: 1440
+[16-Jan-2022 18:23:58 America/Lima] Caducidad despu®¶s: 86400
+[16-Jan-2022 20:21:47 America/Lima] Caducidad: 1440
+[16-Jan-2022 20:21:47 America/Lima] Caducidad despu®¶s: 86400
+[17-Jan-2022 10:51:04 America/Lima] Caducidad: 1440
+[17-Jan-2022 10:51:04 America/Lima] Caducidad despu®¶s: 86400
+[17-Jan-2022 18:38:40 America/Lima] Caducidad: 1440
+[17-Jan-2022 18:38:40 America/Lima] Caducidad despu®¶s: 86400
+[20-Jan-2022 19:33:31 America/Lima] Caducidad: 1440
+[20-Jan-2022 19:33:31 America/Lima] Caducidad despu®¶s: 86400
+[25-Jan-2022 15:55:31 America/Lima] Caducidad: 1440
+[25-Jan-2022 15:55:31 America/Lima] Caducidad despu®¶s: 86400
+[27-Jan-2022 19:21:37 America/Lima] Caducidad: 1440
+[27-Jan-2022 19:21:37 America/Lima] Caducidad despu®¶s: 86400
+[31-Jan-2022 17:34:53 America/Lima] Caducidad: 1440
+[31-Jan-2022 17:34:53 America/Lima] Caducidad despu®¶s: 86400
+[05-Feb-2022 14:52:16 America/Lima] Caducidad: 1440
+[05-Feb-2022 14:52:16 America/Lima] Caducidad despu®¶s: 86400
+[07-Feb-2022 20:41:10 America/Lima] Caducidad: 1440
+[07-Feb-2022 20:41:10 America/Lima] Caducidad despu®¶s: 86400
+[11-Feb-2022 20:46:45 America/Lima] Caducidad: 1440
+[11-Feb-2022 20:46:45 America/Lima] Caducidad despu®¶s: 86400
+[11-Feb-2022 20:46:45 America/Lima] Termino la sesi®Æn 
+[14-Feb-2022 21:32:01 America/Lima] Caducidad: 1440
+[14-Feb-2022 21:32:01 America/Lima] Caducidad despu®¶s: 86400
+[20-Feb-2022 17:42:53 America/Lima] Caducidad: 1440
+[20-Feb-2022 17:42:53 America/Lima] Caducidad despu®¶s: 86400
+[20-Feb-2022 19:18:13 America/Lima] Caducidad: 1440
+[20-Feb-2022 19:18:13 America/Lima] Caducidad despu®¶s: 86400
+[23-Feb-2022 09:06:05 America/Lima] Caducidad: 1440
+[23-Feb-2022 09:06:05 America/Lima] Caducidad despu®¶s: 86400
+[25-Feb-2022 19:48:12 America/Lima] Caducidad: 1440
+[25-Feb-2022 19:48:12 America/Lima] Caducidad despu®¶s: 86400
+[27-Feb-2022 21:27:37 America/Lima] Caducidad: 1440
+[27-Feb-2022 21:27:37 America/Lima] Caducidad despu®¶s: 86400
+[27-Feb-2022 21:36:46 America/Lima] Caducidad: 1440
+[27-Feb-2022 21:36:46 America/Lima] Caducidad despu®¶s: 86400
+[27-Feb-2022 21:36:46 America/Lima] Caducidad: 1440
+[27-Feb-2022 21:36:46 America/Lima] Caducidad despu®¶s: 86400
+[28-Feb-2022 18:22:38 America/Lima] Caducidad: 1440
+[28-Feb-2022 18:22:38 America/Lima] Caducidad despu®¶s: 86400
+[06-Mar-2022 14:22:16 America/Lima] Caducidad: 1440
+[06-Mar-2022 14:22:16 America/Lima] Caducidad despu®¶s: 86400
+[09-Mar-2022 21:18:34 America/Lima] Caducidad: 1440
+[09-Mar-2022 21:18:34 America/Lima] Caducidad despu®¶s: 86400
+[14-Mar-2022 17:56:15 America/Lima] Caducidad: 1440
+[14-Mar-2022 17:56:15 America/Lima] Caducidad despu®¶s: 86400
+[14-Mar-2022 17:56:18 America/Lima] Caducidad: 1440
+[14-Mar-2022 17:56:18 America/Lima] Caducidad despu®¶s: 86400
+[20-Mar-2022 19:28:30 America/Lima] Caducidad: 1440
+[20-Mar-2022 19:28:30 America/Lima] Caducidad despu®¶s: 86400
+[22-Mar-2022 20:15:10 America/Lima] Caducidad: 1440
+[22-Mar-2022 20:15:10 America/Lima] Caducidad despu®¶s: 86400
+[27-Mar-2022 13:14:47 America/Lima] Caducidad: 1440
+[27-Mar-2022 13:14:47 America/Lima] Caducidad despu®¶s: 86400
+[27-Mar-2022 13:14:47 America/Lima] Termino la sesi®Æn 
+[27-Mar-2022 17:48:54 America/Lima] Caducidad: 1440
+[27-Mar-2022 17:48:54 America/Lima] Caducidad despu®¶s: 86400
+[29-Mar-2022 21:45:05 America/Lima] Caducidad: 1440
+[29-Mar-2022 21:45:05 America/Lima] Caducidad despu®¶s: 86400
+[31-Mar-2022 17:12:53 America/Lima] Caducidad: 1440
+[31-Mar-2022 17:12:53 America/Lima] Caducidad despu®¶s: 86400
+[01-Apr-2022 19:53:37 America/Lima] Caducidad: 1440
+[01-Apr-2022 19:53:37 America/Lima] Caducidad despu®¶s: 86400
+[10-Apr-2022 18:00:42 America/Lima] Caducidad: 1440
+[10-Apr-2022 18:00:42 America/Lima] Caducidad despu®¶s: 86400
+[10-Apr-2022 18:42:35 America/Lima] Caducidad: 1440
+[10-Apr-2022 18:42:35 America/Lima] Caducidad despu®¶s: 86400
+[11-Apr-2022 20:12:29 America/Lima] Caducidad: 1440
+[11-Apr-2022 20:12:29 America/Lima] Caducidad despu®¶s: 86400
+[21-Apr-2022 16:50:48 America/Lima] Caducidad: 1440
+[21-Apr-2022 16:50:48 America/Lima] Caducidad despu®¶s: 86400
+[21-Apr-2022 16:50:49 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/farmasi1/public_html/vyp/principal/movimientos/ventas/f3/ajax-list-countries.php on line 21
+[23-Apr-2022 15:40:15 America/Lima] Caducidad: 1440
+[23-Apr-2022 15:40:15 America/Lima] Caducidad despu®¶s: 86400
+[23-Apr-2022 16:11:09 America/Lima] Caducidad: 1440
+[23-Apr-2022 16:11:09 America/Lima] Caducidad despu®¶s: 86400
+[01-May-2022 16:35:39 America/Lima] Caducidad: 1440
+[01-May-2022 16:35:39 America/Lima] Caducidad despu®¶s: 86400
+[08-May-2022 14:21:53 America/Lima] Caducidad: 1440
+[08-May-2022 14:21:53 America/Lima] Caducidad despu®¶s: 86400
+[09-May-2022 19:50:34 America/Lima] Caducidad: 1440
+[09-May-2022 19:50:34 America/Lima] Caducidad despu®¶s: 86400

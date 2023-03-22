@@ -1,0 +1,957 @@
+[29-Sep-2020 23:30:57 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[29-Sep-2020 23:30:57 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[29-Sep-2020 23:30:57 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[29-Sep-2020 23:30:59 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[29-Sep-2020 23:30:59 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[29-Sep-2020 23:30:59 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[29-Sep-2020 23:31:02 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[29-Sep-2020 23:31:02 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[29-Sep-2020 23:31:02 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:47:55 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:47:55 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:47:55 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:47:57 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:47:57 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:47:57 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:47:59 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:47:59 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:47:59 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:00 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:00 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:00 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:02 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:02 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:02 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:04 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:04 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:04 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:08 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:08 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:08 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:09 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:09 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:09 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:12 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:12 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:12 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:23 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:23 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:23 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:26 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:26 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:26 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:27 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:27 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:27 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:29 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:29 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:29 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:31 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:31 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:31 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:33 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:33 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:33 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:48:34 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:48:34 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:48:34 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:49:56 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:49:56 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:49:56 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:12 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:12 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:12 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:14 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:14 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:14 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:15 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:15 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:15 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:18 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:18 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:18 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:19 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:19 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:19 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:22 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:22 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:22 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:26 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:26 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:26 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:34 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:34 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:34 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:34 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:34 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:34 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:34 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:34 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:34 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:36 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:36 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:36 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:38 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:38 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:38 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:50:56 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:50:56 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:50:56 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:51:11 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:51:11 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:51:11 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:51:12 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:51:12 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:51:12 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:51:14 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:51:14 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:51:14 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[01-Dec-2020 18:51:16 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[01-Dec-2020 18:51:16 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[01-Dec-2020 18:51:16 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[24-Feb-2021 10:17:32 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[24-Feb-2021 10:17:32 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[24-Feb-2021 10:17:32 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[08-Apr-2021 19:43:29 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[08-Apr-2021 19:43:29 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[08-Apr-2021 19:43:29 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[08-Apr-2021 19:43:31 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[08-Apr-2021 19:43:31 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[08-Apr-2021 19:43:31 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:45:57 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:45:57 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:45:57 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:45:58 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:45:58 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:45:58 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:46:33 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:46:33 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:46:33 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:46:38 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:46:38 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:46:38 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:46:40 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:46:40 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:46:40 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:50:10 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:50:10 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:50:10 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:50:11 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:50:11 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:50:11 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[17-May-2021 17:50:13 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[17-May-2021 17:50:13 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[17-May-2021 17:50:13 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[26-May-2021 12:00:36 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[26-May-2021 12:00:36 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[26-May-2021 12:00:36 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[26-May-2021 12:00:41 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[26-May-2021 12:00:41 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[26-May-2021 12:00:41 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[26-May-2021 12:00:43 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[26-May-2021 12:00:43 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[26-May-2021 12:00:43 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[26-May-2021 12:01:48 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[26-May-2021 12:01:48 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[26-May-2021 12:01:48 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[26-May-2021 12:03:16 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[26-May-2021 12:03:16 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[26-May-2021 12:03:16 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[03-Jun-2021 11:55:23 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[03-Jun-2021 11:55:23 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[03-Jun-2021 11:55:23 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[03-Jun-2021 11:55:25 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[03-Jun-2021 11:55:25 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[03-Jun-2021 11:55:25 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[11-Jun-2021 17:05:03 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[11-Jun-2021 17:05:03 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[11-Jun-2021 17:05:03 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[11-Jun-2021 17:05:05 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[11-Jun-2021 17:05:05 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[11-Jun-2021 17:05:05 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:13:22 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:13:22 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:13:22 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:13:28 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:13:28 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:13:28 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:14:13 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:14:13 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:14:13 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:14:14 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:14:14 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:14:14 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:14:18 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:14:18 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:14:18 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:15:13 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:15:13 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:15:13 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:15:18 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:15:18 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:15:18 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[28-Jun-2021 22:15:20 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[28-Jun-2021 22:15:20 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[28-Jun-2021 22:15:20 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:42:58 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:42:58 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:42:58 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:42:58 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:42:58 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:12 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:12 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:12 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:12 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:12 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:12 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:13 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:13 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:13 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:45 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:45 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:45 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:45 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:45 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:45 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:45 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:45 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:45 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:48 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:48 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:48 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:51 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:51 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:51 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[05-Aug-2021 12:43:53 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[05-Aug-2021 12:43:53 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[05-Aug-2021 12:43:53 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[10-Aug-2021 13:27:28 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[10-Aug-2021 13:27:28 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[10-Aug-2021 13:27:28 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[10-Aug-2021 13:27:29 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[10-Aug-2021 13:27:29 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[10-Aug-2021 13:27:29 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[10-Aug-2021 13:27:35 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[10-Aug-2021 13:27:35 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[10-Aug-2021 13:27:35 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[10-Aug-2021 13:27:36 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[10-Aug-2021 13:27:36 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[10-Aug-2021 13:27:36 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[10-Aug-2021 13:28:59 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[10-Aug-2021 13:28:59 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[10-Aug-2021 13:28:59 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[10-Aug-2021 13:30:36 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[10-Aug-2021 13:30:36 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[10-Aug-2021 13:30:36 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[10-Aug-2021 13:30:37 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[10-Aug-2021 13:30:37 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[10-Aug-2021 13:30:37 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[20-Aug-2021 10:30:37 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[20-Aug-2021 10:30:37 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[20-Aug-2021 10:30:37 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33
+[20-Aug-2021 10:30:44 America/Lima] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 50
+[20-Aug-2021 10:30:44 America/Lima] PHP Warning:  DOMXPath::query(): Undefined namespace prefix in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 64
+[20-Aug-2021 10:30:44 America/Lima] PHP Fatal error:  Uncaught exception 'Exception' with message 'Not found cdr response in xml' in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php:33
+Stack trace:
+#0 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BaseSunat.php(155): Greenter\Ws\Reader\DomCdrReader->getCdrResponse('')
+#1 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Services/BillSender.php(39): Greenter\Ws\Services\BaseSunat->extractResponse('')
+#2 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/Factory/FeFactory.php(127): Greenter\Ws\Services\BillSender->send('20602989977-03-...', '<?xml version="...')
+#3 /home/farmasi1/public_html/vyp/greenter/vendor/greenter/greenter/src/Greenter/See.php(174): Greenter\Factory\FeFactory->send(Object(Greenter\Model\Sale\Invoice))
+#4 /home/farmasi1/public_html/vyp/greenter/examples/boleta.php(75): Greenter\See->send(Object(Greenter\Model\Sale\Invoice))
+#5 {main}
+  thrown in /home/farmasi1/public_html/vyp/greenter/vendor/greenter/ws/src/Ws/Reader/DomCdrReader.php on line 33

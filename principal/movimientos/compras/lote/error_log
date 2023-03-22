@@ -1,0 +1,150 @@
+[04-Sep-2018 16:25:02 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[04-Sep-2018 16:25:02 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[04-Sep-2018 16:25:02 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[04-Sep-2018 16:25:18 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[04-Sep-2018 16:32:52 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[04-Sep-2018 16:32:52 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[04-Sep-2018 16:32:52 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[04-Sep-2018 16:33:21 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[04-Sep-2018 16:33:37 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[04-Sep-2018 16:38:33 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[04-Sep-2018 16:38:33 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[04-Sep-2018 16:38:33 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[04-Sep-2018 16:40:16 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[09-Sep-2018 10:45:11 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[09-Sep-2018 10:45:11 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[09-Sep-2018 10:45:11 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[12-Sep-2018 11:42:58 UTC] PHP Notice:  Undefined index: codigo_user in /home/farmasi1/public_html/demo/principal/session_user.php on line 7
+[12-Sep-2018 11:42:58 UTC] PHP Notice:  Undefined index: resolucion in /home/farmasi1/public_html/demo/principal/session_user.php on line 8
+[20-Sep-2018 13:14:52 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[20-Sep-2018 13:14:52 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[20-Sep-2018 13:14:52 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[20-Sep-2018 13:15:38 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[20-Sep-2018 13:17:56 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[20-Sep-2018 13:17:56 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[20-Sep-2018 13:17:56 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[20-Sep-2018 13:18:14 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[28-Oct-2018 22:32:36 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[28-Oct-2018 22:32:36 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[28-Oct-2018 22:32:36 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[28-Oct-2018 22:32:47 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[28-Oct-2018 22:34:04 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[28-Oct-2018 22:34:04 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[28-Oct-2018 22:34:04 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[28-Oct-2018 22:34:16 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[10-Nov-2018 10:21:33 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[10-Nov-2018 10:21:33 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[10-Nov-2018 10:21:33 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[10-Nov-2018 10:21:50 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[12-May-2019 03:57:51 America/Lima] Caducidad: 1440
+[12-May-2019 03:57:51 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 03:57:56 America/Lima] Caducidad: 1440
+[12-May-2019 03:57:56 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 03:57:56 America/Lima] Caducidad: 1440
+[12-May-2019 03:57:56 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 07:33:07 America/Lima] Caducidad: 1440
+[12-May-2019 07:33:07 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 22:03:59 America/Lima] Caducidad: 1440
+[12-May-2019 22:03:59 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:04:47 America/Lima] Caducidad: 1440
+[12-May-2019 23:04:47 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:19:47 America/Lima] Caducidad: 1440
+[12-May-2019 23:19:49 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:32:03 America/Lima] Caducidad: 1440
+[12-May-2019 23:32:03 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:32:52 America/Lima] Caducidad: 1440
+[12-May-2019 23:32:52 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:38:39 America/Lima] Caducidad: 1440
+[12-May-2019 23:38:39 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:38:46 America/Lima] Caducidad: 1440
+[12-May-2019 23:38:46 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:40:00 America/Lima] Caducidad: 1440
+[12-May-2019 23:40:00 America/Lima] Caducidad despu√©s: 86400
+[12-May-2019 23:59:57 America/Lima] Caducidad: 1440
+[12-May-2019 23:59:57 America/Lima] Caducidad despu√©s: 86400
+[13-May-2019 00:27:20 America/Lima] Caducidad: 1440
+[13-May-2019 00:27:20 America/Lima] Caducidad despu√©s: 86400
+[13-May-2019 00:39:17 America/Lima] Caducidad: 1440
+[13-May-2019 00:39:17 America/Lima] Caducidad despu√©s: 86400
+[13-May-2019 00:39:36 America/Lima] Caducidad: 1440
+[13-May-2019 00:39:36 America/Lima] Caducidad despu√©s: 86400
+[13-May-2019 08:42:15 America/Lima] Caducidad: 1440
+[13-May-2019 08:42:15 America/Lima] Caducidad despu√©s: 86400
+[13-May-2019 09:11:02 America/Lima] Caducidad: 1440
+[13-May-2019 09:11:02 America/Lima] Caducidad despu√©s: 86400
+[13-May-2019 10:08:59 America/Lima] Caducidad: 1440
+[13-May-2019 10:08:59 America/Lima] Caducidad despu√©s: 86400
+[28-Jun-2019 16:07:33 America/Lima] Caducidad: 1440
+[28-Jun-2019 16:07:33 America/Lima] Caducidad despu®¶s: 86400
+[29-Jun-2019 12:12:53 America/Lima] Caducidad: 1440
+[29-Jun-2019 12:12:53 America/Lima] Caducidad despu®¶s: 86400
+[29-Jun-2019 12:13:25 America/Lima] Caducidad: 1440
+[29-Jun-2019 12:13:25 America/Lima] Caducidad despu®¶s: 86400
+[29-Jun-2019 12:15:02 America/Lima] Caducidad: 1440
+[29-Jun-2019 12:15:02 America/Lima] Caducidad despu®¶s: 86400
+[29-Jun-2019 12:17:06 America/Lima] Caducidad: 1440
+[29-Jun-2019 12:17:06 America/Lima] Caducidad despu®¶s: 86400
+[30-Jun-2019 09:18:00 America/Lima] Caducidad: 1440
+[30-Jun-2019 09:18:00 America/Lima] Caducidad despu®¶s: 86400
+[01-Jul-2019 10:15:45 America/Lima] Caducidad: 1440
+[01-Jul-2019 10:15:45 America/Lima] Caducidad despu®¶s: 86400
+[01-Jul-2019 10:16:45 America/Lima] Caducidad: 1440
+[01-Jul-2019 10:16:45 America/Lima] Caducidad despu®¶s: 86400
+[12-Jul-2019 13:54:00 America/Lima] Caducidad: 1440
+[12-Jul-2019 13:54:00 America/Lima] Caducidad despu®¶s: 86400
+[19-Jul-2019 12:23:35 America/Lima] Caducidad: 1440
+[19-Jul-2019 12:23:35 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 09:30:02 America/Lima] Caducidad: 1440
+[22-Jul-2019 09:30:02 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 10:48:44 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:48:44 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 10:48:48 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:48:48 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 10:48:48 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:48:48 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 10:49:29 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:49:29 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 10:49:29 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:49:29 America/Lima] Caducidad despu®¶s: 86400
+[22-Jul-2019 15:43:42 America/Lima] Caducidad: 1440
+[22-Jul-2019 15:43:42 America/Lima] Caducidad despu®¶s: 86400
+[25-Jul-2019 23:01:25 America/Lima] Caducidad: 1440
+[25-Jul-2019 23:01:25 America/Lima] Caducidad despu®¶s: 86400
+[31-Jul-2019 13:20:00 America/Lima] Caducidad: 1440
+[31-Jul-2019 13:20:00 America/Lima] Caducidad despu®¶s: 86400
+[31-Jul-2019 13:20:06 America/Lima] Caducidad: 1440
+[31-Jul-2019 13:20:06 America/Lima] Caducidad despu®¶s: 86400
+[31-Jul-2019 13:20:06 America/Lima] Caducidad: 1440
+[31-Jul-2019 13:20:06 America/Lima] Caducidad despu®¶s: 86400
+[31-Jul-2019 13:20:21 America/Lima] Caducidad: 1440
+[31-Jul-2019 13:20:21 America/Lima] Caducidad despu®¶s: 86400
+[07-Aug-2019 10:52:14 America/Lima] Caducidad: 1440
+[07-Aug-2019 10:52:14 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:39:41 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:39:41 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:44:12 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:44:12 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:44:44 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:44:44 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:44:45 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:44:45 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:44:49 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:44:49 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:44:49 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:44:49 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:45:13 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:45:13 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:45:14 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:45:14 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:45:22 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:45:22 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:45:23 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:45:23 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:45:43 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:45:43 America/Lima] Caducidad despu®¶s: 86400
+[08-Aug-2019 10:45:43 America/Lima] Caducidad: 1440
+[08-Aug-2019 10:45:43 America/Lima] Caducidad despu®¶s: 86400
+[25-Sep-2019 16:05:29 America/Lima] Caducidad: 1440
+[25-Sep-2019 16:05:29 America/Lima] Caducidad despu®¶s: 86400
+[17-Oct-2019 16:08:52 America/Lima] Caducidad: 1440
+[17-Oct-2019 16:08:52 America/Lima] Caducidad despu®¶s: 86400

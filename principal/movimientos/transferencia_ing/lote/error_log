@@ -1,0 +1,13 @@
+[27-Mar-2018 19:16:05 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/comercial_fmariarosa/funciones/botones.php on line 5
+[27-Mar-2018 19:16:05 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/transferencia_ing/lote/lote.php on line 123
+[27-Mar-2018 19:16:05 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/transferencia_ing/lote/lote.php on line 125
+[23-Jul-2019 09:38:07 America/Lima] Caducidad: 1440
+[23-Jul-2019 09:38:07 America/Lima] Caducidad despu¨¦s: 86400
+[23-Jul-2019 09:38:37 America/Lima] Caducidad: 1440
+[23-Jul-2019 09:38:37 America/Lima] Caducidad despu¨¦s: 86400
+[23-Jul-2019 09:38:38 America/Lima] Caducidad: 1440
+[23-Jul-2019 09:38:38 America/Lima] Caducidad despu¨¦s: 86400
+[23-Jul-2019 09:38:48 America/Lima] Caducidad: 1440
+[23-Jul-2019 09:38:48 America/Lima] Caducidad despu¨¦s: 86400
+[23-Jul-2019 09:42:11 America/Lima] Caducidad: 1440
+[23-Jul-2019 09:42:11 America/Lima] Caducidad despu¨¦s: 86400

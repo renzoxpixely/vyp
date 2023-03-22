@@ -1,0 +1,865 @@
+[04-Sep-2018 16:25:02 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[04-Sep-2018 16:25:02 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[04-Sep-2018 16:25:02 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[04-Sep-2018 16:25:18 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[04-Sep-2018 16:32:52 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[04-Sep-2018 16:32:52 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[04-Sep-2018 16:32:52 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[04-Sep-2018 16:33:21 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[04-Sep-2018 16:33:37 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[04-Sep-2018 16:38:33 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[04-Sep-2018 16:38:33 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[04-Sep-2018 16:38:33 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[04-Sep-2018 16:40:16 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[09-Sep-2018 10:45:11 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[09-Sep-2018 10:45:11 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[09-Sep-2018 10:45:11 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[12-Sep-2018 11:42:58 UTC] PHP Notice:  Undefined index: codigo_user in /home/farmasi1/public_html/demo/principal/session_user.php on line 7
+[12-Sep-2018 11:42:58 UTC] PHP Notice:  Undefined index: resolucion in /home/farmasi1/public_html/demo/principal/session_user.php on line 8
+[20-Sep-2018 13:14:52 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[20-Sep-2018 13:14:52 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[20-Sep-2018 13:14:52 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[20-Sep-2018 13:15:38 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[20-Sep-2018 13:17:56 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[20-Sep-2018 13:17:56 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[20-Sep-2018 13:17:56 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[20-Sep-2018 13:18:14 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[28-Oct-2018 22:32:36 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[28-Oct-2018 22:32:36 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[28-Oct-2018 22:32:36 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[28-Oct-2018 22:32:47 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[28-Oct-2018 22:34:04 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[28-Oct-2018 22:34:04 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[28-Oct-2018 22:34:04 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[28-Oct-2018 22:34:16 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[10-Nov-2018 10:21:33 America/Lima] PHP Notice:  Undefined variable: numlote in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 161
+[10-Nov-2018 10:21:33 America/Lima] PHP Notice:  Undefined variable: m in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 169
+[10-Nov-2018 10:21:33 America/Lima] PHP Notice:  Undefined variable: ycar in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 172
+[10-Nov-2018 10:21:50 America/Lima] PHP Deprecated:  Function split() is deprecated in /home/farmasi1/public_html/demo/principal/movimientos/compras/lote/lote.php on line 37
+[22-Feb-2019 14:50:54 America/Lima] PRUEBA4============
+[22-Feb-2019 14:52:42 America/Lima] PRUEBA4============
+[22-Feb-2019 14:55:16 America/Lima] PRUEBA4============
+[22-Feb-2019 14:57:48 America/Lima] PRUEB2A============
+[22-Feb-2019 15:00:25 America/Lima] PRUEBA4============
+[22-Feb-2019 15:20:32 America/Lima] PRUEBA4============
+[22-Feb-2019 15:46:41 America/Lima] PRUEBA4============
+[22-Feb-2019 15:47:03 America/Lima] PRUEBA4============
+[22-Feb-2019 16:44:56 America/Lima] Session 1: 902
+[22-Feb-2019 16:44:56 America/Lima] invnum 902
+[22-Feb-2019 16:44:56 America/Lima] PRUEBA4============
+[22-Feb-2019 17:00:21 America/Lima] Session 1: 903
+[22-Feb-2019 17:00:21 America/Lima] invnum 903
+[22-Feb-2019 17:00:21 America/Lima] PRUEB2A============
+[22-Feb-2019 18:45:57 America/Lima] Session Lote_reg: 906
+[22-Feb-2019 18:45:57 America/Lima] invnum 906
+[22-Feb-2019 18:45:57 America/Lima] codloc 1
+[22-Feb-2019 18:45:57 America/Lima] PRUEBA4============
+[22-Feb-2019 18:45:57 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('906','a32','9/2025','745', '1')
+[22-Feb-2019 18:52:38 America/Lima] invnum 
+[22-Feb-2019 18:52:38 America/Lima] cod 747
+[22-Feb-2019 18:52:47 America/Lima] invnum 
+[22-Feb-2019 18:52:47 America/Lima] cod 747
+[22-Feb-2019 19:01:56 America/Lima] invnum 
+[22-Feb-2019 19:01:56 America/Lima] cod 747
+[22-Feb-2019 19:02:05 America/Lima] invnum 
+[22-Feb-2019 19:02:05 America/Lima] cod 747
+[22-Feb-2019 19:02:12 America/Lima] invnum 
+[22-Feb-2019 19:02:12 America/Lima] cod 747
+[22-Feb-2019 19:08:45 America/Lima] invnum 
+[22-Feb-2019 19:08:45 America/Lima] cod 747
+[22-Feb-2019 19:09:30 America/Lima] invnum 
+[22-Feb-2019 19:09:30 America/Lima] cod 747
+[22-Feb-2019 19:16:29 America/Lima] invnum 
+[22-Feb-2019 19:16:29 America/Lima] cod 747
+[22-Feb-2019 19:16:35 America/Lima] invnum 
+[22-Feb-2019 19:16:35 America/Lima] cod 747
+[22-Feb-2019 19:19:37 America/Lima] invnum 
+[22-Feb-2019 19:19:37 America/Lima] cod 746
+[22-Feb-2019 19:19:43 America/Lima] invnum 
+[22-Feb-2019 19:19:43 America/Lima] cod 746
+[22-Feb-2019 19:33:10 America/Lima] invnum de Lote: 
+[22-Feb-2019 19:33:10 America/Lima] cod 746
+[22-Feb-2019 19:33:31 America/Lima] invnum de Lote: 
+[22-Feb-2019 19:33:31 America/Lima] cod 746
+[22-Feb-2019 19:39:41 America/Lima] invnum de Lote Aux: 
+[22-Feb-2019 19:39:41 America/Lima] cod 747
+[22-Feb-2019 20:02:16 America/Lima] invnum de Lote Aux: 
+[22-Feb-2019 20:02:16 America/Lima] cod 747
+[22-Feb-2019 20:02:20 America/Lima] invnum de Verifica: 
+[22-Feb-2019 20:02:20 America/Lima] codloc de verificar 1
+[22-Feb-2019 20:02:20 America/Lima] invnum de Lote Aux: 
+[22-Feb-2019 20:02:20 America/Lima] cod 747
+[22-Feb-2019 20:07:04 America/Lima] invnum de Verifica: 910
+[22-Feb-2019 20:07:04 America/Lima] codloc de verificar 1
+[22-Feb-2019 20:07:05 America/Lima] invnum de Lote Aux: 910
+[22-Feb-2019 20:07:05 America/Lima] cod 747
+[22-Feb-2019 20:07:47 America/Lima] invnum de Lote Aux: 910
+[22-Feb-2019 20:07:47 America/Lima] cod 747
+[22-Feb-2019 20:07:52 America/Lima] invnum de Verifica: 910
+[22-Feb-2019 20:07:52 America/Lima] codloc de verificar 1
+[22-Feb-2019 20:07:53 America/Lima] invnum de Lote Aux: 910
+[22-Feb-2019 20:07:53 America/Lima] cod 747
+[22-Feb-2019 20:18:52 America/Lima] invnum de Lote Aux: 911
+[22-Feb-2019 20:18:52 America/Lima] cod 747
+[22-Feb-2019 20:18:59 America/Lima] invnum de Verifica: 911
+[22-Feb-2019 20:18:59 America/Lima] codloc de verificar 1
+[22-Feb-2019 20:18:59 America/Lima] invnum de Lote Aux: 911
+[22-Feb-2019 20:18:59 America/Lima] cod 747
+[22-Feb-2019 20:44:29 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:44:29 America/Lima] cod 746
+[22-Feb-2019 20:44:34 America/Lima] invnum de Verifica: 912
+[22-Feb-2019 20:44:34 America/Lima] codloc de verificar 3
+[22-Feb-2019 20:44:34 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:44:34 America/Lima] cod 746
+[22-Feb-2019 20:44:36 America/Lima] invnum de Verifica: 912
+[22-Feb-2019 20:44:36 America/Lima] codloc de verificar 3
+[22-Feb-2019 20:44:36 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:44:36 America/Lima] cod 746
+[22-Feb-2019 20:45:06 America/Lima] invnum de Verifica: 912
+[22-Feb-2019 20:45:06 America/Lima] codloc de verificar 3
+[22-Feb-2019 20:45:06 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:45:06 America/Lima] cod 746
+[22-Feb-2019 20:45:21 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:45:21 America/Lima] cod 747
+[22-Feb-2019 20:45:27 America/Lima] invnum de Verifica: 912
+[22-Feb-2019 20:45:27 America/Lima] codloc de verificar 3
+[22-Feb-2019 20:45:28 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:45:28 America/Lima] cod 747
+[22-Feb-2019 20:45:54 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:45:54 America/Lima] cod 746
+[22-Feb-2019 20:46:09 America/Lima] invnum de Lote Aux: 912
+[22-Feb-2019 20:46:09 America/Lima] cod 747
+[22-Feb-2019 20:49:20 America/Lima] invnum de Lote Aux: 913
+[22-Feb-2019 20:49:20 America/Lima] cod 747
+[22-Feb-2019 20:49:24 America/Lima] invnum de Verifica: 913
+[22-Feb-2019 20:49:24 America/Lima] codloc de verificar 3
+[22-Feb-2019 20:49:24 America/Lima] invnum de Lote Aux: 913
+[22-Feb-2019 20:49:24 America/Lima] cod 747
+[22-Feb-2019 20:49:32 America/Lima] Session Lote_reg Aux: 913
+[22-Feb-2019 20:49:32 America/Lima] invnum 913
+[22-Feb-2019 20:49:32 America/Lima] numero a551
+[22-Feb-2019 20:49:32 America/Lima] codpro 747
+[22-Feb-2019 20:49:32 America/Lima] codloc de lote 3
+[22-Feb-2019 20:49:32 America/Lima] PRUEBA3============
+[22-Feb-2019 20:49:32 America/Lima] invnum de Lote Aux: 913
+[22-Feb-2019 20:49:32 America/Lima] cod 747
+[23-Feb-2019 07:04:18 America/Lima] invnum de Lote Aux: 914
+[23-Feb-2019 07:04:18 America/Lima] cod 747
+[23-Feb-2019 07:04:24 America/Lima] invnum de Verifica: 914
+[23-Feb-2019 07:04:24 America/Lima] codloc de verificar 1
+[23-Feb-2019 07:04:24 America/Lima] invnum de Lote Aux: 914
+[23-Feb-2019 07:04:24 America/Lima] cod 747
+[23-Feb-2019 07:04:34 America/Lima] Session Lote_reg Aux: 914
+[23-Feb-2019 07:04:34 America/Lima] invnum 914
+[23-Feb-2019 07:04:34 America/Lima] numero a550
+[23-Feb-2019 07:04:34 America/Lima] codpro 747
+[23-Feb-2019 07:04:34 America/Lima] codloc de lote 1
+[23-Feb-2019 07:04:34 America/Lima] PRUEBA3============
+[23-Feb-2019 07:04:34 America/Lima] invnum de Lote Aux: 914
+[23-Feb-2019 07:04:34 America/Lima] cod 747
+[23-Feb-2019 07:04:42 America/Lima] invnum de Lote Aux: 914
+[23-Feb-2019 07:04:42 America/Lima] cod 746
+[23-Feb-2019 07:04:42 America/Lima] invnum de Lote Aux: 914
+[23-Feb-2019 07:04:42 America/Lima] cod 746
+[23-Feb-2019 07:04:50 America/Lima] invnum de Verifica: 914
+[23-Feb-2019 07:04:50 America/Lima] codloc de verificar 1
+[23-Feb-2019 07:04:50 America/Lima] invnum de Lote Aux: 914
+[23-Feb-2019 07:04:50 America/Lima] cod 746
+[23-Feb-2019 07:04:58 America/Lima] Session Lote_reg Aux: 914
+[23-Feb-2019 07:04:58 America/Lima] invnum 914
+[23-Feb-2019 07:04:58 America/Lima] numero a124
+[23-Feb-2019 07:04:58 America/Lima] codpro 746
+[23-Feb-2019 07:04:58 America/Lima] codloc de lote 1
+[23-Feb-2019 07:04:58 America/Lima] PRUEBA3============
+[23-Feb-2019 07:04:58 America/Lima] invnum de Lote Aux: 914
+[23-Feb-2019 07:04:58 America/Lima] cod 746
+[23-Feb-2019 07:13:34 America/Lima] invnum de Lote Aux: 915
+[23-Feb-2019 07:13:34 America/Lima] cod 747
+[23-Feb-2019 07:13:40 America/Lima] invnum de Verifica: 915
+[23-Feb-2019 07:13:40 America/Lima] codloc de verificar 1
+[23-Feb-2019 07:13:40 America/Lima] invnum de Lote Aux: 915
+[23-Feb-2019 07:13:40 America/Lima] cod 747
+[23-Feb-2019 07:13:50 America/Lima] invnum de Lote Aux: 915
+[23-Feb-2019 07:13:50 America/Lima] cod 746
+[23-Feb-2019 07:13:57 America/Lima] invnum de Verifica: 915
+[23-Feb-2019 07:13:57 America/Lima] codloc de verificar 1
+[23-Feb-2019 07:13:57 America/Lima] invnum de Lote Aux: 915
+[23-Feb-2019 07:13:57 America/Lima] cod 746
+[23-Feb-2019 07:14:08 America/Lima] Session Lote_reg Aux: 915
+[23-Feb-2019 07:14:08 America/Lima] invnum 915
+[23-Feb-2019 07:14:08 America/Lima] numero A123
+[23-Feb-2019 07:14:08 America/Lima] codpro 746
+[23-Feb-2019 07:14:08 America/Lima] codloc de lote 1
+[23-Feb-2019 07:14:08 America/Lima] PRUEBA3============
+[23-Feb-2019 07:14:09 America/Lima] invnum de Lote Aux: 915
+[23-Feb-2019 07:14:09 America/Lima] cod 746
+[23-Feb-2019 07:16:40 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:16:40 America/Lima] cod 747
+[23-Feb-2019 07:16:48 America/Lima] invnum de Verifica: 916
+[23-Feb-2019 07:16:48 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:16:49 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:16:49 America/Lima] cod 747
+[23-Feb-2019 07:16:53 America/Lima] invnum de Verifica: 916
+[23-Feb-2019 07:16:53 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:16:53 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:16:53 America/Lima] cod 747
+[23-Feb-2019 07:16:57 America/Lima] invnum de Verifica: 916
+[23-Feb-2019 07:16:57 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:16:57 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:16:57 America/Lima] cod 747
+[23-Feb-2019 07:17:02 America/Lima] invnum de Verifica: 916
+[23-Feb-2019 07:17:02 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:17:03 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:17:03 America/Lima] cod 747
+[23-Feb-2019 07:17:18 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:17:18 America/Lima] cod 746
+[23-Feb-2019 07:17:29 America/Lima] invnum de Verifica: 916
+[23-Feb-2019 07:17:29 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:17:29 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:17:29 America/Lima] cod 746
+[23-Feb-2019 07:17:37 America/Lima] Session Lote_reg Aux: 916
+[23-Feb-2019 07:17:37 America/Lima] invnum 916
+[23-Feb-2019 07:17:37 America/Lima] numero e125
+[23-Feb-2019 07:17:37 America/Lima] codpro 746
+[23-Feb-2019 07:17:37 America/Lima] codloc de lote 3
+[23-Feb-2019 07:17:37 America/Lima] PRUEBA3============
+[23-Feb-2019 07:17:38 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:17:38 America/Lima] cod 746
+[23-Feb-2019 07:17:47 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:17:47 America/Lima] cod 747
+[23-Feb-2019 07:17:51 America/Lima] invnum de Verifica: 916
+[23-Feb-2019 07:17:51 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:17:51 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:17:51 America/Lima] cod 747
+[23-Feb-2019 07:18:36 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:18:36 America/Lima] cod 746
+[23-Feb-2019 07:18:55 America/Lima] Session Lote_reg Aux: 916
+[23-Feb-2019 07:18:55 America/Lima] invnum 916
+[23-Feb-2019 07:18:55 America/Lima] numero e125
+[23-Feb-2019 07:18:55 America/Lima] codpro 746
+[23-Feb-2019 07:18:55 America/Lima] codloc de lote 3
+[23-Feb-2019 07:18:55 America/Lima] PRUEBA3============
+[23-Feb-2019 07:18:55 America/Lima] invnum de Lote Aux: 916
+[23-Feb-2019 07:18:55 America/Lima] cod 746
+[23-Feb-2019 07:24:31 America/Lima] invnum de Lote Aux: 917
+[23-Feb-2019 07:24:31 America/Lima] cod 747
+[23-Feb-2019 07:24:39 America/Lima] invnum de Verifica: 917
+[23-Feb-2019 07:24:39 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:24:40 America/Lima] invnum de Lote Aux: 917
+[23-Feb-2019 07:24:40 America/Lima] cod 747
+[23-Feb-2019 07:25:05 America/Lima] invnum de Lote Aux: 917
+[23-Feb-2019 07:25:05 America/Lima] cod 746
+[23-Feb-2019 07:25:11 America/Lima] invnum de Verifica: 917
+[23-Feb-2019 07:25:11 America/Lima] codloc de verificar 3
+[23-Feb-2019 07:25:11 America/Lima] invnum de Lote Aux: 917
+[23-Feb-2019 07:25:11 America/Lima] cod 746
+[23-Feb-2019 08:25:30 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:25:30 America/Lima] cod 747
+[23-Feb-2019 08:25:38 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:25:38 America/Lima] cod 747
+[23-Feb-2019 08:25:50 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:25:50 America/Lima] cod 746
+[23-Feb-2019 08:25:55 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:25:55 America/Lima] cod 746
+[23-Feb-2019 08:26:19 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:26:19 America/Lima] cod 747
+[23-Feb-2019 08:26:32 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:26:32 America/Lima] cod 747
+[23-Feb-2019 08:26:40 America/Lima] Session Lote_reg Aux: 918
+[23-Feb-2019 08:26:40 America/Lima] invnum 918
+[23-Feb-2019 08:26:40 America/Lima] numero e125
+[23-Feb-2019 08:26:40 America/Lima] codpro 747
+[23-Feb-2019 08:26:40 America/Lima] codloc de lote 1
+[23-Feb-2019 08:26:40 America/Lima] PRUEBA3============
+[23-Feb-2019 08:26:40 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:26:40 America/Lima] cod 747
+[23-Feb-2019 08:26:48 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:26:48 America/Lima] cod 747
+[23-Feb-2019 08:26:55 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:26:55 America/Lima] cod 746
+[23-Feb-2019 08:28:46 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:28:46 America/Lima] cod 747
+[23-Feb-2019 08:28:54 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:28:54 America/Lima] cod 747
+[23-Feb-2019 08:29:05 America/Lima] Session Lote_reg Aux: 918
+[23-Feb-2019 08:29:05 America/Lima] invnum 918
+[23-Feb-2019 08:29:05 America/Lima] numero a123
+[23-Feb-2019 08:29:05 America/Lima] codpro 747
+[23-Feb-2019 08:29:05 America/Lima] codloc de lote 1
+[23-Feb-2019 08:29:05 America/Lima] PRUEBA3============
+[23-Feb-2019 08:29:05 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:29:05 America/Lima] cod 747
+[23-Feb-2019 08:29:16 America/Lima] invnum de Lote Aux: 918
+[23-Feb-2019 08:29:16 America/Lima] cod 747
+[23-Feb-2019 08:54:49 America/Lima] invnum de Lote Aux: 919
+[23-Feb-2019 08:54:49 America/Lima] cod 747
+[23-Feb-2019 08:54:58 America/Lima] invnum de Lote Aux: 919
+[23-Feb-2019 08:54:58 America/Lima] cod 747
+[23-Feb-2019 09:01:44 America/Lima] invnum de Lote Aux: 919
+[23-Feb-2019 09:01:44 America/Lima] cod 746
+[23-Feb-2019 09:01:52 America/Lima] invnum de Lote Aux: 919
+[23-Feb-2019 09:01:52 America/Lima] cod 746
+[23-Feb-2019 09:02:00 America/Lima] Session Lote_reg Aux: 919
+[23-Feb-2019 09:02:00 America/Lima] invnum 919
+[23-Feb-2019 09:02:00 America/Lima] numero ae125
+[23-Feb-2019 09:02:00 America/Lima] codpro 746
+[23-Feb-2019 09:02:00 America/Lima] codloc de lote 1
+[23-Feb-2019 09:02:00 America/Lima] PRUEBA3============
+[23-Feb-2019 09:02:00 America/Lima] invnum de Lote Aux: 919
+[23-Feb-2019 09:02:00 America/Lima] cod 746
+[23-Feb-2019 09:11:50 America/Lima] invnum de Lote Aux: 920
+[23-Feb-2019 09:11:50 America/Lima] cod 747
+[23-Feb-2019 09:12:56 America/Lima] invnum de Lote Aux: 920
+[23-Feb-2019 09:12:56 America/Lima] cod 747
+[23-Feb-2019 09:13:09 America/Lima] Session Lote_reg Aux: 920
+[23-Feb-2019 09:13:09 America/Lima] invnum 920
+[23-Feb-2019 09:13:09 America/Lima] numero a550
+[23-Feb-2019 09:13:09 America/Lima] codpro 747
+[23-Feb-2019 09:13:09 America/Lima] codloc de lote 3
+[23-Feb-2019 09:13:09 America/Lima] PRUEBA3============
+[23-Feb-2019 09:13:09 America/Lima] invnum de Lote Aux: 920
+[23-Feb-2019 09:13:09 America/Lima] cod 747
+[23-Feb-2019 09:13:36 America/Lima] invnum de Lote Aux: 920
+[23-Feb-2019 09:13:36 America/Lima] cod 746
+[23-Feb-2019 09:13:52 America/Lima] invnum de Lote Aux: 920
+[23-Feb-2019 09:13:52 America/Lima] cod 746
+[23-Feb-2019 09:17:06 America/Lima] invnum de Lote Aux: 921
+[23-Feb-2019 09:17:06 America/Lima] cod 747
+[23-Feb-2019 09:17:19 America/Lima] invnum de Lote Aux: 921
+[23-Feb-2019 09:17:19 America/Lima] cod 747
+[23-Feb-2019 09:17:25 America/Lima] invnum de Lote Aux: 921
+[23-Feb-2019 09:17:25 America/Lima] cod 747
+[23-Feb-2019 09:17:48 America/Lima] Session Lote_reg Aux: 921
+[23-Feb-2019 09:17:48 America/Lima] invnum 921
+[23-Feb-2019 09:17:48 America/Lima] numero E550
+[23-Feb-2019 09:17:48 America/Lima] codpro 747
+[23-Feb-2019 09:17:48 America/Lima] codloc de lote 3
+[23-Feb-2019 09:17:48 America/Lima] PRUEBA3============
+[23-Feb-2019 09:17:48 America/Lima] invnum de Lote Aux: 921
+[23-Feb-2019 09:17:48 America/Lima] cod 747
+[23-Feb-2019 09:18:01 America/Lima] invnum de Lote Aux: 921
+[23-Feb-2019 09:18:01 America/Lima] cod 746
+[23-Feb-2019 09:18:08 America/Lima] invnum de Lote Aux: 921
+[23-Feb-2019 09:18:08 America/Lima] cod 746
+[23-Feb-2019 09:28:37 America/Lima] invnum de Lote Aux: 924
+[23-Feb-2019 09:28:37 America/Lima] cod 747
+[23-Feb-2019 09:28:45 America/Lima] invnum de Lote Aux: 924
+[23-Feb-2019 09:28:45 America/Lima] cod 747
+[23-Feb-2019 09:28:55 America/Lima] invnum de Lote Aux: 924
+[23-Feb-2019 09:28:55 America/Lima] cod 746
+[23-Feb-2019 09:29:05 America/Lima] invnum de Lote Aux: 924
+[23-Feb-2019 09:29:05 America/Lima] cod 746
+[23-Feb-2019 09:29:25 America/Lima] Session Lote_reg Aux: 924
+[23-Feb-2019 09:29:25 America/Lima] invnum 924
+[23-Feb-2019 09:29:25 America/Lima] numero e125
+[23-Feb-2019 09:29:25 America/Lima] codpro 746
+[23-Feb-2019 09:29:25 America/Lima] codloc de lote 1
+[23-Feb-2019 09:29:25 America/Lima] PRUEBA3============
+[23-Feb-2019 09:29:25 America/Lima] invnum de Lote Aux: 924
+[23-Feb-2019 09:29:25 America/Lima] cod 746
+[24-Feb-2019 07:52:49 America/Lima] invnum de Lote Aux: 926
+[24-Feb-2019 07:52:49 America/Lima] cod 747
+[24-Feb-2019 07:52:56 America/Lima] invnum de Lote Aux: 926
+[24-Feb-2019 07:52:56 America/Lima] cod 747
+[24-Feb-2019 07:53:05 America/Lima] invnum de Lote Aux: 926
+[24-Feb-2019 07:53:05 America/Lima] cod 747
+[24-Feb-2019 07:53:05 America/Lima] invnum de Lote Aux: 926
+[24-Feb-2019 07:53:05 America/Lima] cod 747
+[24-Feb-2019 07:53:19 America/Lima] invnum de Lote Aux: 926
+[24-Feb-2019 07:53:19 America/Lima] cod 746
+[24-Feb-2019 07:53:26 America/Lima] invnum de Lote Aux: 926
+[24-Feb-2019 07:53:26 America/Lima] cod 746
+[24-Feb-2019 07:53:33 America/Lima] invnum de Lote Aux: 926
+[24-Feb-2019 07:53:33 America/Lima] cod 746
+[24-Feb-2019 07:56:03 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:03 America/Lima] cod 747
+[24-Feb-2019 07:56:10 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:10 America/Lima] cod 747
+[24-Feb-2019 07:56:19 America/Lima] Session Lote_reg Aux: 927
+[24-Feb-2019 07:56:19 America/Lima] invnum 927
+[24-Feb-2019 07:56:19 America/Lima] numero e551
+[24-Feb-2019 07:56:19 America/Lima] codpro 747
+[24-Feb-2019 07:56:19 America/Lima] codloc de lote 3
+[24-Feb-2019 07:56:19 America/Lima] PRUEBA3============
+[24-Feb-2019 07:56:19 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:19 America/Lima] cod 747
+[24-Feb-2019 07:56:26 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:26 America/Lima] cod 746
+[24-Feb-2019 07:56:31 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:31 America/Lima] cod 746
+[24-Feb-2019 07:56:33 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:33 America/Lima] cod 746
+[24-Feb-2019 07:56:47 America/Lima] Session Lote_reg Aux: 927
+[24-Feb-2019 07:56:47 America/Lima] invnum 927
+[24-Feb-2019 07:56:47 America/Lima] numero a124
+[24-Feb-2019 07:56:47 America/Lima] codpro 746
+[24-Feb-2019 07:56:47 America/Lima] codloc de lote 3
+[24-Feb-2019 07:56:47 America/Lima] PRUEBA3============
+[24-Feb-2019 07:56:47 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:47 America/Lima] cod 746
+[24-Feb-2019 07:56:54 America/Lima] invnum de Lote Aux: 927
+[24-Feb-2019 07:56:54 America/Lima] cod 747
+[25-Feb-2019 16:42:15 America/Lima] invnum de Lote Aux: 928
+[25-Feb-2019 16:42:15 America/Lima] cod 747
+[25-Feb-2019 16:42:22 America/Lima] invnum de Lote Aux: 928
+[25-Feb-2019 16:42:22 America/Lima] cod 747
+[25-Feb-2019 16:43:15 America/Lima] invnum de Lote Aux: 928
+[25-Feb-2019 16:43:15 America/Lima] cod 746
+[25-Feb-2019 16:43:30 America/Lima] invnum de Lote Aux: 928
+[25-Feb-2019 16:43:30 America/Lima] cod 746
+[25-Feb-2019 16:47:49 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:47:49 America/Lima] cod 747
+[25-Feb-2019 16:47:58 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:47:58 America/Lima] cod 747
+[25-Feb-2019 16:48:18 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:48:18 America/Lima] cod 747
+[25-Feb-2019 16:48:36 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:48:36 America/Lima] cod 746
+[25-Feb-2019 16:48:45 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:48:45 America/Lima] cod 746
+[25-Feb-2019 16:48:59 America/Lima] Session Lote_reg Aux: 929
+[25-Feb-2019 16:48:59 America/Lima] invnum 929
+[25-Feb-2019 16:48:59 America/Lima] numero fj330
+[25-Feb-2019 16:48:59 America/Lima] codpro 746
+[25-Feb-2019 16:48:59 America/Lima] codloc de lote 3
+[25-Feb-2019 16:48:59 America/Lima] PRUEBA3============
+[25-Feb-2019 16:48:59 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:48:59 America/Lima] cod 746
+[25-Feb-2019 16:49:21 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:49:21 America/Lima] cod 746
+[25-Feb-2019 16:49:31 America/Lima] Session Lote_reg Aux: 929
+[25-Feb-2019 16:49:31 America/Lima] invnum 929
+[25-Feb-2019 16:49:31 America/Lima] numero fj330
+[25-Feb-2019 16:49:31 America/Lima] codpro 746
+[25-Feb-2019 16:49:31 America/Lima] codloc de lote 3
+[25-Feb-2019 16:49:31 America/Lima] PRUEBA3============
+[25-Feb-2019 16:49:31 America/Lima] invnum de Lote Aux: 929
+[25-Feb-2019 16:49:31 America/Lima] cod 746
+[26-Feb-2019 09:16:46 America/Lima] invnum de Lote Aux: 930
+[26-Feb-2019 09:16:46 America/Lima] cod 746
+[26-Feb-2019 09:16:51 America/Lima] invnum de Lote Aux: 930
+[26-Feb-2019 09:16:51 America/Lima] cod 746
+[26-Feb-2019 09:16:57 America/Lima] Session Lote_reg Aux: 930
+[26-Feb-2019 09:16:57 America/Lima] invnum 930
+[26-Feb-2019 09:16:57 America/Lima] numero aaa
+[26-Feb-2019 09:16:57 America/Lima] codpro 746
+[26-Feb-2019 09:16:57 America/Lima] codloc de lote 3
+[26-Feb-2019 09:16:57 America/Lima] PRUEBA3============
+[26-Feb-2019 09:16:58 America/Lima] invnum de Lote Aux: 930
+[26-Feb-2019 09:16:58 America/Lima] cod 746
+[26-Feb-2019 09:17:49 America/Lima] invnum de Lote Aux: 931
+[26-Feb-2019 09:17:49 America/Lima] cod 746
+[26-Feb-2019 09:17:54 America/Lima] invnum de Lote Aux: 931
+[26-Feb-2019 09:17:54 America/Lima] cod 746
+[26-Feb-2019 09:18:00 America/Lima] Session Lote_reg Aux: 931
+[26-Feb-2019 09:18:00 America/Lima] invnum 931
+[26-Feb-2019 09:18:00 America/Lima] numero bbb
+[26-Feb-2019 09:18:00 America/Lima] codpro 746
+[26-Feb-2019 09:18:00 America/Lima] codloc de lote 3
+[26-Feb-2019 09:18:00 America/Lima] PRUEBA3============
+[26-Feb-2019 09:18:00 America/Lima] invnum de Lote Aux: 931
+[26-Feb-2019 09:18:00 America/Lima] cod 746
+[26-Feb-2019 09:29:59 America/Lima] invnum de Lote Aux: 932
+[26-Feb-2019 09:29:59 America/Lima] cod 747
+[26-Feb-2019 09:30:22 America/Lima] invnum de Lote Aux: 932
+[26-Feb-2019 09:30:22 America/Lima] cod 747
+[26-Feb-2019 09:30:31 America/Lima] Session Lote_reg Aux: 932
+[26-Feb-2019 09:30:31 America/Lima] invnum 932
+[26-Feb-2019 09:30:31 America/Lima] numero aba
+[26-Feb-2019 09:30:31 America/Lima] codpro 747
+[26-Feb-2019 09:30:31 America/Lima] codloc de lote 3
+[26-Feb-2019 09:30:31 America/Lima] PRUEBA3============
+[26-Feb-2019 09:30:31 America/Lima] invnum de Lote Aux: 932
+[26-Feb-2019 09:30:31 America/Lima] cod 747
+[26-Feb-2019 09:31:05 America/Lima] invnum de Lote Aux: 932
+[26-Feb-2019 09:31:05 America/Lima] cod 746
+[26-Feb-2019 09:31:12 America/Lima] invnum de Lote Aux: 932
+[26-Feb-2019 09:31:12 America/Lima] cod 746
+[26-Feb-2019 09:31:19 America/Lima] Session Lote_reg Aux: 932
+[26-Feb-2019 09:31:19 America/Lima] invnum 932
+[26-Feb-2019 09:31:19 America/Lima] numero bbbc
+[26-Feb-2019 09:31:19 America/Lima] codpro 746
+[26-Feb-2019 09:31:19 America/Lima] codloc de lote 3
+[26-Feb-2019 09:31:19 America/Lima] PRUEBA3============
+[26-Feb-2019 09:31:20 America/Lima] invnum de Lote Aux: 932
+[26-Feb-2019 09:31:20 America/Lima] cod 746
+[26-Feb-2019 11:34:59 America/Lima] invnum de Lote Aux: 933
+[26-Feb-2019 11:34:59 America/Lima] cod 747
+[26-Feb-2019 11:35:10 America/Lima] invnum de Lote Aux: 933
+[26-Feb-2019 11:35:10 America/Lima] cod 747
+[26-Feb-2019 11:35:32 America/Lima] Session Lote_reg Aux: 933
+[26-Feb-2019 11:35:32 America/Lima] invnum 933
+[26-Feb-2019 11:35:32 America/Lima] numero abc550
+[26-Feb-2019 11:35:32 America/Lima] codpro 747
+[26-Feb-2019 11:35:32 America/Lima] codloc de lote 1
+[26-Feb-2019 11:35:32 America/Lima] PRUEBA3============
+[26-Feb-2019 11:35:32 America/Lima] invnum de Lote Aux: 933
+[26-Feb-2019 11:35:32 America/Lima] cod 747
+[26-Feb-2019 11:35:55 America/Lima] invnum de Lote Aux: 933
+[26-Feb-2019 11:35:55 America/Lima] cod 746
+[26-Feb-2019 11:36:36 America/Lima] invnum de Lote Aux: 933
+[26-Feb-2019 11:36:36 America/Lima] cod 746
+[26-Feb-2019 11:36:46 America/Lima] invnum de Lote Aux: 933
+[26-Feb-2019 11:36:46 America/Lima] cod 746
+[26-Feb-2019 11:36:55 America/Lima] invnum de Lote Aux: 933
+[26-Feb-2019 11:36:55 America/Lima] cod 747
+[23-Mar-2019 09:49:01 America/Lima] invnum de Lote Aux: 2
+[23-Mar-2019 09:49:01 America/Lima] cod 576
+[23-Mar-2019 09:49:13 America/Lima] Session Lote_reg Aux: 2
+[23-Mar-2019 09:49:13 America/Lima] invnum 2
+[23-Mar-2019 09:49:13 America/Lima] numero aaaa
+[23-Mar-2019 09:49:13 America/Lima] codpro 576
+[23-Mar-2019 09:49:13 America/Lima] codloc de lote 1
+[23-Mar-2019 09:49:13 America/Lima] PRUEBA4============
+[23-Mar-2019 09:49:13 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('2','aaaa','12/2020','576', '1')
+[23-Mar-2019 09:49:13 America/Lima] invnum de Lote Aux: 2
+[23-Mar-2019 09:49:13 America/Lima] cod 576
+[23-Mar-2019 09:56:27 America/Lima] invnum de Lote Aux: 5
+[23-Mar-2019 09:56:27 America/Lima] cod 576
+[23-Mar-2019 09:56:39 America/Lima] Session Lote_reg Aux: 5
+[23-Mar-2019 09:56:39 America/Lima] invnum 5
+[23-Mar-2019 09:56:39 America/Lima] numero 8888
+[23-Mar-2019 09:56:39 America/Lima] codpro 576
+[23-Mar-2019 09:56:39 America/Lima] codloc de lote 1
+[23-Mar-2019 09:56:39 America/Lima] PRUEBA4============
+[23-Mar-2019 09:56:39 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('5','8888','12/2020','576', '1')
+[23-Mar-2019 09:56:40 America/Lima] invnum de Lote Aux: 5
+[23-Mar-2019 09:56:40 America/Lima] cod 576
+[23-Mar-2019 10:30:10 America/Lima] invnum de Lote Aux: 6
+[23-Mar-2019 10:30:10 America/Lima] cod 576
+[29-Mar-2019 09:25:12 America/Lima] invnum de Lote Aux: 4
+[29-Mar-2019 09:25:12 America/Lima] cod 8126
+[29-Mar-2019 09:25:22 America/Lima] Session Lote_reg Aux: 4
+[29-Mar-2019 09:25:22 America/Lima] invnum 4
+[29-Mar-2019 09:25:22 America/Lima] numero bbbb
+[29-Mar-2019 09:25:22 America/Lima] codpro 8126
+[29-Mar-2019 09:25:22 America/Lima] codloc de lote 1
+[29-Mar-2019 09:25:22 America/Lima] PRUEBA4============
+[29-Mar-2019 09:25:22 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('4','bbbb','12/2019','8126', '1')
+[29-Mar-2019 09:25:22 America/Lima] invnum de Lote Aux: 4
+[29-Mar-2019 09:25:22 America/Lima] cod 8126
+[30-Mar-2019 19:36:44 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 19:36:44 America/Lima] cod 577
+[30-Mar-2019 19:36:51 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 19:36:51 America/Lima] invnum 1
+[30-Mar-2019 19:36:51 America/Lima] numero aaaa
+[30-Mar-2019 19:36:51 America/Lima] codpro 577
+[30-Mar-2019 19:36:51 America/Lima] codloc de lote 3
+[30-Mar-2019 19:36:51 America/Lima] PRUEBA4============
+[30-Mar-2019 19:36:51 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('1','aaaa','12/2020','577', '3')
+[30-Mar-2019 19:36:52 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 19:36:52 America/Lima] cod 577
+[30-Mar-2019 19:36:56 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 19:36:56 America/Lima] cod 8126
+[30-Mar-2019 19:37:04 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 19:37:04 America/Lima] invnum 1
+[30-Mar-2019 19:37:04 America/Lima] numero bbbb
+[30-Mar-2019 19:37:04 America/Lima] codpro 8126
+[30-Mar-2019 19:37:04 America/Lima] codloc de lote 3
+[30-Mar-2019 19:37:04 America/Lima] PRUEBA4============
+[30-Mar-2019 19:37:04 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('1','bbbb','12/2021','8126', '3')
+[30-Mar-2019 19:37:08 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 19:37:08 America/Lima] cod 8126
+[30-Mar-2019 19:42:33 America/Lima] invnum de Lote Aux: 2
+[30-Mar-2019 19:42:33 America/Lima] cod 576
+[30-Mar-2019 19:42:40 America/Lima] Session Lote_reg Aux: 2
+[30-Mar-2019 19:42:40 America/Lima] invnum 2
+[30-Mar-2019 19:42:40 America/Lima] numero aaaa
+[30-Mar-2019 19:42:40 America/Lima] codpro 576
+[30-Mar-2019 19:42:40 America/Lima] codloc de lote 3
+[30-Mar-2019 19:42:40 America/Lima] PRUEBA4============
+[30-Mar-2019 19:42:40 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('2','aaaa','12/2020','576', '3')
+[30-Mar-2019 19:42:41 America/Lima] invnum de Lote Aux: 2
+[30-Mar-2019 19:42:41 America/Lima] cod 576
+[30-Mar-2019 20:08:58 America/Lima] invnum de Lote Aux: 3
+[30-Mar-2019 20:08:58 America/Lima] cod 577
+[30-Mar-2019 20:09:05 America/Lima] Session Lote_reg Aux: 3
+[30-Mar-2019 20:09:05 America/Lima] invnum 3
+[30-Mar-2019 20:09:05 America/Lima] numero aaaa
+[30-Mar-2019 20:09:05 America/Lima] codpro 577
+[30-Mar-2019 20:09:05 America/Lima] codloc de lote 1
+[30-Mar-2019 20:09:05 America/Lima] PRUEBA4============
+[30-Mar-2019 20:09:05 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('3','aaaa','12/2020','577', '1')
+[30-Mar-2019 20:09:05 America/Lima] invnum de Lote Aux: 3
+[30-Mar-2019 20:09:05 America/Lima] cod 577
+[30-Mar-2019 20:09:10 America/Lima] invnum de Lote Aux: 3
+[30-Mar-2019 20:09:10 America/Lima] cod 8126
+[30-Mar-2019 20:09:22 America/Lima] Session Lote_reg Aux: 3
+[30-Mar-2019 20:09:22 America/Lima] invnum 3
+[30-Mar-2019 20:09:22 America/Lima] numero mamain
+[30-Mar-2019 20:09:22 America/Lima] codpro 8126
+[30-Mar-2019 20:09:22 America/Lima] codloc de lote 1
+[30-Mar-2019 20:09:22 America/Lima] PRUEBA4============
+[30-Mar-2019 20:09:22 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('3','mamain','12/2019','8126', '1')
+[30-Mar-2019 20:09:22 America/Lima] invnum de Lote Aux: 3
+[30-Mar-2019 20:09:22 America/Lima] cod 8126
+[30-Mar-2019 20:17:16 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 20:17:16 America/Lima] cod 8126
+[30-Mar-2019 20:17:26 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 20:17:26 America/Lima] invnum 1
+[30-Mar-2019 20:17:26 America/Lima] numero mamama
+[30-Mar-2019 20:17:26 America/Lima] codpro 8126
+[30-Mar-2019 20:17:26 America/Lima] codloc de lote 1
+[30-Mar-2019 20:17:26 America/Lima] PRUEBA4============
+[30-Mar-2019 20:17:26 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('1','mamama','12/2020','8126', '1')
+[30-Mar-2019 20:17:26 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 20:17:26 America/Lima] cod 8126
+[30-Mar-2019 20:17:32 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 20:17:32 America/Lima] cod 577
+[30-Mar-2019 20:17:40 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 20:17:40 America/Lima] invnum 1
+[30-Mar-2019 20:17:40 America/Lima] numero apro
+[30-Mar-2019 20:17:40 America/Lima] codpro 577
+[30-Mar-2019 20:17:40 America/Lima] codloc de lote 1
+[30-Mar-2019 20:17:40 America/Lima] PRUEBA4============
+[30-Mar-2019 20:17:40 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('1','apro','12/2019','577', '1')
+[30-Mar-2019 20:17:41 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 20:17:41 America/Lima] cod 577
+[30-Mar-2019 20:25:29 America/Lima] invnum de Lote Aux: 6
+[30-Mar-2019 20:25:29 America/Lima] cod 8126
+[30-Mar-2019 20:25:48 America/Lima] Session Lote_reg Aux: 6
+[30-Mar-2019 20:25:48 America/Lima] invnum 6
+[30-Mar-2019 20:25:48 America/Lima] numero mamain2
+[30-Mar-2019 20:25:48 America/Lima] codpro 8126
+[30-Mar-2019 20:25:48 America/Lima] codloc de lote 1
+[30-Mar-2019 20:25:48 America/Lima] PRUEBA4============
+[30-Mar-2019 20:25:48 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('6','mamain2','12/2019','8126', '1')
+[30-Mar-2019 20:25:48 America/Lima] invnum de Lote Aux: 6
+[30-Mar-2019 20:25:48 America/Lima] cod 8126
+[30-Mar-2019 22:02:09 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:02:09 America/Lima] cod 8126
+[30-Mar-2019 22:02:10 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:02:10 America/Lima] cod 8126
+[30-Mar-2019 22:02:19 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 22:02:19 America/Lima] invnum 1
+[30-Mar-2019 22:02:19 America/Lima] numero mamaine
+[30-Mar-2019 22:02:19 America/Lima] codpro 8126
+[30-Mar-2019 22:02:19 America/Lima] codloc de lote 1
+[30-Mar-2019 22:02:19 America/Lima] PRUEBA4============
+[30-Mar-2019 22:02:19 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('1','mamaine','12/2020','8126', '1')
+[30-Mar-2019 22:02:20 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:02:20 America/Lima] cod 8126
+[30-Mar-2019 22:02:25 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:02:25 America/Lima] cod 576
+[30-Mar-2019 22:02:46 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 22:02:46 America/Lima] invnum 1
+[30-Mar-2019 22:02:46 America/Lima] numero apronax 125
+[30-Mar-2019 22:02:46 America/Lima] codpro 576
+[30-Mar-2019 22:02:46 America/Lima] codloc de lote 1
+[30-Mar-2019 22:02:46 America/Lima] PRUEBA4============
+[30-Mar-2019 22:02:46 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('1','apronax 125','12/2019','576', '1')
+[30-Mar-2019 22:02:47 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:02:47 America/Lima] cod 576
+[30-Mar-2019 22:02:53 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 22:02:53 America/Lima] invnum 1
+[30-Mar-2019 22:02:53 America/Lima] numero apronax 125
+[30-Mar-2019 22:02:53 America/Lima] codpro 576
+[30-Mar-2019 22:02:53 America/Lima] codloc de lote 1
+[30-Mar-2019 22:02:53 America/Lima] PRUEBA3============
+[30-Mar-2019 22:02:53 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:02:53 America/Lima] cod 576
+[30-Mar-2019 22:02:59 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 22:02:59 America/Lima] invnum 1
+[30-Mar-2019 22:02:59 America/Lima] numero apronax125
+[30-Mar-2019 22:02:59 America/Lima] codpro 576
+[30-Mar-2019 22:02:59 America/Lima] codloc de lote 1
+[30-Mar-2019 22:02:59 America/Lima] PRUEBA3============
+[30-Mar-2019 22:03:00 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:03:00 America/Lima] cod 576
+[30-Mar-2019 22:03:07 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:03:07 America/Lima] cod 576
+[30-Mar-2019 22:03:14 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:03:14 America/Lima] cod 576
+[30-Mar-2019 22:03:17 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:03:17 America/Lima] cod 576
+[30-Mar-2019 22:03:20 America/Lima] Session Lote_reg Aux: 1
+[30-Mar-2019 22:03:20 America/Lima] invnum 1
+[30-Mar-2019 22:03:20 America/Lima] numero apronax125
+[30-Mar-2019 22:03:20 America/Lima] codpro 576
+[30-Mar-2019 22:03:20 America/Lima] codloc de lote 1
+[30-Mar-2019 22:03:20 America/Lima] PRUEBA3============
+[30-Mar-2019 22:03:20 America/Lima] invnum de Lote Aux: 1
+[30-Mar-2019 22:03:20 America/Lima] cod 576
+[01-Apr-2019 08:16:32 America/Lima] invnum de Lote Aux: 3
+[01-Apr-2019 08:16:32 America/Lima] cod 8126
+[01-Apr-2019 08:16:41 America/Lima] Session Lote_reg Aux: 3
+[01-Apr-2019 08:16:41 America/Lima] invnum 3
+[01-Apr-2019 08:16:41 America/Lima] numero mamine
+[01-Apr-2019 08:16:41 America/Lima] codpro 8126
+[01-Apr-2019 08:16:41 America/Lima] codloc de lote 1
+[01-Apr-2019 08:16:41 America/Lima] PRUEBA4============
+[01-Apr-2019 08:16:41 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('3','mamine','12/2019','8126', '1')
+[01-Apr-2019 08:16:41 America/Lima] invnum de Lote Aux: 3
+[01-Apr-2019 08:16:41 America/Lima] cod 8126
+[05-Apr-2019 10:28:27 America/Lima] invnum de Lote Aux: 4
+[05-Apr-2019 10:28:27 America/Lima] cod 8126
+[05-Apr-2019 10:28:40 America/Lima] Session Lote_reg Aux: 4
+[05-Apr-2019 10:28:40 America/Lima] invnum 4
+[05-Apr-2019 10:28:40 America/Lima] numero bbbb
+[05-Apr-2019 10:28:40 America/Lima] codpro 8126
+[05-Apr-2019 10:28:40 America/Lima] codloc de lote 1
+[05-Apr-2019 10:28:40 America/Lima] PRUEBA4============
+[05-Apr-2019 10:28:40 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('4','bbbb','12/2020','8126', '1')
+[05-Apr-2019 10:28:40 America/Lima] invnum de Lote Aux: 4
+[05-Apr-2019 10:28:40 America/Lima] cod 8126
+[05-Apr-2019 11:26:44 America/Lima] invnum de Lote Aux: 6
+[05-Apr-2019 11:26:44 America/Lima] cod 577
+[05-Apr-2019 11:26:52 America/Lima] Session Lote_reg Aux: 6
+[05-Apr-2019 11:26:52 America/Lima] invnum 6
+[05-Apr-2019 11:26:52 America/Lima] numero aaaaa
+[05-Apr-2019 11:26:52 America/Lima] codpro 577
+[05-Apr-2019 11:26:52 America/Lima] codloc de lote 1
+[05-Apr-2019 11:26:52 America/Lima] PRUEBA4============
+[05-Apr-2019 11:26:52 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('6','aaaaa','12/2025','577', '1')
+[05-Apr-2019 11:26:53 America/Lima] invnum de Lote Aux: 6
+[05-Apr-2019 11:26:53 America/Lima] cod 577
+[07-Apr-2019 08:48:47 America/Lima] invnum de Lote Aux: 2
+[07-Apr-2019 08:48:47 America/Lima] cod 8126
+[07-Apr-2019 08:48:53 America/Lima] invnum de Lote Aux: 2
+[07-Apr-2019 08:48:53 America/Lima] cod 8126
+[07-Apr-2019 08:48:58 America/Lima] invnum de Lote Aux: 2
+[07-Apr-2019 08:48:58 America/Lima] cod 8126
+[07-Apr-2019 08:49:05 America/Lima] Session Lote_reg Aux: 2
+[07-Apr-2019 08:49:05 America/Lima] invnum 2
+[07-Apr-2019 08:49:05 America/Lima] numero aaaaa
+[07-Apr-2019 08:49:05 America/Lima] codpro 8126
+[07-Apr-2019 08:49:05 America/Lima] codloc de lote 1
+[07-Apr-2019 08:49:05 America/Lima] PRUEBA3============
+[07-Apr-2019 08:49:05 America/Lima] invnum de Lote Aux: 2
+[07-Apr-2019 08:49:05 America/Lima] cod 8126
+[08-Apr-2019 07:36:57 America/Lima] invnum de Lote Aux: 6
+[08-Apr-2019 07:36:57 America/Lima] cod 576
+[08-Apr-2019 07:37:02 America/Lima] invnum de Lote Aux: 6
+[08-Apr-2019 07:37:02 America/Lima] cod 576
+[08-Apr-2019 07:37:09 America/Lima] Session Lote_reg Aux: 6
+[08-Apr-2019 07:37:09 America/Lima] invnum 6
+[08-Apr-2019 07:37:09 America/Lima] numero aaaa
+[08-Apr-2019 07:37:09 America/Lima] codpro 576
+[08-Apr-2019 07:37:09 America/Lima] codloc de lote 1
+[08-Apr-2019 07:37:09 America/Lima] PRUEBA3============
+[08-Apr-2019 07:37:09 America/Lima] invnum de Lote Aux: 6
+[08-Apr-2019 07:37:09 America/Lima] cod 576
+[10-Apr-2019 10:52:08 America/Lima] invnum de Lote Aux: 17
+[10-Apr-2019 10:52:08 America/Lima] cod 576
+[10-Apr-2019 10:52:15 America/Lima] Session Lote_reg Aux: 17
+[10-Apr-2019 10:52:15 America/Lima] invnum 17
+[10-Apr-2019 10:52:15 America/Lima] numero aaaa
+[10-Apr-2019 10:52:15 America/Lima] codpro 576
+[10-Apr-2019 10:52:15 America/Lima] codloc de lote 1
+[10-Apr-2019 10:52:15 America/Lima] PRUEB2A============
+[10-Apr-2019 10:52:15 America/Lima] invnum de Lote Aux: 17
+[10-Apr-2019 10:52:15 America/Lima] cod 576
+[12-Apr-2019 12:10:42 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:10:42 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:10:42 America/Lima] invnum de Lote Aux: 2
+[12-Apr-2019 12:10:42 America/Lima] cod 8126
+[12-Apr-2019 12:10:53 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:10:53 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:10:53 America/Lima] Session Lote_reg Aux: 2
+[12-Apr-2019 12:10:53 America/Lima] invnum 2
+[12-Apr-2019 12:10:53 America/Lima] numero aaaaaaaa
+[12-Apr-2019 12:10:53 America/Lima] codpro 8126
+[12-Apr-2019 12:10:53 America/Lima] codloc de lote 1
+[12-Apr-2019 12:10:53 America/Lima] PRUEBA4============
+[12-Apr-2019 12:10:53 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('2','aaaaaaaa','12/2019','8126', '1')
+[12-Apr-2019 12:10:54 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:10:54 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:10:54 America/Lima] invnum de Lote Aux: 2
+[12-Apr-2019 12:10:54 America/Lima] cod 8126
+[12-Apr-2019 12:45:21 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:45:21 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:45:21 America/Lima] invnum de Lote Aux: 3
+[12-Apr-2019 12:45:21 America/Lima] cod 8126
+[12-Apr-2019 12:45:32 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:45:32 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:45:32 America/Lima] Session Lote_reg Aux: 3
+[12-Apr-2019 12:45:32 America/Lima] invnum 3
+[12-Apr-2019 12:45:32 America/Lima] numero 11111
+[12-Apr-2019 12:45:32 America/Lima] codpro 8126
+[12-Apr-2019 12:45:32 America/Lima] codloc de lote 1
+[12-Apr-2019 12:45:32 America/Lima] PRUEBA4============
+[12-Apr-2019 12:45:32 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('3','11111','11/2019','8126', '1')
+[12-Apr-2019 12:45:32 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:45:32 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:45:32 America/Lima] invnum de Lote Aux: 3
+[12-Apr-2019 12:45:32 America/Lima] cod 8126
+[20-Apr-2019 08:48:20 America/Lima] Caducidad: 1440
+[20-Apr-2019 08:48:20 America/Lima] Caducidad después: 86400
+[20-Apr-2019 08:48:20 America/Lima] invnum de Lote Aux: 2
+[20-Apr-2019 08:48:20 America/Lima] cod 8132
+[20-Apr-2019 08:48:32 America/Lima] Caducidad: 1440
+[20-Apr-2019 08:48:32 America/Lima] Caducidad después: 86400
+[20-Apr-2019 08:48:32 America/Lima] Session Lote_reg Aux: 2
+[20-Apr-2019 08:48:32 America/Lima] invnum 2
+[20-Apr-2019 08:48:32 America/Lima] numero 11111
+[20-Apr-2019 08:48:32 America/Lima] codpro 8132
+[20-Apr-2019 08:48:32 America/Lima] codloc de lote 1
+[20-Apr-2019 08:48:32 America/Lima] PRUEBA4============
+[20-Apr-2019 08:48:32 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('2','11111','12/2020','8132', '1')
+[20-Apr-2019 08:48:32 America/Lima] Caducidad: 1440
+[20-Apr-2019 08:48:32 America/Lima] Caducidad después: 86400
+[20-Apr-2019 08:48:32 America/Lima] invnum de Lote Aux: 2
+[20-Apr-2019 08:48:32 America/Lima] cod 8132
+[24-Apr-2019 16:44:11 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:44:11 America/Lima] Caducidad después: 86400
+[24-Apr-2019 16:44:11 America/Lima] invnum de Lote Aux: 16
+[24-Apr-2019 16:44:11 America/Lima] cod 577
+[24-Apr-2019 16:44:20 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:44:20 America/Lima] Caducidad después: 86400
+[24-Apr-2019 16:44:20 America/Lima] Session Lote_reg Aux: 16
+[24-Apr-2019 16:44:20 America/Lima] invnum 16
+[24-Apr-2019 16:44:20 America/Lima] numero aaaa
+[24-Apr-2019 16:44:20 America/Lima] codpro 577
+[24-Apr-2019 16:44:20 America/Lima] codloc de lote 1
+[24-Apr-2019 16:44:20 America/Lima] PRUEBA4============
+[24-Apr-2019 16:44:20 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('16','aaaa','12/2025','577', '1')
+[24-Apr-2019 16:44:21 America/Lima] Caducidad: 1440
+[24-Apr-2019 16:44:21 America/Lima] Caducidad después: 86400
+[24-Apr-2019 16:44:21 America/Lima] invnum de Lote Aux: 16
+[24-Apr-2019 16:44:21 America/Lima] cod 577
+[29-Apr-2019 12:26:06 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:26:06 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:26:06 America/Lima] invnum de Lote Aux: 32
+[29-Apr-2019 12:26:06 America/Lima] cod 8135
+[29-Apr-2019 12:26:28 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:26:28 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:26:28 America/Lima] Session Lote_reg Aux: 32
+[29-Apr-2019 12:26:28 America/Lima] invnum 32
+[29-Apr-2019 12:26:28 America/Lima] numero 12
+[29-Apr-2019 12:26:28 America/Lima] codpro 8135
+[29-Apr-2019 12:26:28 America/Lima] codloc de lote 1
+[29-Apr-2019 12:26:28 America/Lima] PRUEBA4============
+[29-Apr-2019 12:26:28 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('32','12','11/2019','8135', '1')
+[29-Apr-2019 12:26:28 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:26:28 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:26:28 America/Lima] invnum de Lote Aux: 32
+[29-Apr-2019 12:26:28 America/Lima] cod 8135
+[29-Apr-2019 12:26:33 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:26:33 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:26:33 America/Lima] invnum de Lote Aux: 32
+[29-Apr-2019 12:26:33 America/Lima] cod 8135
+[29-Apr-2019 12:26:34 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:26:34 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:26:34 America/Lima] invnum de Lote Aux: 32
+[29-Apr-2019 12:26:34 America/Lima] cod 8135
+[29-Apr-2019 12:26:34 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:26:34 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:26:34 America/Lima] invnum de Lote Aux: 32
+[29-Apr-2019 12:26:34 America/Lima] cod 8135
+[29-Apr-2019 12:43:19 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:43:19 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:43:19 America/Lima] invnum de Lote Aux: 33
+[29-Apr-2019 12:43:19 America/Lima] cod 577
+[29-Apr-2019 12:43:32 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:43:32 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:43:32 America/Lima] Session Lote_reg Aux: 33
+[29-Apr-2019 12:43:32 America/Lima] invnum 33
+[29-Apr-2019 12:43:32 America/Lima] numero 12
+[29-Apr-2019 12:43:32 America/Lima] codpro 577
+[29-Apr-2019 12:43:32 America/Lima] codloc de lote 1
+[29-Apr-2019 12:43:32 America/Lima] PRUEBA4============
+[29-Apr-2019 12:43:32 America/Lima] INSERT INTO templote (invnum,numerolote,vencim,codpro, codloc) values ('33','12','9/2020','577', '1')
+[29-Apr-2019 12:43:33 America/Lima] Caducidad: 1440
+[29-Apr-2019 12:43:33 America/Lima] Caducidad después: 86400
+[29-Apr-2019 12:43:33 America/Lima] invnum de Lote Aux: 33
+[29-Apr-2019 12:43:33 America/Lima] cod 577

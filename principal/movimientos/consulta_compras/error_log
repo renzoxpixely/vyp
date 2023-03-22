@@ -1,0 +1,1251 @@
+[26-Mar-2018 13:33:15 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[26-Mar-2018 13:33:15 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[26-Mar-2018 13:33:15 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[26-Mar-2018 13:33:16 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/comercial_fmariarosa/funciones/botones.php on line 5
+[26-Mar-2018 13:33:16 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[26-Mar-2018 13:33:16 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[26-Mar-2018 13:33:16 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[26-Mar-2018 13:33:16 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[26-Mar-2018 13:33:16 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[26-Mar-2018 13:33:17 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[26-Mar-2018 13:33:17 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[26-Mar-2018 13:33:17 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[26-Mar-2018 13:33:17 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[26-Mar-2018 13:33:18 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[26-Mar-2018 13:33:18 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[27-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[27-Aug-2018 22:48:53 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[27-Aug-2018 22:48:53 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:41:39 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 393
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 394
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:41:54 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 393
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 394
+[30-Aug-2018 22:42:02 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[30-Aug-2018 22:42:03 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:42:03 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:42:03 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:42:03 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 393
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 394
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:42:13 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[30-Aug-2018 22:48:52 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[02-Sep-2018 10:50:00 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[02-Sep-2018 10:50:00 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[02-Sep-2018 10:50:00 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[02-Sep-2018 10:50:05 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[02-Sep-2018 10:50:08 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[02-Sep-2018 10:50:08 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[02-Sep-2018 11:04:43 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[02-Sep-2018 11:04:43 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[02-Sep-2018 11:04:43 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[02-Sep-2018 11:04:44 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 393
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 394
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[02-Sep-2018 11:04:53 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[02-Sep-2018 11:04:56 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[23-Oct-2018 11:36:48 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[23-Oct-2018 11:36:48 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[23-Oct-2018 11:36:48 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[23-Oct-2018 11:36:49 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[24-Oct-2018 08:55:51 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[24-Oct-2018 08:55:52 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[24-Oct-2018 08:55:52 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[24-Oct-2018 08:55:52 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[24-Oct-2018 08:55:52 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[31-Oct-2018 10:26:27 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[31-Oct-2018 10:26:28 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[31-Oct-2018 10:26:28 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[31-Oct-2018 10:26:28 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[31-Oct-2018 10:26:28 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:05:56 America/Lima] PHP Notice:  Undefined index: n in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 23
+[03-Nov-2018 06:05:56 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[03-Nov-2018 06:05:56 America/Lima] PHP Notice:  Undefined variable: numero in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras.php on line 33
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 20
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 49
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:05:57 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 393
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 394
+[03-Nov-2018 06:06:26 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[03-Nov-2018 06:06:27 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:06:27 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:06:27 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:06:27 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:06:44 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 391
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 392
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 393
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 394
+[03-Nov-2018 06:06:55 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[03-Nov-2018 06:06:56 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:06:56 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:06:56 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:06:56 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 21
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 131
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 184
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 339
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 393
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 394
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras1.php on line 410
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 102
+[03-Nov-2018 06:07:08 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/demo/principal/movimientos/consulta_compras/consult_compras2.php on line 103
+[05-Apr-2019 10:16:35 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:16:35 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:16:35 America/Lima] Stock actual: 1000 1000
+[05-Apr-2019 10:17:35 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:17:35 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:17:35 America/Lima] Stock actual: 0 0
+[05-Apr-2019 10:18:11 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:18:11 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:18:11 America/Lima] Stock actual: 1000 1000
+[05-Apr-2019 10:18:30 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:18:30 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:18:30 America/Lima] Stock actual: 0 0
+[05-Apr-2019 10:20:34 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:20:34 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:20:34 America/Lima] Stock actual: 0 0
+[05-Apr-2019 10:20:47 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:20:47 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:20:47 America/Lima] Stock actual: 0 0
+[05-Apr-2019 10:24:04 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:24:04 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:24:04 America/Lima] Stock actual: 0 0
+[05-Apr-2019 10:24:11 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 10:24:11 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 10:24:11 America/Lima] Stock actual: 1000 1000
+[05-Apr-2019 17:57:37 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 17:57:37 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 17:57:37 America/Lima] Stock actual: 1700 1700
+[05-Apr-2019 17:59:14 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[05-Apr-2019 17:59:14 America/Lima] Cantidad de compra: 10
+[05-Apr-2019 17:59:14 America/Lima] Stock actual: 700 700
+[07-Apr-2019 08:52:15 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[07-Apr-2019 08:52:15 America/Lima] Cantidad de compra: 10
+[07-Apr-2019 08:52:15 America/Lima] Stock actual: 1300 1250
+[07-Apr-2019 08:52:23 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[07-Apr-2019 08:52:23 America/Lima] Cantidad de compra: 10
+[07-Apr-2019 08:52:23 America/Lima] Stock actual: 300 250
+[07-Apr-2019 11:01:46 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[07-Apr-2019 11:01:46 America/Lima] Cantidad de compra: 10
+[07-Apr-2019 11:01:46 America/Lima] Stock actual: 300 250
+[07-Apr-2019 11:01:52 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[07-Apr-2019 11:01:52 America/Lima] Cantidad de compra: 10
+[07-Apr-2019 11:01:52 America/Lima] Stock actual: 1300 1250
+[07-Apr-2019 11:01:57 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal) VALUES('8126', '1', '2', '1', '1', '1000', '2019-04-07', '1')
+[07-Apr-2019 11:01:58 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[07-Apr-2019 11:01:58 America/Lima] Cantidad de compra: 10
+[07-Apr-2019 11:01:58 America/Lima] Stock actual: 300 250
+[07-Apr-2019 11:04:31 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[07-Apr-2019 11:04:31 America/Lima] Cantidad de compra: 10
+[07-Apr-2019 11:04:31 America/Lima] Stock actual: 10 10
+[07-Apr-2019 11:04:36 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal) VALUES('3022', '5', '2', '1', '5', '10', '2019-04-07', '1')
+[07-Apr-2019 11:04:36 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[07-Apr-2019 11:04:36 America/Lima] Cantidad de compra: 10
+[07-Apr-2019 11:04:36 America/Lima] Stock actual: 0 0
+[08-Apr-2019 07:44:16 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2714'
+[08-Apr-2019 07:44:16 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:44:16 America/Lima] Stock actual: 10 10
+[08-Apr-2019 07:44:21 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2714'
+[08-Apr-2019 07:44:21 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:44:21 America/Lima] Stock actual: 10 10
+[08-Apr-2019 07:44:25 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2714'
+[08-Apr-2019 07:44:25 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:44:25 America/Lima] Stock actual: 10 10
+[08-Apr-2019 07:44:38 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('2714', '7', '1', '1', '7', '10', '2019-04-08', '1', '1', '1', '10')
+[08-Apr-2019 07:44:39 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2714'
+[08-Apr-2019 07:44:39 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:44:39 America/Lima] Stock actual: 0 0
+[08-Apr-2019 07:45:39 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2714'
+[08-Apr-2019 07:45:39 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:45:39 America/Lima] Stock actual: 0 0
+[08-Apr-2019 07:45:44 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[08-Apr-2019 07:45:44 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:45:44 America/Lima] Stock actual: 300 250
+[08-Apr-2019 07:45:51 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2714'
+[08-Apr-2019 07:45:51 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:45:51 America/Lima] Stock actual: 0 0
+[08-Apr-2019 07:45:56 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2714'
+[08-Apr-2019 07:45:56 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:45:56 America/Lima] Stock actual: 10 10
+[08-Apr-2019 07:46:03 America/Lima] onclick="alert('');"
+[08-Apr-2019 07:46:08 America/Lima] onclick="alert('');"
+[08-Apr-2019 07:46:13 America/Lima] onclick="alert('');"
+[08-Apr-2019 07:46:18 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[08-Apr-2019 07:46:18 America/Lima] Cantidad de compra: 10
+[08-Apr-2019 07:46:18 America/Lima] Stock actual: 300 250
+[10-Apr-2019 08:50:20 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[10-Apr-2019 08:50:20 America/Lima] Cantidad de compra: 50
+[10-Apr-2019 08:50:20 America/Lima] Stock actual: 5857 3457
+[10-Apr-2019 08:50:24 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[10-Apr-2019 08:50:24 America/Lima] Cantidad de compra: 50
+[10-Apr-2019 08:50:24 America/Lima] Stock actual: 5857 3457
+[10-Apr-2019 08:50:26 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[10-Apr-2019 08:50:26 America/Lima] Cantidad de compra: 50
+[10-Apr-2019 08:50:26 America/Lima] Stock actual: 5857 3457
+[10-Apr-2019 11:17:32 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[10-Apr-2019 11:17:32 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 11:17:32 America/Lima] Stock actual: 7057 4657
+[10-Apr-2019 11:17:36 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[10-Apr-2019 11:17:36 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 11:17:36 America/Lima] Stock actual: 7057 4657
+[10-Apr-2019 12:02:40 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[10-Apr-2019 12:02:40 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 12:02:40 America/Lima] Stock actual: 7057 4657
+[10-Apr-2019 12:02:49 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('577', '15', '1', '1', '18', '1200', '2019-04-10', '1', '1', '120', '4657')
+[10-Apr-2019 12:02:50 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[10-Apr-2019 12:02:50 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 12:02:50 America/Lima] Stock actual: 5857 3457
+[10-Apr-2019 12:06:25 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 12:06:25 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 12:06:25 America/Lima] Stock actual: 10 10
+[10-Apr-2019 12:06:31 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('5714', '17', '1', '1', '22', '10', '2019-04-10', '1', '1', '1', '10')
+[10-Apr-2019 12:06:31 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 12:06:31 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 12:06:31 America/Lima] Stock actual: 0 0
+[10-Apr-2019 16:39:49 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:39:49 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:39:49 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:39:49 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:39:49 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 16:39:49 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 16:39:49 America/Lima] Stock actual: 3 1
+[10-Apr-2019 16:39:50 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:39:50 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:39:57 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:39:57 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:39:57 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 16:39:57 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 16:39:57 America/Lima] Stock actual: 3 1
+[10-Apr-2019 16:39:58 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:39:58 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:40:02 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:40:02 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:40:02 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 16:40:02 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 16:40:02 America/Lima] Stock actual: 3 1
+[10-Apr-2019 16:40:03 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:40:03 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:41:42 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:41:42 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:41:43 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:41:43 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:41:43 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 16:41:43 America/Lima] Cantidad de compra: 10
+[10-Apr-2019 16:41:43 America/Lima] Stock actual: 3 1
+[10-Apr-2019 16:41:43 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:41:43 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:43:47 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:43:47 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:43:47 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:43:47 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:43:47 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 16:43:47 America/Lima] Cantidad de compra: 5
+[10-Apr-2019 16:43:47 America/Lima] Stock actual: 8 6
+[10-Apr-2019 16:43:48 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:43:48 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:43:57 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:43:57 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:43:57 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('5714', '24', '1', '1', '35', '5', '2019-04-10', '1', '1', '1', '6')
+[10-Apr-2019 16:43:57 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:43:57 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:43:58 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:43:58 America/Lima] Caducidad después: 86400
+[10-Apr-2019 16:43:58 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '5714'
+[10-Apr-2019 16:43:58 America/Lima] Cantidad de compra: 5
+[10-Apr-2019 16:43:58 America/Lima] Stock actual: 3 1
+[10-Apr-2019 16:43:58 America/Lima] Caducidad: 1440
+[10-Apr-2019 16:43:58 America/Lima] Caducidad después: 86400
+[11-Apr-2019 10:04:22 America/Lima] Caducidad: 1440
+[11-Apr-2019 10:04:22 America/Lima] Caducidad después: 86400
+[11-Apr-2019 10:04:22 America/Lima] Terminó la sesión 
+[11-Apr-2019 11:27:21 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:21 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:22 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:22 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:22 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[11-Apr-2019 11:27:22 America/Lima] Cantidad de compra: 100
+[11-Apr-2019 11:27:22 America/Lima] Stock actual: 10090 10090
+[11-Apr-2019 11:27:23 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:23 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:27 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:27 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:27 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[11-Apr-2019 11:27:27 America/Lima] Cantidad de compra: 100
+[11-Apr-2019 11:27:27 America/Lima] Stock actual: 10090 10090
+[11-Apr-2019 11:27:27 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:27 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:32 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:32 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:32 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[11-Apr-2019 11:27:32 America/Lima] Cantidad de compra: 100
+[11-Apr-2019 11:27:32 America/Lima] Stock actual: 10090 10090
+[11-Apr-2019 11:27:33 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:33 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:40 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:40 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:40 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8130', '25', '1', '1', '36', '10000', '2019-04-11', '1', '1', '100', '10090')
+[11-Apr-2019 11:27:40 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:40 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:40 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:40 America/Lima] Caducidad después: 86400
+[11-Apr-2019 11:27:40 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[11-Apr-2019 11:27:40 America/Lima] Cantidad de compra: 100
+[11-Apr-2019 11:27:40 America/Lima] Stock actual: 90 90
+[11-Apr-2019 11:27:41 America/Lima] Caducidad: 1440
+[11-Apr-2019 11:27:41 America/Lima] Caducidad después: 86400
+[11-Apr-2019 12:18:13 America/Lima] Caducidad: 1440
+[11-Apr-2019 12:18:13 America/Lima] Caducidad después: 86400
+[11-Apr-2019 12:18:14 America/Lima] Caducidad: 1440
+[11-Apr-2019 12:18:14 America/Lima] Caducidad después: 86400
+[11-Apr-2019 12:18:14 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[11-Apr-2019 12:18:14 America/Lima] Cantidad de compra: 10
+[11-Apr-2019 12:18:14 America/Lima] Stock actual: 1090 1090
+[11-Apr-2019 12:18:14 America/Lima] Caducidad: 1440
+[11-Apr-2019 12:18:14 America/Lima] Caducidad después: 86400
+[11-Apr-2019 12:18:21 America/Lima] Caducidad: 1440
+[11-Apr-2019 12:18:21 America/Lima] Caducidad después: 86400
+[11-Apr-2019 12:18:21 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8130', '29', '1', '1', '40', '1000', '2019-04-11', '1', '1', '100', '1090')
+[11-Apr-2019 12:18:22 America/Lima] Caducidad: 1440
+[11-Apr-2019 12:18:22 America/Lima] Caducidad después: 86400
+[11-Apr-2019 12:18:23 America/Lima] Caducidad: 1440
+[11-Apr-2019 12:18:23 America/Lima] Caducidad después: 86400
+[11-Apr-2019 12:18:23 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[11-Apr-2019 12:18:23 America/Lima] Cantidad de compra: 10
+[11-Apr-2019 12:18:23 America/Lima] Stock actual: 90 90
+[11-Apr-2019 12:18:24 America/Lima] Caducidad: 1440
+[11-Apr-2019 12:18:24 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:27:30 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:27:30 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:27:30 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:27:30 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:27:30 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[12-Apr-2019 12:27:30 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:27:30 America/Lima] Stock actual: 10050 10050
+[12-Apr-2019 12:27:30 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[12-Apr-2019 12:27:30 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:27:30 America/Lima] Stock actual: 10030 10030
+[12-Apr-2019 12:27:31 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:27:31 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:27:36 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:27:36 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:27:36 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8126', '1', '1', '1', '1', '100', '2019-04-12', '1', '1', '100', '10050')
+[12-Apr-2019 12:27:36 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8130', '1', '1', '1', '1', '100', '2019-04-12', '1', '1', '100', '10030')
+[12-Apr-2019 12:27:37 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:27:37 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:27:37 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:27:37 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:27:37 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[12-Apr-2019 12:27:37 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:27:37 America/Lima] Stock actual: 50 50
+[12-Apr-2019 12:27:37 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[12-Apr-2019 12:27:37 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:27:37 America/Lima] Stock actual: 30 30
+[12-Apr-2019 12:27:37 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:27:37 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:54:18 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:54:18 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:54:18 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:54:18 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:54:18 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[12-Apr-2019 12:54:18 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:54:18 America/Lima] Stock actual: 50 50
+[12-Apr-2019 12:54:18 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[12-Apr-2019 12:54:18 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:54:18 America/Lima] Stock actual: 80 80
+[12-Apr-2019 12:54:18 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:54:18 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:54:24 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:54:24 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:54:25 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:54:25 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:54:25 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:54:25 America/Lima] Caducidad después: 86400
+[12-Apr-2019 12:54:25 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[12-Apr-2019 12:54:25 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:54:25 America/Lima] Stock actual: 10050 10050
+[12-Apr-2019 12:54:25 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8130'
+[12-Apr-2019 12:54:25 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 12:54:25 America/Lima] Stock actual: 10080 10080
+[12-Apr-2019 12:54:25 America/Lima] Caducidad: 1440
+[12-Apr-2019 12:54:25 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:05 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:05 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:06 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:06 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:06 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:20:06 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:20:06 America/Lima] Stock actual: 201 201
+[12-Apr-2019 15:20:06 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:06 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:17 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:17 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:17 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('3022', '2', '1', '1', '2', '100', '2019-04-12', '1', '1', '1', '201')
+[12-Apr-2019 15:20:17 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:17 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:17 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:17 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:17 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:20:17 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:20:17 America/Lima] Stock actual: 101 101
+[12-Apr-2019 15:20:18 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:18 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:22 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:22 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:22 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[12-Apr-2019 15:20:22 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:20:22 America/Lima] Stock actual: 10045 10045
+[12-Apr-2019 15:20:22 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:20:22 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:20:22 America/Lima] Stock actual: 101 101
+[12-Apr-2019 15:20:22 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:22 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:27 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:27 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:27 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8126', '1', '1', '1', '1', '100', '2019-04-12', '1', '1', '100', '10045')
+[12-Apr-2019 15:20:27 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('3022', '1', '1', '1', '1', '100', '2019-04-12', '1', '1', '1', '101')
+[12-Apr-2019 15:20:27 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:27 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:28 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:28 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:20:28 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:20:28 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:20:28 America/Lima] Stock actual: 1 1
+[12-Apr-2019 15:20:28 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:20:28 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:21:57 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:21:57 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:21:57 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:21:57 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:21:57 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:21:57 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:21:57 America/Lima] Stock actual: 0 0
+[12-Apr-2019 15:21:58 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:21:58 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:03 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:03 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:03 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:03 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:04 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:04 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:04 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:22:04 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:22:04 America/Lima] Stock actual: 100 100
+[12-Apr-2019 15:22:04 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:04 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:06 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:06 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:06 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:22:06 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:22:06 America/Lima] Stock actual: 100 100
+[12-Apr-2019 15:22:06 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:06 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:12 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:12 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:12 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8126'
+[12-Apr-2019 15:22:12 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:22:12 America/Lima] Stock actual: 0 0
+[12-Apr-2019 15:22:12 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:22:12 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:22:12 America/Lima] Stock actual: 100 100
+[12-Apr-2019 15:22:12 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:12 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:17 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:17 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:17 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:17 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:17 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:17 America/Lima] Caducidad después: 86400
+[12-Apr-2019 15:22:17 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '3022'
+[12-Apr-2019 15:22:17 America/Lima] Cantidad de compra: 100
+[12-Apr-2019 15:22:17 America/Lima] Stock actual: 200 200
+[12-Apr-2019 15:22:18 America/Lima] Caducidad: 1440
+[12-Apr-2019 15:22:18 America/Lima] Caducidad después: 86400
+[20-Apr-2019 09:01:42 America/Lima] Caducidad: 1440
+[20-Apr-2019 09:01:42 America/Lima] Caducidad después: 86400
+[20-Apr-2019 09:01:42 America/Lima] Caducidad: 1440
+[20-Apr-2019 09:01:42 America/Lima] Caducidad después: 86400
+[20-Apr-2019 09:01:42 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[20-Apr-2019 09:01:42 America/Lima] Cantidad de compra: 100
+[20-Apr-2019 09:01:42 America/Lima] Stock actual: 1050 1020
+[20-Apr-2019 09:01:44 America/Lima] Caducidad: 1440
+[20-Apr-2019 09:01:44 America/Lima] Caducidad después: 86400
+[20-Apr-2019 09:01:50 America/Lima] Caducidad: 1440
+[20-Apr-2019 09:01:50 America/Lima] Caducidad después: 86400
+[20-Apr-2019 09:01:50 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8132', '1', '1', '1', '1', '100', '2019-04-20', '1', '1', '100', '1020')
+[20-Apr-2019 09:01:51 America/Lima] Caducidad: 1440
+[20-Apr-2019 09:01:51 America/Lima] Caducidad después: 86400
+[20-Apr-2019 09:01:52 America/Lima] Caducidad: 1440
+[20-Apr-2019 09:01:52 America/Lima] Caducidad después: 86400
+[20-Apr-2019 09:01:52 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[20-Apr-2019 09:01:52 America/Lima] Cantidad de compra: 100
+[20-Apr-2019 09:01:52 America/Lima] Stock actual: -8950 -8980
+[20-Apr-2019 09:01:52 America/Lima] Caducidad: 1440
+[20-Apr-2019 09:01:52 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:16 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:16 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:16 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:16 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:16 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[22-Apr-2019 13:13:16 America/Lima] Cantidad de compra: 100
+[22-Apr-2019 13:13:16 America/Lima] Stock actual: 10000 10000
+[22-Apr-2019 13:13:17 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:17 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:23 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:23 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:23 America/Lima] onclick="alert('');"
+[22-Apr-2019 13:13:24 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:24 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:29 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:29 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:29 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[22-Apr-2019 13:13:29 America/Lima] Cantidad de compra: 100
+[22-Apr-2019 13:13:29 America/Lima] Stock actual: 10000 10000
+[22-Apr-2019 13:13:30 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:30 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:36 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:36 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:36 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8132', '1', '1', '1', '2', '100', '2019-04-22', '1', '1', '100', '10000')
+[22-Apr-2019 13:13:37 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:37 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:37 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:37 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:13:37 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[22-Apr-2019 13:13:37 America/Lima] Cantidad de compra: 100
+[22-Apr-2019 13:13:37 America/Lima] Stock actual: 0 0
+[22-Apr-2019 13:13:37 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:13:37 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:16:02 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:16:02 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:16:02 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:16:02 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:16:02 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[22-Apr-2019 13:16:02 America/Lima] Cantidad de compra: 100
+[22-Apr-2019 13:16:02 America/Lima] Stock actual: 0 0
+[22-Apr-2019 13:16:02 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:16:02 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:16:09 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:16:09 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:16:09 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:16:09 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:16:09 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:16:09 America/Lima] Caducidad después: 86400
+[22-Apr-2019 13:16:09 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[22-Apr-2019 13:16:09 America/Lima] Cantidad de compra: 100
+[22-Apr-2019 13:16:09 America/Lima] Stock actual: 10000 10000
+[22-Apr-2019 13:16:09 America/Lima] Caducidad: 1440
+[22-Apr-2019 13:16:09 America/Lima] Caducidad después: 86400
+[19-May-2019 11:31:21 America/Lima] Caducidad: 1440
+[19-May-2019 11:31:21 America/Lima] Caducidad después: 86400
+[19-May-2019 11:31:22 America/Lima] Caducidad: 1440
+[19-May-2019 11:31:22 America/Lima] Caducidad después: 86400
+[19-May-2019 11:31:22 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8153'
+[19-May-2019 11:31:22 America/Lima] Cantidad de compra: 10
+[19-May-2019 11:31:22 America/Lima] Stock actual: 990 990
+[19-May-2019 11:31:22 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8154'
+[19-May-2019 11:31:22 America/Lima] Cantidad de compra: 10
+[19-May-2019 11:31:22 America/Lima] Stock actual: 9 9
+[19-May-2019 11:31:22 America/Lima] onclick="alert('No existe suficiente stock del producto para habilitar la salida');"
+[19-May-2019 11:31:22 America/Lima] Caducidad: 1440
+[19-May-2019 11:31:22 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:35 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:35 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:36 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:36 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:36 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:51:36 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:51:36 America/Lima] Stock actual: 962 910
+[22-May-2019 11:51:36 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:36 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:36 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:36 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:37 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:37 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:37 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:51:37 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:51:37 America/Lima] Stock actual: 962 910
+[22-May-2019 11:51:37 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:37 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:44 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:44 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:44 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8160', '139', '1', '1', '187', '10', '2019-05-22', '1', '1', '120', '910')
+[22-May-2019 11:51:44 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:44 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:45 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:45 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:45 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:51:45 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:51:45 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:51:45 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:45 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:47 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:47 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:47 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:51:47 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:51:47 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:51:47 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:47 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:49 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:49 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:49 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:51:49 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:51:49 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:51:49 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:49 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:49 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:49 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:49 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:51:49 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:51:49 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:51:50 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:50 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:56 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:56 America/Lima] Caducidad después: 86400
+[22-May-2019 11:51:56 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:51:56 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:51:56 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:51:56 America/Lima] Caducidad: 1440
+[22-May-2019 11:51:56 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:08 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:08 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:08 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:08 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:08 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:09 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:09 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:10 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:10 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:10 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:10 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:10 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:10 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:10 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:10 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:10 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:10 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:10 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:10 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:10 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:10 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:11 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:11 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:11 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:11 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:11 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:12 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:12 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:12 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:12 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:12 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:12 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:12 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:12 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:12 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:12 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:12 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:12 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:12 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:12 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:12 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:12 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:12 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:13 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:13 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:13 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8160'
+[22-May-2019 11:52:13 America/Lima] Cantidad de compra: 10
+[22-May-2019 11:52:13 America/Lima] Stock actual: -238 -290
+[22-May-2019 11:52:13 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:13 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:20 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:20 America/Lima] Caducidad después: 86400
+[22-May-2019 11:52:20 America/Lima] onclick="alert('');"
+[22-May-2019 11:52:21 America/Lima] Caducidad: 1440
+[22-May-2019 11:52:21 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:01 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:01 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:02 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:02 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:02 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8174'
+[27-May-2019 00:40:02 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:02 America/Lima] Stock actual: 20 20
+[27-May-2019 00:40:02 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8175'
+[27-May-2019 00:40:02 America/Lima] Cantidad de compra: 50
+[27-May-2019 00:40:02 America/Lima] Stock actual: 50 50
+[27-May-2019 00:40:02 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8176'
+[27-May-2019 00:40:02 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:02 America/Lima] Stock actual: 10 10
+[27-May-2019 00:40:02 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:02 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:08 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:08 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:08 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8174'
+[27-May-2019 00:40:08 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:08 America/Lima] Stock actual: 20 20
+[27-May-2019 00:40:08 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8175'
+[27-May-2019 00:40:08 America/Lima] Cantidad de compra: 50
+[27-May-2019 00:40:08 America/Lima] Stock actual: 50 50
+[27-May-2019 00:40:08 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8176'
+[27-May-2019 00:40:08 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:08 America/Lima] Stock actual: 10 10
+[27-May-2019 00:40:08 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:08 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:13 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:13 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:13 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8174'
+[27-May-2019 00:40:13 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:13 America/Lima] Stock actual: 20 20
+[27-May-2019 00:40:13 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8175'
+[27-May-2019 00:40:13 America/Lima] Cantidad de compra: 50
+[27-May-2019 00:40:13 America/Lima] Stock actual: 50 50
+[27-May-2019 00:40:13 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8176'
+[27-May-2019 00:40:13 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:13 America/Lima] Stock actual: 10 10
+[27-May-2019 00:40:13 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:13 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:21 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:21 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:21 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8174'
+[27-May-2019 00:40:21 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:21 America/Lima] Stock actual: 20 20
+[27-May-2019 00:40:21 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:21 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:29 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:29 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:29 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8173'
+[27-May-2019 00:40:29 America/Lima] Cantidad de compra: 3
+[27-May-2019 00:40:29 America/Lima] Stock actual: 126 126
+[27-May-2019 00:40:29 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:29 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:37 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:37 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:37 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8174'
+[27-May-2019 00:40:37 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:37 America/Lima] Stock actual: 20 20
+[27-May-2019 00:40:37 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:37 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:43 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:43 America/Lima] Caducidad después: 86400
+[27-May-2019 00:40:43 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8174'
+[27-May-2019 00:40:43 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:43 America/Lima] Stock actual: 20 20
+[27-May-2019 00:40:43 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8175'
+[27-May-2019 00:40:43 America/Lima] Cantidad de compra: 50
+[27-May-2019 00:40:43 America/Lima] Stock actual: 50 50
+[27-May-2019 00:40:43 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8176'
+[27-May-2019 00:40:43 America/Lima] Cantidad de compra: 10
+[27-May-2019 00:40:43 America/Lima] Stock actual: 10 10
+[27-May-2019 00:40:44 America/Lima] Caducidad: 1440
+[27-May-2019 00:40:44 America/Lima] Caducidad después: 86400
+[27-May-2019 22:56:30 America/Lima] Caducidad: 1440
+[27-May-2019 22:56:30 America/Lima] Caducidad después: 86400
+[27-May-2019 22:56:30 America/Lima] Caducidad: 1440
+[27-May-2019 22:56:30 America/Lima] Caducidad después: 86400
+[27-May-2019 22:56:30 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '576'
+[27-May-2019 22:56:30 America/Lima] Cantidad de compra: 10
+[27-May-2019 22:56:30 America/Lima] Stock actual: 13 13
+[27-May-2019 22:56:30 America/Lima] Caducidad: 1440
+[27-May-2019 22:56:30 America/Lima] Caducidad después: 86400
+[27-May-2019 22:57:03 America/Lima] Caducidad: 1440
+[27-May-2019 22:57:03 America/Lima] Caducidad después: 86400
+[27-May-2019 22:57:03 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '576'
+[27-May-2019 22:57:03 America/Lima] Cantidad de compra: 10
+[27-May-2019 22:57:03 America/Lima] Stock actual: 13 13
+[27-May-2019 22:57:04 America/Lima] Caducidad: 1440
+[27-May-2019 22:57:04 America/Lima] Caducidad después: 86400
+[27-May-2019 22:57:15 America/Lima] Caducidad: 1440
+[27-May-2019 22:57:15 America/Lima] Caducidad después: 86400
+[27-May-2019 22:57:15 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '576'
+[27-May-2019 22:57:15 America/Lima] Cantidad de compra: 10
+[27-May-2019 22:57:15 America/Lima] Stock actual: 13 13
+[27-May-2019 22:57:15 America/Lima] Caducidad: 1440
+[27-May-2019 22:57:15 America/Lima] Caducidad después: 86400
+[27-May-2019 22:57:29 America/Lima] Caducidad: 1440
+[27-May-2019 22:57:29 America/Lima] Caducidad después: 86400
+[27-May-2019 22:57:29 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '577'
+[27-May-2019 22:57:29 America/Lima] Cantidad de compra: 10
+[27-May-2019 22:57:29 America/Lima] Stock actual: 14346 2316
+[27-May-2019 22:57:29 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8152'
+[27-May-2019 22:57:29 America/Lima] Cantidad de compra: 10
+[27-May-2019 22:57:29 America/Lima] Stock actual: 195 195
+[27-May-2019 22:57:29 America/Lima] Caducidad: 1440
+[27-May-2019 22:57:29 America/Lima] Caducidad después: 86400
+[27-May-2019 22:58:02 America/Lima] Caducidad: 1440
+[27-May-2019 22:58:02 America/Lima] Caducidad después: 86400
+[27-May-2019 22:58:02 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '576'
+[27-May-2019 22:58:02 America/Lima] Cantidad de compra: 10
+[27-May-2019 22:58:02 America/Lima] Stock actual: 13 13
+[27-May-2019 22:58:02 America/Lima] Caducidad: 1440
+[27-May-2019 22:58:02 America/Lima] Caducidad después: 86400
+[27-May-2019 23:11:27 America/Lima] Caducidad: 1440
+[27-May-2019 23:11:27 America/Lima] Caducidad después: 86400
+[27-May-2019 23:11:27 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '576'
+[27-May-2019 23:11:27 America/Lima] Cantidad de compra: 10
+[27-May-2019 23:11:27 America/Lima] Stock actual: 13 13
+[27-May-2019 23:11:27 America/Lima] Caducidad: 1440
+[27-May-2019 23:11:27 America/Lima] Caducidad después: 86400
+[27-May-2019 23:11:42 America/Lima] Caducidad: 1440
+[27-May-2019 23:11:42 America/Lima] Caducidad después: 86400
+[27-May-2019 23:11:42 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '576'
+[27-May-2019 23:11:42 America/Lima] Cantidad de compra: 10
+[27-May-2019 23:11:42 America/Lima] Stock actual: 13 13
+[27-May-2019 23:11:42 America/Lima] Caducidad: 1440
+[27-May-2019 23:11:42 America/Lima] Caducidad después: 86400
+[28-May-2019 06:50:04 America/Lima] Caducidad: 1440
+[28-May-2019 06:50:04 America/Lima] Caducidad después: 86400
+[28-May-2019 06:50:04 America/Lima] Caducidad: 1440
+[28-May-2019 06:50:04 America/Lima] Caducidad después: 86400
+[28-May-2019 06:50:04 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8178'
+[28-May-2019 06:50:04 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:50:04 America/Lima] Stock actual: 10 10
+[28-May-2019 06:50:04 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8177'
+[28-May-2019 06:50:04 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:50:04 America/Lima] Stock actual: 1200 1200
+[28-May-2019 06:50:04 America/Lima] Caducidad: 1440
+[28-May-2019 06:50:04 America/Lima] Caducidad después: 86400
+[28-May-2019 06:56:41 America/Lima] Caducidad: 1440
+[28-May-2019 06:56:41 America/Lima] Caducidad después: 86400
+[28-May-2019 06:56:41 America/Lima] Caducidad: 1440
+[28-May-2019 06:56:41 America/Lima] Caducidad después: 86400
+[28-May-2019 06:56:41 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8177'
+[28-May-2019 06:56:41 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:56:41 America/Lima] Stock actual: 2400 2400
+[28-May-2019 06:56:41 America/Lima] Caducidad: 1440
+[28-May-2019 06:56:41 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:00 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:00 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:00 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8177'
+[28-May-2019 06:57:00 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:57:00 America/Lima] Stock actual: 2400 2400
+[28-May-2019 06:57:00 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:00 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:18 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:18 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:18 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8177'
+[28-May-2019 06:57:18 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:57:18 America/Lima] Stock actual: 2400 2400
+[28-May-2019 06:57:18 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:18 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:30 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:30 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:30 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8177'
+[28-May-2019 06:57:30 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:57:30 America/Lima] Stock actual: 2400 2400
+[28-May-2019 06:57:31 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:31 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:34 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:34 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:34 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8177'
+[28-May-2019 06:57:34 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:57:34 America/Lima] Stock actual: 2400 2400
+[28-May-2019 06:57:34 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:34 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:35 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:35 America/Lima] Caducidad después: 86400
+[28-May-2019 06:57:35 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8177'
+[28-May-2019 06:57:35 America/Lima] Cantidad de compra: 10
+[28-May-2019 06:57:35 America/Lima] Stock actual: 2400 2400
+[28-May-2019 06:57:36 America/Lima] Caducidad: 1440
+[28-May-2019 06:57:36 America/Lima] Caducidad después: 86400
+[31-May-2019 14:25:22 America/Lima] Caducidad: 1440
+[31-May-2019 14:25:22 America/Lima] Caducidad después: 86400
+[31-May-2019 14:25:23 America/Lima] Caducidad: 1440
+[31-May-2019 14:25:23 America/Lima] Caducidad después: 86400
+[31-May-2019 14:25:23 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8183'
+[31-May-2019 14:25:23 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:25:23 America/Lima] Stock actual: 100 100
+[31-May-2019 14:25:23 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8182'
+[31-May-2019 14:25:23 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:25:23 America/Lima] Stock actual: 12000 12000
+[31-May-2019 14:25:23 America/Lima] Caducidad: 1440
+[31-May-2019 14:25:23 America/Lima] Caducidad después: 86400
+[31-May-2019 14:25:31 America/Lima] Caducidad: 1440
+[31-May-2019 14:25:31 America/Lima] Caducidad después: 86400
+[31-May-2019 14:25:31 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '576'
+[31-May-2019 14:25:31 America/Lima] Cantidad de compra: 10
+[31-May-2019 14:25:31 America/Lima] Stock actual: 13 13
+[31-May-2019 14:25:31 America/Lima] Caducidad: 1440
+[31-May-2019 14:25:31 America/Lima] Caducidad después: 86400
+[31-May-2019 14:25:39 America/Lima] Caducidad: 1440
+[31-May-2019 14:25:39 America/Lima] Caducidad después: 86400
+[31-May-2019 14:25:39 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8183'
+[31-May-2019 14:25:39 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:25:39 America/Lima] Stock actual: 100 100
+[31-May-2019 14:25:39 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8182'
+[31-May-2019 14:25:39 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:25:39 America/Lima] Stock actual: 12000 12000
+[31-May-2019 14:25:40 America/Lima] Caducidad: 1440
+[31-May-2019 14:25:40 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:32 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:32 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:32 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:32 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:32 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8183'
+[31-May-2019 14:42:32 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:32 America/Lima] Stock actual: 90 90
+[31-May-2019 14:42:32 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8182'
+[31-May-2019 14:42:32 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:32 America/Lima] Stock actual: 11991 11991
+[31-May-2019 14:42:32 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:32 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:55 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:55 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:55 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8183'
+[31-May-2019 14:42:55 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:55 America/Lima] Stock actual: 90 90
+[31-May-2019 14:42:55 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8182'
+[31-May-2019 14:42:55 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:55 America/Lima] Stock actual: 11991 11991
+[31-May-2019 14:42:55 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:55 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:57 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:57 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:57 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8183'
+[31-May-2019 14:42:57 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:57 America/Lima] Stock actual: 90 90
+[31-May-2019 14:42:57 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8182'
+[31-May-2019 14:42:57 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:57 America/Lima] Stock actual: 11991 11991
+[31-May-2019 14:42:58 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:58 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:59 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:59 America/Lima] Caducidad después: 86400
+[31-May-2019 14:42:59 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8183'
+[31-May-2019 14:42:59 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:59 America/Lima] Stock actual: 90 90
+[31-May-2019 14:42:59 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8182'
+[31-May-2019 14:42:59 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:42:59 America/Lima] Stock actual: 11991 11991
+[31-May-2019 14:42:59 America/Lima] Caducidad: 1440
+[31-May-2019 14:42:59 America/Lima] Caducidad después: 86400
+[31-May-2019 14:43:00 America/Lima] Caducidad: 1440
+[31-May-2019 14:43:00 America/Lima] Caducidad después: 86400
+[31-May-2019 14:43:00 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8183'
+[31-May-2019 14:43:00 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:43:00 America/Lima] Stock actual: 90 90
+[31-May-2019 14:43:00 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8182'
+[31-May-2019 14:43:00 America/Lima] Cantidad de compra: 100
+[31-May-2019 14:43:00 America/Lima] Stock actual: 11991 11991
+[31-May-2019 14:43:00 America/Lima] Caducidad: 1440
+[31-May-2019 14:43:00 America/Lima] Caducidad después: 86400
+[03-Jun-2019 15:59:51 America/Lima] Caducidad: 1440
+[03-Jun-2019 15:59:51 America/Lima] Caducidad después: 86400
+[03-Jun-2019 15:59:52 America/Lima] Caducidad: 1440
+[03-Jun-2019 15:59:52 America/Lima] Caducidad después: 86400
+[03-Jun-2019 15:59:52 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8187'
+[03-Jun-2019 15:59:52 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 15:59:52 America/Lima] Stock actual: 100 100
+[03-Jun-2019 15:59:52 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8186'
+[03-Jun-2019 15:59:52 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 15:59:52 America/Lima] Stock actual: 12000 12000
+[03-Jun-2019 15:59:52 America/Lima] Caducidad: 1440
+[03-Jun-2019 15:59:52 America/Lima] Caducidad después: 86400
+[03-Jun-2019 15:59:57 America/Lima] Caducidad: 1440
+[03-Jun-2019 15:59:57 America/Lima] Caducidad después: 86400
+[03-Jun-2019 15:59:57 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8187', '170', '1', '1', '232', '100', '2019-06-03', '1', '1', '1', '100')
+[03-Jun-2019 15:59:57 America/Lima] INSERT INTO kardex (codpro, nrodoc, tipmov, tipdoc, invnum, qtypro, fecha, sucursal, eliminado, factor, sactual) VALUES('8186', '170', '1', '1', '232', '100', '2019-06-03', '1', '1', '120', '12000')
+[03-Jun-2019 15:59:58 America/Lima] Caducidad: 1440
+[03-Jun-2019 15:59:58 America/Lima] Caducidad después: 86400
+[03-Jun-2019 15:59:58 America/Lima] Caducidad: 1440
+[03-Jun-2019 15:59:58 America/Lima] Caducidad después: 86400
+[03-Jun-2019 15:59:58 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8187'
+[03-Jun-2019 15:59:58 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 15:59:58 America/Lima] Stock actual: 0 0
+[03-Jun-2019 15:59:58 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8186'
+[03-Jun-2019 15:59:58 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 15:59:58 America/Lima] Stock actual: 0 0
+[03-Jun-2019 15:59:58 America/Lima] Caducidad: 1440
+[03-Jun-2019 15:59:58 America/Lima] Caducidad después: 86400
+[03-Jun-2019 16:01:01 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:01:01 America/Lima] Caducidad después: 86400
+[03-Jun-2019 16:01:01 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:01:01 America/Lima] Caducidad después: 86400
+[03-Jun-2019 16:01:01 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8187'
+[03-Jun-2019 16:01:01 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 16:01:01 America/Lima] Stock actual: 0 0
+[03-Jun-2019 16:01:01 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8186'
+[03-Jun-2019 16:01:01 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 16:01:01 America/Lima] Stock actual: 0 0
+[03-Jun-2019 16:01:02 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:01:02 America/Lima] Caducidad después: 86400
+[03-Jun-2019 16:01:07 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:01:07 America/Lima] Caducidad después: 86400
+[03-Jun-2019 16:01:07 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:01:07 America/Lima] Caducidad después: 86400
+[03-Jun-2019 16:01:08 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:01:08 America/Lima] Caducidad después: 86400
+[03-Jun-2019 16:01:08 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8187'
+[03-Jun-2019 16:01:08 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 16:01:08 America/Lima] Stock actual: 100 100
+[03-Jun-2019 16:01:08 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8186'
+[03-Jun-2019 16:01:08 America/Lima] Cantidad de compra: 100
+[03-Jun-2019 16:01:08 America/Lima] Stock actual: 12000 12000
+[03-Jun-2019 16:01:08 America/Lima] Caducidad: 1440
+[03-Jun-2019 16:01:08 America/Lima] Caducidad después: 86400
+[24-Jun-2019 09:21:50 America/Lima] Caducidad: 1440
+[24-Jun-2019 09:21:50 America/Lima] Caducidad después: 86400
+[24-Jun-2019 09:21:51 America/Lima] Caducidad: 1440
+[24-Jun-2019 09:21:51 America/Lima] Caducidad después: 86400
+[24-Jun-2019 09:21:51 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8198'
+[24-Jun-2019 09:21:51 America/Lima] Cantidad de compra: 100
+[24-Jun-2019 09:21:51 America/Lima] Stock actual: 100 100
+[24-Jun-2019 09:21:51 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8197'
+[24-Jun-2019 09:21:51 America/Lima] Cantidad de compra: 100
+[24-Jun-2019 09:21:51 America/Lima] Stock actual: 100 100
+[24-Jun-2019 09:21:51 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8196'
+[24-Jun-2019 09:21:51 America/Lima] Cantidad de compra: 100
+[24-Jun-2019 09:21:51 America/Lima] Stock actual: 12000 12000
+[24-Jun-2019 09:21:51 America/Lima] Caducidad: 1440
+[24-Jun-2019 09:21:51 America/Lima] Caducidad después: 86400
+[19-Jul-2019 14:48:27 America/Lima] Caducidad: 1440
+[19-Jul-2019 14:48:27 America/Lima] Caducidad despu��s: 86400
+[19-Jul-2019 14:48:27 America/Lima] Caducidad: 1440
+[19-Jul-2019 14:48:27 America/Lima] Caducidad despu��s: 86400
+[19-Jul-2019 14:48:28 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '86'
+[19-Jul-2019 14:48:28 America/Lima] Cantidad de compra: 1200
+[19-Jul-2019 14:48:28 America/Lima] Stock actual: 0 1200
+[19-Jul-2019 14:48:28 America/Lima] onclick="alert('No existe suficiente stock del producto para habilitar la salida');"
+[19-Jul-2019 14:48:28 America/Lima] Caducidad: 1440
+[19-Jul-2019 14:48:28 America/Lima] Caducidad despu��s: 86400
+[19-Jul-2019 14:49:23 America/Lima] Caducidad: 1440
+[19-Jul-2019 14:49:23 America/Lima] Caducidad despu��s: 86400
+[19-Jul-2019 14:49:24 America/Lima] Caducidad: 1440
+[19-Jul-2019 14:49:24 America/Lima] Caducidad despu��s: 86400
+[19-Jul-2019 14:49:24 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '86'
+[19-Jul-2019 14:49:24 America/Lima] Cantidad de compra: 1200
+[19-Jul-2019 14:49:24 America/Lima] Stock actual: 0 1200
+[19-Jul-2019 14:49:24 America/Lima] onclick="alert('No existe suficiente stock del producto para habilitar la salida');"
+[19-Jul-2019 14:49:24 America/Lima] Caducidad: 1440
+[19-Jul-2019 14:49:24 America/Lima] Caducidad despu��s: 86400
+[20-Jul-2019 09:50:55 America/Lima] Caducidad: 1440
+[20-Jul-2019 09:50:55 America/Lima] Caducidad despu��s: 86400
+[20-Jul-2019 09:50:55 America/Lima] Caducidad: 1440
+[20-Jul-2019 09:50:55 America/Lima] Caducidad despu��s: 86400
+[20-Jul-2019 09:50:56 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2065'
+[20-Jul-2019 09:50:56 America/Lima] Cantidad de compra: 25
+[20-Jul-2019 09:50:56 America/Lima] Stock actual: 2502 2500
+[20-Jul-2019 09:50:56 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '160'
+[20-Jul-2019 09:50:56 America/Lima] Cantidad de compra: 5
+[20-Jul-2019 09:50:56 America/Lima] Stock actual: 15 169
+[20-Jul-2019 09:50:56 America/Lima] Caducidad: 1440
+[20-Jul-2019 09:50:56 America/Lima] Caducidad despu��s: 86400
+[22-Jul-2019 10:42:58 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:42:59 America/Lima] Caducidad despu��s: 86400
+[22-Jul-2019 10:42:59 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:42:59 America/Lima] Caducidad despu��s: 86400
+[22-Jul-2019 10:42:59 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8576'
+[22-Jul-2019 10:42:59 America/Lima] Cantidad de compra: 100
+[22-Jul-2019 10:42:59 America/Lima] Stock actual: 2333 1133
+[22-Jul-2019 10:43:00 America/Lima] Caducidad: 1440
+[22-Jul-2019 10:43:00 America/Lima] Caducidad despu��s: 86400
+[24-Jul-2019 11:57:23 America/Lima] Caducidad: 1440
+[24-Jul-2019 11:57:23 America/Lima] Caducidad despu��s: 86400
+[24-Jul-2019 11:57:23 America/Lima] Caducidad: 1440
+[24-Jul-2019 11:57:23 America/Lima] Caducidad despu��s: 86400
+[24-Jul-2019 11:57:24 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8562'
+[24-Jul-2019 11:57:24 America/Lima] Cantidad de compra: 100
+[24-Jul-2019 11:57:24 America/Lima] Stock actual: 11990 11990
+[24-Jul-2019 11:57:24 America/Lima] Caducidad: 1440
+[24-Jul-2019 11:57:24 America/Lima] Caducidad despu��s: 86400
+[24-Jul-2019 11:57:28 America/Lima] Caducidad: 1440
+[24-Jul-2019 11:57:28 America/Lima] Caducidad despu��s: 86400
+[24-Jul-2019 11:57:28 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8562'
+[24-Jul-2019 11:57:28 America/Lima] Cantidad de compra: 100
+[24-Jul-2019 11:57:28 America/Lima] Stock actual: 11990 11990
+[24-Jul-2019 11:57:29 America/Lima] Caducidad: 1440
+[24-Jul-2019 11:57:29 America/Lima] Caducidad despu��s: 86400
+[10-Aug-2019 12:11:35 America/Lima] Caducidad: 1440
+[10-Aug-2019 12:11:35 America/Lima] Caducidad despu��s: 86400
+[10-Aug-2019 12:11:35 America/Lima] Caducidad: 1440
+[10-Aug-2019 12:11:35 America/Lima] Caducidad despu��s: 86400
+[10-Aug-2019 12:11:36 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2539'
+[10-Aug-2019 12:11:36 America/Lima] Cantidad de compra: 10
+[10-Aug-2019 12:11:36 America/Lima] Stock actual: 7032 4597
+[10-Aug-2019 12:11:36 America/Lima] Caducidad: 1440
+[10-Aug-2019 12:11:36 America/Lima] Caducidad despu��s: 86400
+[14-Oct-2019 11:02:39 America/Lima] Caducidad: 1440
+[14-Oct-2019 11:02:39 America/Lima] Caducidad despu��s: 86400
+[14-Oct-2019 11:02:40 America/Lima] Caducidad: 1440
+[14-Oct-2019 11:02:40 America/Lima] Caducidad despu��s: 86400
+[14-Oct-2019 11:02:40 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2098'
+[14-Oct-2019 11:02:40 America/Lima] Cantidad de compra: 30
+[14-Oct-2019 11:02:40 America/Lima] Stock actual: 30 30
+[14-Oct-2019 11:02:40 America/Lima] Caducidad: 1440
+[14-Oct-2019 11:02:40 America/Lima] Caducidad despu��s: 86400
+[14-Oct-2019 11:02:48 America/Lima] Caducidad: 1440
+[14-Oct-2019 11:02:48 America/Lima] Caducidad despu��s: 86400
+[14-Oct-2019 11:02:48 America/Lima] Caducidad: 1440
+[14-Oct-2019 11:02:48 America/Lima] Caducidad despu��s: 86400
+[14-Oct-2019 11:02:48 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '2098'
+[14-Oct-2019 11:02:48 America/Lima] Cantidad de compra: 30
+[14-Oct-2019 11:02:48 America/Lima] Stock actual: 30 30
+[14-Oct-2019 11:02:49 America/Lima] Caducidad: 1440
+[14-Oct-2019 11:02:49 America/Lima] Caducidad despu��s: 86400
+[27-Jul-2021 16:23:19 America/Lima] Caducidad: 1440
+[27-Jul-2021 16:23:19 America/Lima] Caducidad despu��s: 86400
+[27-Jul-2021 16:23:20 America/Lima] Caducidad: 1440
+[27-Jul-2021 16:23:20 America/Lima] Caducidad despu��s: 86400
+[27-Jul-2021 16:23:20 America/Lima] onclick="alert('');"
+[27-Jul-2021 16:23:20 America/Lima] Caducidad: 1440
+[27-Jul-2021 16:23:20 America/Lima] Caducidad despu��s: 86400

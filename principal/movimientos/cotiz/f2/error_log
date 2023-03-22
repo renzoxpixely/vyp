@@ -1,0 +1,28 @@
+[10-Nov-2018 11:14:00 America/Lima] PHP Notice:  Undefined index: close in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/f2.php on line 16
+[10-Nov-2018 11:14:00 America/Lima] PHP Notice:  Undefined index: val in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/f2.php on line 94
+[10-Nov-2018 11:14:02 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:02 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:02 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:02 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:09 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:09 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:10 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:10 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:11 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:11 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:11 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:37 America/Lima] PHP Notice:  Undefined index: close in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/f2.php on line 16
+[10-Nov-2018 11:14:37 America/Lima] PHP Notice:  Undefined index: val in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/f2.php on line 94
+[10-Nov-2018 11:14:40 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:40 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[10-Nov-2018 11:14:42 America/Lima] PHP Notice:  Undefined variable: letter in /home/farmasi1/public_html/demo/principal/movimientos/cotiz/f2/ajax-list-countries.php on line 16
+[16-Oct-2019 14:30:25 America/Lima] Caducidad: 1440
+[16-Oct-2019 14:30:25 America/Lima] Caducidad despu¨¦s: 86400
+[16-Oct-2019 14:30:36 America/Lima] Caducidad: 1440
+[16-Oct-2019 14:30:36 America/Lima] Caducidad despu¨¦s: 86400
+[16-Oct-2019 14:45:16 America/Lima] Caducidad: 1440
+[16-Oct-2019 14:45:16 America/Lima] Caducidad despu¨¦s: 86400
+[16-Oct-2019 14:45:20 America/Lima] Caducidad: 1440
+[16-Oct-2019 14:45:20 America/Lima] Caducidad despu¨¦s: 86400
+[16-Oct-2019 15:39:03 America/Lima] Caducidad: 1440
+[16-Oct-2019 15:39:03 America/Lima] Caducidad despu¨¦s: 86400

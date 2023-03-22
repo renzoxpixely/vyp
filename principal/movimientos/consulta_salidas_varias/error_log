@@ -1,0 +1,103 @@
+[04-Apr-2018 14:41:40 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/comercial_fmariarosa/funciones/botones.php on line 5
+[04-Apr-2018 14:41:40 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 19
+[04-Apr-2018 14:41:40 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 20
+[04-Apr-2018 14:41:40 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 48
+[04-Apr-2018 14:41:40 America/Lima] PHP Notice:  Undefined index: numero in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 51
+[04-Apr-2018 14:41:40 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 130
+[04-Apr-2018 14:41:40 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 180
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 289
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 337
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 338
+[04-Apr-2018 14:41:41 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 351
+[04-Apr-2018 14:41:42 America/Lima] PHP Notice:  Undefined variable: codmar in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 91
+[04-Apr-2018 14:41:42 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 98
+[04-Apr-2018 14:41:42 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 99
+[04-Apr-2018 14:41:42 America/Lima] PHP Notice:  Undefined variable: factor in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 108
+[04-Apr-2018 14:41:42 America/Lima] PHP Notice:  Undefined variable: desprod in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 108
+[04-Apr-2018 14:41:42 America/Lima] PHP Notice:  Undefined variable: marca in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 117
+[28-Apr-2018 15:24:21 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/comercial_fmariarosa/funciones/botones.php on line 5
+[28-Apr-2018 15:24:21 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 19
+[28-Apr-2018 15:24:21 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 20
+[28-Apr-2018 15:24:21 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 48
+[28-Apr-2018 15:24:21 America/Lima] PHP Notice:  Undefined index: numero in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 51
+[28-Apr-2018 15:24:21 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 130
+[28-Apr-2018 15:24:21 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 180
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 289
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 337
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 338
+[28-Apr-2018 15:24:23 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 351
+[28-Apr-2018 15:24:24 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 98
+[28-Apr-2018 15:24:24 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 99
+[04-May-2018 16:12:01 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/comercial_fmariarosa/funciones/botones.php on line 5
+[04-May-2018 16:12:01 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 19
+[04-May-2018 16:12:01 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 20
+[04-May-2018 16:12:02 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 48
+[04-May-2018 16:12:02 America/Lima] PHP Notice:  Undefined index: numero in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 51
+[04-May-2018 16:12:02 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 130
+[04-May-2018 16:12:02 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 180
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 289
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 337
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 338
+[04-May-2018 16:12:03 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 351
+[04-May-2018 16:12:04 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 98
+[04-May-2018 16:12:04 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 99
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/comercial_fmariarosa/funciones/botones.php on line 5
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 20
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 130
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: count2 in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 318
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 339
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 340
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: invnum in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 348
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: find in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 349
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 351
+[04-May-2018 16:12:11 America/Lima] PHP Notice:  Undefined variable: invnum in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 363
+[12-Jun-2018 15:58:36 America/Lima] PHP Notice:  Undefined variable: i in /home/farmasi1/public_html/comercial_fmariarosa/funciones/botones.php on line 5
+[12-Jun-2018 15:58:36 America/Lima] PHP Notice:  Undefined index: pageno in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 19
+[12-Jun-2018 15:58:36 America/Lima] PHP Notice:  Undefined index: ultimo in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 20
+[12-Jun-2018 15:58:36 America/Lima] PHP Notice:  Undefined index: num in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 48
+[12-Jun-2018 15:58:36 America/Lima] PHP Notice:  Undefined index: numero in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 51
+[12-Jun-2018 15:58:36 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 130
+[12-Jun-2018 15:58:36 America/Lima] PHP Notice:  Use of undefined constant consulta_comp - assumed 'consulta_comp' in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 180
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined offset: 2 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 5
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined offset: 1 in /home/farmasi1/public_html/comercial_fmariarosa/convertfecha.php on line 6
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined variable: upd in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 289
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 337
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined variable: search in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 338
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined variable: sum33 in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras1.php on line 351
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined index: valform in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 98
+[12-Jun-2018 15:58:38 America/Lima] PHP Notice:  Undefined index: cod in /home/farmasi1/public_html/comercial_fmariarosa/principal/movimientos/consulta_salidas_varias/consult_compras2.php on line 99
+[05-May-2019 10:04:47 America/Lima] Caducidad: 1440
+[05-May-2019 10:04:47 America/Lima] Caducidad después: 86400
+[05-May-2019 10:04:47 America/Lima] Caducidad: 1440
+[05-May-2019 10:04:47 America/Lima] Caducidad después: 86400
+[05-May-2019 10:04:47 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[05-May-2019 10:04:47 America/Lima] Cantidad de compra: f20
+[05-May-2019 10:04:47 America/Lima] Stock actual: 70 70
+[05-May-2019 10:04:47 America/Lima] Caducidad: 1440
+[05-May-2019 10:04:47 America/Lima] Caducidad después: 86400
+[05-May-2019 10:04:51 America/Lima] Caducidad: 1440
+[05-May-2019 10:04:51 America/Lima] Caducidad después: 86400
+[05-May-2019 10:04:51 America/Lima] Caducidad: 1440
+[05-May-2019 10:04:51 America/Lima] Caducidad después: 86400
+[05-May-2019 10:04:52 America/Lima] Caducidad: 1440
+[05-May-2019 10:04:52 America/Lima] Caducidad después: 86400
+[05-May-2019 10:04:52 America/Lima] SELECT stopro, s000 stock_loc FROM producto where codpro = '8132'
+[05-May-2019 10:04:52 America/Lima] Cantidad de compra: f20
+[05-May-2019 10:04:52 America/Lima] Stock actual: 70 70
+[05-May-2019 10:04:52 America/Lima] onclick="alert('No existe suficiente stock del producto para anular la compra');"
+[05-May-2019 10:04:52 America/Lima] Caducidad: 1440
+[05-May-2019 10:04:52 America/Lima] Caducidad después: 86400
